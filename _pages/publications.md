@@ -23,7 +23,7 @@ converter-interfaced generations,", **International Journal of Electrical Power 
 * **Bendong Tan**, Jun Yang, et al. "A deep imbalanced learning framework for transient stability assessment of power system,”, **IEEE Access**, vol.7, pp.81759-81769, 2019.    
   
 # Conference Paper
-* **Bendong Tan**, Junbo Zhao, et al., “Time-varying inertia estimation for inverter-based Resources,”, in **2023 IEEE Power & Energy Society General Meeting (PESGM)**, 2023.
+* **Bendong Tan**, Junbo Zhao, et al., “Time-varying inertia estimation for inverter-based resources,”, in **2023 IEEE Power & Energy Society General Meeting (PESGM)**, 2023.
 * **Bendong Tan**, Junbo Zhao, et al., “Explainable Bayesian neural network for probabilistic transient stability analysis considering wind energy,”, in **2022 IEEE Power & Energy Society General Meeting (PESGM)**, pp. 1-5, 2022. <font color=red>(Best Paper Award)</font>
 * **Bendong Tan**, Junbo Zhao, et al., “Interpretable data-driven probabilistic power system load margin assessment with uncertain renewable energy and loads,”, in **11th International Conference on Innovative Smart Grid Technologies (Asia)**, 2022. <font color=red>(Best Paper Award)</font>
 * **Bendong Tan**, Junbo Zhao, et al., “Extended frequency divider for bus frequency estimation considering virtual inertia from DFIGs,”, in **2021 IEEE PES Innovative Smart Grid Technologies Conference - Latin America (ISGT Latin America)**, pp. 1-5, 2021.
