@@ -6,6 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 # Journal Paper
+* **Bendong Tan**, Junbo Zhao, et al., “Transferable deep kernel emulator for probabilistic load margin assessment with topology changes, uncertain renewable generations and loads,”, **IEEE Transactions on Power Systems**, 2022.
 * **Bendong Tan**, Junbo Zhao, et al., “Transferable deep kernel emulator for probabilistic load margin assessment with topology changes, uncertain renewable generations and loads,”, **IEEE Transactions on Power Systems**, 2022.[[Link](https://ieeexplore.ieee.org/document/9996972)]
 * **Bendong Tan**, Junbo Zhao, et al., “Data-driven time-varying inertia estimation of inverter-based resources,”, **IEEE Transactions on Power Systems**, 2022.[[Link](https://ieeexplore.ieee.org/document/9990924)]
 * **Bendong Tan**, Junbo Zhao, et al., “A general decentralized dynamic state estimation with synchronous generator magnetic saturation,”, **IEEE Transactions on Power Systems**, 2022.[[Link](https://ieeexplore.ieee.org/document/9926125)]
