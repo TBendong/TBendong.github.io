@@ -23,7 +23,8 @@ author_profile: true
 # News
 
 ## 2023
-* 26/02/2022 Our paper "Amortized Bayesian parameter estimation approach for WECC composite load model" has been accepted to IEEE Transactions on Power Systems.
+* 07/03/2023 Received <font color=red>2022 Outstanding Reviewer</font> from IEEE Transactions on Power Systems!
+* 26/02/2023 Our paper "Amortized Bayesian parameter estimation approach for WECC composite load model" has been accepted to IEEE Transactions on Power Systems.
 * 13/02/2023 Our paper "A general decentralized dynamic state estimation with synchronous generator magnetic saturation" has been listed as one of the most popular papers in IEEE Transactions on Power Systems.
 * 29/01/2023 Our paper "Time-varying inertia estimation for inverter-based resources" has been accepted to 2023 IEEE PES General Meeting.
 
