@@ -23,7 +23,7 @@ author_profile: true
 # News
 
 ## 2023
-* 11/04/2023 Received <font color=red>the Excellence GE Fellowship </font> (only two recipients in ECE) from School of Engineering!
+* 11/04/2023 Received <font color=red> Excellence GE Fellowship </font> (only two recipients in ECE) from School of Engineering!
 * 07/03/2023 Received <font color=red>2022 Outstanding Reviewer</font> from IEEE Transactions on Power Systems!
 * 26/02/2023 Our paper "Amortized Bayesian parameter estimation approach for WECC composite load model" has been accepted to IEEE Transactions on Power Systems.
 * 13/02/2023 Our paper "A general decentralized dynamic state estimation with synchronous generator magnetic saturation" has been listed as one of the most popular papers in IEEE Transactions on Power Systems.
