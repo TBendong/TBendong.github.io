@@ -18,6 +18,7 @@ author_profile: true
 * IEEE Open Access Journal of Power and Energy
 * International Journal of Electrical Power and Energy Systems
 * CSEE Journal of Power and Energy Systems 
+* Journal of Modern Power Systems and Clean Energy
 * IET Generation, Transmission & Distribution 
 
 # News
