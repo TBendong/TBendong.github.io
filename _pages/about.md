@@ -25,7 +25,7 @@ author_profile: true
 
 ## 2023
 * 04/05/2023 Our paper "Debiased uncertainty quantification approach for probabilistic transient stability assessment" has been accepted to IEEE Transactions on Power Systems.
-* 11/04/2023 Received <font color=red> Excellence GE Fellowship </font> (only two recipients in ECE) from School of Engineering, University of Connecticut!
+* 11/04/2023 Received <font color=red> Excellence GE Fellowship </font> (only three recipients in ECE) from School of Engineering, University of Connecticut!
 * 07/03/2023 Received <font color=red>2022 Outstanding Reviewer</font> from IEEE Transactions on Power Systems!
 * 26/02/2023 Our paper "Amortized Bayesian parameter estimation approach for WECC composite load model" has been accepted to IEEE Transactions on Power Systems.
 * 13/02/2023 Our paper "A general decentralized dynamic state estimation with synchronous generator magnetic saturation" has been listed as one of the most popular papers in IEEE Transactions on Power Systems.
