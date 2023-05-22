@@ -26,23 +26,3 @@ redirect_from:
 * Ph.D in  Electrical Engineering, University of Connecticut, 2022/01 - Now  
 (1) Supervisor: Prof.Junbo Zhao  
 (2) Research Interest: Low Inertia Power System Identification, Monitoring and Control
-
-## Projects 
-* **1. Intelligent fault analysis system for the Hubei Power Grid (Contributor, Jul 2016 – Jul 2017)**  
-**Introduction:** this project was funded by the State Grid Hubei Electric Corporation, whose aim was to develop a desicion system to provide service of fault diagnosis and security analysis for the Hubei Power Grid.  
-(1) A fault location algorithm was designed based on complex information in power system  
-(2) The interface of algorithms was developed for the intelligent fault analysis system
-*  **2. Research on the transient stability of the Hubei Power Grid (Maintainer, Jun 2017 – Jun 2018)**  
-**Introduction:** this project was funded by the State Grid Hubei Electric Corporation, whose aim was to utilize data mining technology to assess transient stability of the Hubei Power Grid.  
-(1) A program was developed to implement automatic batch time domain simulation of PSASP for the Hubei Power Grid  
-(2) The feature selection method was studied for post-fault monitoring data of power system  
-(3) Transient stability association rules were analyzed to improve interpretability for security of the Hubei Power Grid
-* **3. Sakura Science Exchange Program of Sophia University in Japan(Aug 2018)**  
-**Introduction:** this program was funded by the Japan Science and Technology Agency, contents of the program included: simulation of automotive engine control strategy, machine learning lectures and visiting to apanese high-tech enterprises.  
-(1) Based on measured data, neural network was used to identify automobile engine parameters, and the air-fuel ratio control model was constructed.
-* **4. Research on the integrated energy system (Maintainer, Jan 2019 – Dec 2020)**  
-**Introduction:** this project was funded by the headquarter of State Grid Corporation, whose aim was to evaluate feasibility of the flexible HVDC transmission in the integrated energy system.  
-(1) Being responsible for the application of the project and the design of the technical scheme of the project
-* **5. Human-in-the-loop hybrid intelligence of power system (Contributor, Jul 2019 – Jul 2023)**  
-**Introduction:** this project was funded by the National Natural Key R&D Program of China, whose aim was to establish a human-in-the-loop hybrid enhanced intelligent model for operation and control of power system to reduce the risk caused by the strategic mismatch.  
-(1) Being responsible for the design of the technical scheme of the subtask to realize man-machine coordination in power system operation and control
