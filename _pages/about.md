@@ -25,6 +25,7 @@ author_profile: true
 # News
 
 ## 2023
+* 04/05/2023 Our paper "Analytic input convex neural networks-based model predictive control for power system transient stability enhancement" received <font color=red>Best Paper Award</font> from 2023 IEEE Power & Energy Society General Meeting (GM), Orlando, USA!.
 * 04/05/2023 Our paper "Debiased uncertainty quantification approach for probabilistic transient stability assessment" has been accepted to IEEE Transactions on Power Systems.
 * 11/04/2023 Received <font color=red> Excellence GE Fellowship </font> (only three recipients in ECE) from School of Engineering, University of Connecticut!
 * 07/03/2023 Received <font color=red>2022 Outstanding Reviewer</font> from IEEE Transactions on Power Systems!
@@ -36,9 +37,9 @@ author_profile: true
 * 18/12/2022 Our paper "Transferable deep kernel emulator for probabilistic load margin assessment with topology changes, uncertain renewable generations and loads" has been accepted to IEEE Transactions on Power Systems.
 * 12/12/2022 Our paper "Data-driven time-varying inertia estimation of inverter-based resources" has been accepted to IEEE Transactions on Power Systems.
 * 17/10/2022 Our paper "A general decentralized dynamic state estimation with synchronous generator magnetic saturation" has been accepted to IEEE Transactions on Power Systems.
-* 11/10/2022 Received <font color=red>Best Paper Award</font> from 11th International Conference on Innovative Smart Grid Technologies, Asia!
+* 11/10/2022 Our paper "Interpretable data-driven probabilistic power system load margin assessment with uncertain renewable energy and loads"  received <font color=red>Best Paper Award</font> from 11th International Conference on Innovative Smart Grid Technologies, Asia!
 * 08/07/2022 Paper "Power system inertia estimation: review of methods and the impacts of converter-interfaced generations" received <font color=red>2022 Best Journal Paper Award</font>  (3 out of 1500+ paper) of International Journal of Electrical Power & Energy Systems!
-* 16/05/2022 Received <font color=red>Best Paper Award</font> from 2022 IEEE Power & Energy Society General Meeting (GM), Denver, USA!
+* 16/05/2022 Our paper "Explainable Bayesian neural network for probabilistic transient stability analysis considering wind energy" Received <font color=red>Best Paper Award</font> from 2022 IEEE Power & Energy Society General Meeting (GM), Denver, USA!
 * 01/02/2022 Received <font color=red>2021 Outstanding Reviewer</font> from IEEE Transactions on Power Systems!
 
 ## 2021
