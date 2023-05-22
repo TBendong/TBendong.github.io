@@ -5,9 +5,10 @@ author_profile: true
 
 ---
 {% include base_path %}
-# Journal Paper
 For a complete list of publications, please refer to <a href="https://scholar.google.com/citations?user=FdEP8xgAAAAJ&hl=en" itemprop="sameAs"><i class="ai ai-fw ai-google-scholar-square" aria-hidden="true"></i>Google Scholar</a>.
+
 ---
+# Journal Paper
 * **Bendong Tan**, Junbo Zhao, “Debiased uncertainty quantification approach for probabilistic transient stability assessment,”, **IEEE Transactions on Power Systems**, 2023.
 * **Bendong Tan**, Junbo Zhao, et al., “Amortized Bayesian parameter estimation approach for WECC composite load model,”, **IEEE Transactions on Power Systems**, 2023.[[Link](https://ieeexplore.ieee.org/document/10056325)]
 * **Bendong Tan**, Junbo Zhao, et al., “Transferable deep kernel emulator for probabilistic load margin assessment with topology changes, uncertain renewable generations and loads,”, **IEEE Transactions on Power Systems**, 2022.[[Link](https://ieeexplore.ieee.org/document/9996972)]
