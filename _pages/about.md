@@ -8,7 +8,7 @@ author_profile: true
 ---
 {% include base_path %}
 # About
-&emsp; Hi! I am a third-year PHD student at University of Connecticut, advised by Prof. [Junbo Zhao (https://cpes.lab.uconn.edu/advisor/)]. I receieved my Bachelor and Master's degrees in Electrical Engineering in 2017 and 2020 respectively from Wuhan University, Wuhan. My research interests include low-inertia power system identification, monitoring and control.    
+&emsp; Hi! I am a third-year PHD student at University of Connecticut, advised by Prof. [Junbo Zhao](https://cpes.lab.uconn.edu/advisor/). I receieved my Bachelor and Master's degrees in Electrical Engineering in 2017 and 2020 respectively from Wuhan University, Wuhan. My research interests include low-inertia power system identification, monitoring and control.    
 
 # Journal Reviewer
 * IEEE Transactions on Power Systems
