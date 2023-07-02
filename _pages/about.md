@@ -20,7 +20,8 @@ author_profile: true
 * International Journal of Electrical Power and Energy Systems
 * CSEE Journal of Power and Energy Systems 
 * Journal of Modern Power Systems and Clean Energy
-* IET Generation, Transmission & Distribution 
+* IET Generation, Transmission & Distribution
+* IEEE Transactions on Circuits and Systems II: Express Briefs 
 
 # News
 
