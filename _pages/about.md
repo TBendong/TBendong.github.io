@@ -26,33 +26,33 @@ author_profile: true
 # News
 
 ## 2023
-* 22/05/2023 Started the summer internship at National Renewable Energy Laboratory.
-* 04/05/2023 Our paper "Analytic input convex neural networks-based model predictive control for power system transient stability enhancement" received <font color=red>Best Paper Award</font> from 2023 IEEE Power & Energy Society General Meeting (GM), Orlando, USA!.
-* 04/05/2023 Our paper "Debiased uncertainty quantification approach for probabilistic transient stability assessment" has been accepted to IEEE Transactions on Power Systems.
-* 11/04/2023 Received <font color=red> Excellence GE Fellowship </font> (only three recipients in ECE) from School of Engineering, University of Connecticut!
-* 07/03/2023 Received <font color=red>2022 Outstanding Reviewer</font> from IEEE Transactions on Power Systems!
-* 26/02/2023 Our paper "Amortized Bayesian parameter estimation approach for WECC composite load model" has been accepted to IEEE Transactions on Power Systems.
-* 13/02/2023 Our paper "A general decentralized dynamic state estimation with synchronous generator magnetic saturation" has been listed as one of the most popular papers in IEEE Transactions on Power Systems.
-* 29/01/2023 Our paper "Time-varying inertia estimation for inverter-based resources" has been accepted to 2023 IEEE PES General Meeting.
+- **[2023-05-22]** Started the summer internship at National Renewable Energy Laboratory.
+- **[2023-05-04]** Our paper "Analytic input convex neural networks-based model predictive control for power system transient stability enhancement" received <font color=red>Best Paper Award</font> from 2023 IEEE Power & Energy Society General Meeting (GM), Orlando, USA!.
+- **[2023-05-04]** Our paper "Debiased uncertainty quantification approach for probabilistic transient stability assessment" has been accepted to IEEE Transactions on Power Systems.
+- **[2023-04-11]** Received <font color=red> Excellence GE Fellowship </font> (only three recipients in ECE) from School of Engineering, University of Connecticut!
+- **[2023-03-07]** Received <font color=red>2022 Outstanding Reviewer</font> from IEEE Transactions on Power Systems!
+- **[2023-02-26]** Our paper "Amortized Bayesian parameter estimation approach for WECC composite load model" has been accepted to IEEE Transactions on Power Systems.
+- **[2023-02-13]** Our paper "A general decentralized dynamic state estimation with synchronous generator magnetic saturation" has been listed as one of the most popular papers in IEEE Transactions on Power Systems.
+- **[2023-01-29]** Our paper "Time-varying inertia estimation for inverter-based resources" has been accepted to 2023 IEEE PES General Meeting.
 
 ## 2022
-* 18/12/2022 Our paper "Transferable deep kernel emulator for probabilistic load margin assessment with topology changes, uncertain renewable generations and loads" has been accepted to IEEE Transactions on Power Systems.
-* 12/12/2022 Our paper "Data-driven time-varying inertia estimation of inverter-based resources" has been accepted to IEEE Transactions on Power Systems.
-* 17/10/2022 Our paper "A general decentralized dynamic state estimation with synchronous generator magnetic saturation" has been accepted to IEEE Transactions on Power Systems.
-* 11/10/2022 Our paper "Interpretable data-driven probabilistic power system load margin assessment with uncertain renewable energy and loads"  received <font color=red>Best Paper Award</font> from 11th International Conference on Innovative Smart Grid Technologies, Asia!
-* 08/07/2022 Paper "Power system inertia estimation: review of methods and the impacts of converter-interfaced generations" received <font color=red>2022 Best Journal Paper Award</font>  (3 out of 1500+ paper) of International Journal of Electrical Power & Energy Systems!
-* 16/05/2022 Our paper "Explainable Bayesian neural network for probabilistic transient stability analysis considering wind energy" Received <font color=red>Best Paper Award</font> from 2022 IEEE Power & Energy Society General Meeting (GM), Denver, USA!
-* 01/02/2022 Received <font color=red>2021 Outstanding Reviewer</font> from IEEE Transactions on Power Systems!
+- **[2022-12-18]** Our paper "Transferable deep kernel emulator for probabilistic load margin assessment with topology changes, uncertain renewable generations and loads" has been accepted to IEEE Transactions on Power Systems.
+- **[2022-12-12]** Our paper "Data-driven time-varying inertia estimation of inverter-based resources" has been accepted to IEEE Transactions on Power Systems.
+- **[2022-10-17]** Our paper "A general decentralized dynamic state estimation with synchronous generator magnetic saturation" has been accepted to IEEE Transactions on Power Systems.
+- **[2022-10-11]** Our paper "Interpretable data-driven probabilistic power system load margin assessment with uncertain renewable energy and loads"  received <font color=red>Best Paper Award</font> from 11th International Conference on Innovative Smart Grid Technologies, Asia!
+- **[2022-08-07]** Paper "Power system inertia estimation: review of methods and the impacts of converter-interfaced generations" received <font color=red>2022 Best Journal Paper Award</font>  (3 out of 1500+ paper) of International Journal of Electrical Power & Energy Systems!
+- **[2022-05-16]** Our paper "Explainable Bayesian neural network for probabilistic transient stability analysis considering wind energy" Received <font color=red>Best Paper Award</font> from 2022 IEEE Power & Energy Society General Meeting (GM), Denver, USA!
+- **[2022-02-01]** Received <font color=red>2021 Outstanding Reviewer</font> from IEEE Transactions on Power Systems!
 
 ## 2021
-* 01/12/2021 Our paper "Distributed frequency divider for power system bus frequency online estimation considering virtual inertia from DFIGs" has been accepted to IEEE Journal on Emerging and Selected Topics in Circuits and Systems.
-* 01/12/2021 Our paper "Decentralized data-driven estimation of generator rotor speed and inertia constant based on adaptive unscented Kalman filter" has been accepted to International Journal of Electrical Power and Energy Systems.
-* 01/07/2021 Our paper "Power system inertia estimation: review of methods and the impacts of converter-interfaced generations" has been accepted to International Journal of Electrical Power and Energy Systems.
+- **[2021-12-01]** Our paper "Distributed frequency divider for power system bus frequency online estimation considering virtual inertia from DFIGs" has been accepted to IEEE Journal on Emerging and Selected Topics in Circuits and Systems.
+- **[2021-12-01]** Our paper "Decentralized data-driven estimation of generator rotor speed and inertia constant based on adaptive unscented Kalman filter" has been accepted to International Journal of Electrical Power and Energy Systems.
+- **[2021-07-01]** Our paper "Power system inertia estimation: review of methods and the impacts of converter-interfaced generations" has been accepted to International Journal of Electrical Power and Energy Systems.
 
 ## 2020
-* 06/08/2020 Our paper "Adaptive integrating assessment method for transient stability of power system considering missing data" has been accepted to Automation of Electric Power Systems (in Chinese).
-* 16/07/2020 My Electrical Engineering internship at Hunan Electric Power Research Institute has been started.
-* 01/06/2020 Our paper "Spatial-temporal Adaptive Transient Stability Assessment for Power System under Missing Data" has been accepted to International Journal of Electrical Power and Energy Systems.
-* 18/05/2020 The master defense has been done online! My master in Wuhan University is finished!
-* 16/01/2020 My academic website has been built!
+- **[2020-08-06]** Our paper "Adaptive integrating assessment method for transient stability of power system considering missing data" has been accepted to Automation of Electric Power Systems (in Chinese).
+- **[2020-07-16]** My Electrical Engineering internship at Hunan Electric Power Research Institute has been started.
+- **[2020-06-01]** Our paper "Spatial-temporal Adaptive Transient Stability Assessment for Power System under Missing Data" has been accepted to International Journal of Electrical Power and Energy Systems.
+- **[2020-05-18]** The master defense has been done online! My master in Wuhan University is finished!
+- **[2020-01-16]** My academic website has been built!
 
