@@ -26,8 +26,8 @@ author_profile: true
 # News
 
 ## 2023
+- **[2023-07-20]** Received <font color=red>Conference Participation Award</font> from The Graduate School of Uconn.
 - **[2023-05-22]** Started the summer internship at National Renewable Energy Laboratory.
-- **[2023-05-04]** Our paper "Analytic input convex neural networks-based model predictive control for power system transient stability enhancement" received <font color=red>Best Paper Award</font> from 2023 IEEE Power & Energy Society General Meeting (GM), Orlando, USA!.
 - **[2023-05-04]** Our paper "Debiased uncertainty quantification approach for probabilistic transient stability assessment" has been accepted to IEEE Transactions on Power Systems.
 - **[2023-04-11]** Received <font color=red> Excellence GE Fellowship </font> (only three recipients in ECE) from School of Engineering, University of Connecticut!
 - **[2023-03-07]** Received <font color=red>2022 Outstanding Reviewer</font> from IEEE Transactions on Power Systems!
