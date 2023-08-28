@@ -26,9 +26,10 @@ author_profile: true
 # News
 
 ## 2023
+- **[2023-08-26]** Bendong has successfully passed the PhD qualification examination and has been elevated to a PhD candidate in UCONN. 
 - **[2023-07-20]** Received <font color=red>Conference Participation Award</font> from the Graduate School of UCONN.
 - **[2023-05-22]** Started the summer internship at National Renewable Energy Laboratory.
-- **[2023-05-04]** Our paper "Debiased uncertainty quantification approach for probabilistic transient stability assessment" has been accepted to IEEE Transactions on Power Systems.
+- **[2023-05-04]** Our paper "Debiased uncertainty quantification approach for probabilistic transient stability assessment" has been accepted by IEEE Transactions on Power Systems.
 - **[2023-04-11]** Received <font color=red> Excellence GE Fellowship </font> (only three recipients in ECE) from School of Engineering, University of Connecticut!
 - **[2023-03-07]** Received <font color=red>2022 Outstanding Reviewer</font> from IEEE Transactions on Power Systems!
 - **[2023-02-26]** Our paper "Amortized Bayesian parameter estimation approach for WECC composite load model" has been accepted to IEEE Transactions on Power Systems.
