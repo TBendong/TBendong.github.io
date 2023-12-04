@@ -23,6 +23,7 @@ author_profile: true
 * IET Generation, Transmission & Distribution
 * IEEE Transactions on Circuits and Systems II: Express Briefs
 * Electric Power Systems Research
+* IEEE ACCESS
 
 # News
 
