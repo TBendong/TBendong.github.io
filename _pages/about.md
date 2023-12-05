@@ -24,6 +24,8 @@ author_profile: true
 * IEEE Transactions on Circuits and Systems II: Express Briefs
 * Electric Power Systems Research
 * IEEE ACCESS
+* IET Smart Grid
+* IET Renewable Power Generation
 
 # News
 
