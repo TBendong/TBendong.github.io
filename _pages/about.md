@@ -30,7 +30,7 @@ author_profile: true
 # News
 
 ## 2023
-- **[2023-12-21]** Received 2023 Outstanding Reviewer from IEEE Transactions on Power Systems!
+- **[2023-12-21]** Received <font color=red>2023 Outstanding Reviewer</font> from IEEE Transactions on Power Systems!
 - **[2023-08-28]** Bendong has successfully passed the PhD qualification examination and has been elevated to a PhD candidate in UCONN. 
 - **[2023-07-20]** Received <font color=red>Conference Participation Award</font> from the Graduate School of UCONN.
 - **[2023-05-22]** Started the summer internship at National Renewable Energy Laboratory.
