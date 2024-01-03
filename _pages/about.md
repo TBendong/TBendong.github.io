@@ -30,6 +30,9 @@ author_profile: true
 # News
 
 ## 2023
+- **[2023-12-21]** Received <font color=red>the 2023 IEEE PES Connecticut Chapter Outstanding Young Engineer Award</font>!
+
+## 2023
 - **[2023-12-21]** Received <font color=red>2023 Outstanding Reviewer</font> from IEEE Transactions on Power Systems!
 - **[2023-08-28]** Bendong has successfully passed the PhD qualification examination and has been elevated to a PhD candidate in UCONN. 
 - **[2023-07-20]** Received <font color=red>Conference Participation Award</font> from the Graduate School of UCONN.
