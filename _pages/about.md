@@ -29,8 +29,8 @@ author_profile: true
 
 # News
 
-## 2023
-- **[2023-12-21]** Received <font color=red>the 2023 IEEE PES Connecticut Chapter Outstanding Young Engineer Award</font>!
+## 2024
+- **[2024-01-03]** Received <font color=red>the 2023 IEEE PES Connecticut Chapter Outstanding Young Engineer Award</font>!
 
 ## 2023
 - **[2023-12-21]** Received <font color=red>2023 Outstanding Reviewer</font> from IEEE Transactions on Power Systems!
