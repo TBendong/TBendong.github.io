@@ -9,6 +9,8 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 
 ---
 ## 📝 Journal Papers 
+- [J18] Jiahao Liu, Cheng Wang, Junbo Zhao, **Bendong Tan** and Tianshu Bi, “Simplified transient model of
+DFIG wind turbine for power system frequency dynamics analysis,”, **IEEE Transactions on Power Systems**, 2023.
 - [J17] **Bendong Tan**, Junbo Zhao, “Debiased uncertainty quantification approach for probabilistic transient stability assessment,”, **IEEE Transactions on Power Systems**, 2023.[[Link](https://ieeexplore.ieee.org/document/10124366)]
 - [J16] Maolin Zhu, Hao Liu, Junbo Zhao, **Bendong Tan**, et al., "Dynamic state estimation for DFIG with unknown inputs based on cubature Kalman filter and adaptive interpolation," **Journal of Modern Power Systems and Clean Energy**.[[Link](https://ieeexplore.ieee.org/document/10105888)]
 - [J15] **Bendong Tan**, Junbo Zhao, et al., “Amortized Bayesian parameter estimation approach for WECC composite load model,”, **IEEE Transactions on Power Systems**, 2023.[[Link](https://ieeexplore.ieee.org/document/10056325)]
