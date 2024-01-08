@@ -26,6 +26,7 @@ author_profile: true
 * IEEE ACCESS
 * IET Smart Grid
 * IET Renewable Power Generation
+* Applied Energy
 
 # News
 
