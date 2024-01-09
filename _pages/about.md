@@ -27,6 +27,7 @@ author_profile: true
 * IET Smart Grid
 * IET Renewable Power Generation
 * Applied Energy
+* IEEE Transactions on Neural Networks and Learning Systems
 
 # News
 
