@@ -28,6 +28,7 @@ author_profile: true
 * IET Renewable Power Generation
 * Applied Energy
 * IEEE Transactions on Neural Networks and Learning Systems
+* IEEE Transactions on Cybernetics
 
 # News
 
