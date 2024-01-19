@@ -10,7 +10,9 @@ Bendong has dedicated himself to advancing techniques related to uncertainty in 
 </center>
 <div>
     <img src='/images/Uncertainty Quantification.svg' alt="network" style="width: 20%; float: left; margin-right: 10px;">
-    <p>这里是图片右侧的文字内容。你可以继续添加更多的文字，它们将自动排列在图片的右侧。</p>
+    <p>In my research of uncertainty in power system, I not only focus on power system applications, but also its algorithm development.
+Furthermore, I aim to build a systematic framework in solving a general uncertainty-related problems.
+Now, the framework includes uncertainty modeling, forward uncertainty quantification (UQ), inverse uncertainty quantification and decision-making under uncertainty.</p>
 </div>
 
 
