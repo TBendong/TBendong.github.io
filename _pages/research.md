@@ -9,7 +9,7 @@ Bendong has dedicated himself to advancing techniques related to uncertainty in 
     <h2>Research Framework</h2>
 </center>
 <div>
-    <img src='/images/Uncertainty Quantification.png'alt="network" style="width: 40%; display: block; margin-left: auto; margin-right: auto;">
+    <img src='/images/Uncertainty Quantification.png' alt="network" style="width: 40%; display: block; margin-left: auto; margin-right: auto;">
     <p style="text-align: left;">I concentrate on both practical applications within the system and the development of underlying algorithms. A comprehensive framework has been established to address a broad spectrum of uncertainty-related issues in power systems. This framework encompasses both forward and inverse uncertainty quantification methodologies.</p>
 </div>
 <center>
