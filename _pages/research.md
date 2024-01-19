@@ -1,9 +1,6 @@
 ---
-layout: single
-read_time: false
-comments: true
-share: false
-permalink: /
+layout: archive
+permalink: /research/
 author_profile: true
 ---
 {% include base_path %}
