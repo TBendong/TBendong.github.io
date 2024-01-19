@@ -10,8 +10,8 @@ Bendong has dedicated himself to advancing techniques related to uncertainty in 
 ---
 <center>
     <h2>Research Framework</h2>
-    <img src='/images/Photo.jpg' alt="network" width="20%">
 </center>
+ <img src='/images/Photo.jpg' alt="network" width="20%">
 
 
 
