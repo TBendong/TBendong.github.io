@@ -18,7 +18,7 @@ Bendong has dedicated himself to advancing techniques related to uncertainty in 
 </center>
 <div>
     <img src='/images/Forward problem.png' alt="network" style="width: 40%; float: left; margin-right: 2px;">
-    <p>I concentrate on both practical applications within the system and the development of underlying algorithms. A comprehensive framework has been established to address a broad spectrum of uncertainty-related issues in power systems. This framework encompasses both forward and inverse uncertainty quantification methodologies.</p>
+    <p>orward problem primarily addresses the propagation of input uncertainties through computational models to ascertain their consequent effects on the outputs. This process involves evaluating the sensitivity of the system’s responses to variations in inputs. The application of forward UQ is fundamental in appraising system behavior under variable scenarios, thereby serving as an invaluable tool in risk analysis and probabilistic stability assessment in power systems.</p>
 </div>
 
 
