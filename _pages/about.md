@@ -7,12 +7,12 @@ permalink: /
 author_profile: true
 ---
 {% include base_path %}
-# About
+# 🧍‍♂️ Biography
 &emsp; Hi! I am a third-year PhD student at University of Connecticut, advised by Prof. [Junbo Zhao](https://cpes.lab.uconn.edu/advisor/). I receieved my Bachelor and Master's degrees in Electrical Engineering in 2017 and 2020 respectively from Wuhan University, Wuhan. My research interests include low-inertia power system identification, monitoring and control. 
 
 &emsp; I was a recipient of the Outstanding Reviewer of IEEE Transactions on Power Systems in 2021, 2022 and 2023, Best Journal Paper Award of International Journal of Electrical Power & Energy Systems in 2022, the Best Conference Paper Award from IEEE Power & Energy Society General Meeting (GM) in 2021 and 2022, the Best Conference Paper Award from 11th International Conference on Innovative Smart Grid Technologies (Asia) in 2022.
 
-# Journal Reviewer
+# 📖 Journal Reviewer
 * IEEE Transactions on Power Systems
 * IEEE Transactions on Smart Grid
 * IEEE Power Engineering Letters
@@ -30,7 +30,7 @@ author_profile: true
 * IEEE Transactions on Neural Networks and Learning Systems
 * IEEE Transactions on Cybernetics
 
-# News
+# 🔥 News
 
 ## 2024
 - **[2024-01-11]** Received <font color=red>2023 Excellent Reviewer Award</font> from Journal of Modern Power Systems and Clean Energy (MPCE)!
@@ -69,3 +69,5 @@ author_profile: true
 - **[2020-05-18]** The master defense has been done online! My master in Wuhan University is finished!
 - **[2020-01-16]** My academic website has been built!
 
+# 🗺️ Visitor Map
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
