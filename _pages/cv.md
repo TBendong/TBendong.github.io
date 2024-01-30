@@ -21,9 +21,10 @@ CV can be downloaded [here](http://TBendong.github.io/files/CV-Bendong Tan.pdf) 
 (2) Ranking: 9/189 (top 5%)  
 (3) Area of Study: Applications of Artificial Intelligence in Power System Stability and Control  
 (4) Supervisor: Prof.Yuanzhang Sun & Prof.Jun Yang
-* Ph.D in  Electrical Engineering, Mississipppi State University, 2021/08 - 2021/12  
+* Ph.D in  Electrical Engineering, Mississippi State University, 2021/08 - 2021/12  
 (1) Supervisor: Prof.Junbo Zhao  
 (2) Research Interest: Low Inertia Power System Identification, Monitoring and Control
-* Ph.D in  Electrical Engineering, University of Connecticut, 2022/01 - Now  
-(1) Supervisor: Prof.Junbo Zhao  
+* Ph.D in  Electrical Engineering, University of Connecticut, 2022/01 - Now 
+(1)  Grade Point Average (GPA): 4.00/4.00    
+(2) Supervisor: Prof.Junbo Zhao
 (2) Research Interest: Low Inertia Power System Identification, Monitoring and Control
