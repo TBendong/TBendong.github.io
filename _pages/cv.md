@@ -24,7 +24,7 @@ CV can be downloaded [here](http://TBendong.github.io/files/CV-Bendong Tan.pdf) 
 * Ph.D in  Electrical Engineering, Mississippi State University, 2021/08 - 2021/12  
 (1) Supervisor: Prof.Junbo Zhao  
 (2) Research Interest: Low Inertia Power System Identification, Monitoring and Control
-* Ph.D in  Electrical Engineering, University of Connecticut, 2022/01 - Now 
-(1)  Grade Point Average (GPA): 4.00/4.00    
-(2) Supervisor: Prof.Junbo Zhao
+* Ph.D in  Electrical Engineering, University of Connecticut, 2022/01 - Now  
+(1) Grade Point Average (GPA): 4.00/4.00  
+(2) Supervisor: Prof.Junbo Zhao  
 (2) Research Interest: Low Inertia Power System Identification, Monitoring and Control
