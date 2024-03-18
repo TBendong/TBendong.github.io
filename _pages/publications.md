@@ -9,13 +9,13 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 
 ---
 ## 📝 Journal Papers 
-- [J17] **Bendong Tan**, Junbo Zhao, "Data-driven adaptive unscented Kalman filter for time-varying inertia and damping estimation of utility-scale IBRs considering current limiter,", **IEEE Transactions on Power Systems**, 2024.
+- [J17] **Bendong Tan**, Junbo Zhao, “Data-driven adaptive unscented Kalman filter for time-varying inertia and damping estimation of utility-scale IBRs considering current limiter,”, **IEEE Transactions on Power Systems**, 2024.
 - [J18] Jiahao Liu, Cheng Wang, Junbo Zhao, **Bendong Tan** and Tianshu Bi, “Simplified transient model of
-DFIG wind turbine for power system frequency dynamics analysis,", **IEEE Transactions on Power Systems**, 2023.
-- [J17] **Bendong Tan**, Junbo Zhao, "Debiased uncertainty quantification approach for probabilistic transient stability assessment,", **IEEE Transactions on Power Systems**, 2023.[[Link](https://ieeexplore.ieee.org/document/10124366)]
-- [J16] Maolin Zhu, Hao Liu, Junbo Zhao, **Bendong Tan**, et al., "Dynamic state estimation for DFIG with unknown inputs based on cubature Kalman filter and adaptive interpolation," **Journal of Modern Power Systems and Clean Energy**.[[Link](https://ieeexplore.ieee.org/document/10105888)]
+DFIG wind turbine for power system frequency dynamics analysis,”, **IEEE Transactions on Power Systems**, 2023.
+- [J17] **Bendong Tan**, Junbo Zhao, “Debiased uncertainty quantification approach for probabilistic transient stability assessment,", **IEEE Transactions on Power Systems**, 2023.[[Link](https://ieeexplore.ieee.org/document/10124366)]
+- [J16] Maolin Zhu, Hao Liu, Junbo Zhao, **Bendong Tan**, et al., “Dynamic state estimation for DFIG with unknown inputs based on cubature Kalman filter and adaptive interpolation,” **Journal of Modern Power Systems and Clean Energy**.[[Link](https://ieeexplore.ieee.org/document/10105888)]
 - [J15] **Bendong Tan**, Junbo Zhao, et al., “Amortized Bayesian parameter estimation approach for WECC composite load model,”, **IEEE Transactions on Power Systems**, 2023.[[Link](https://ieeexplore.ieee.org/document/10056325)]
-- [J14] Guozhou Zhang, Junbo Zhao, Weihao Hu, Di Cao, **Bendong Tan**, et al., "A novel data-driven self-tuning SVC additional fractional-order sliding mode controller for transient voltage stability with wind generations,", **IEEE Transactions on Power Systems**, 2023.[[Link](https://ieeexplore.ieee.org/document/10005097)].
+- [J14] Guozhou Zhang, Junbo Zhao, Weihao Hu, Di Cao, **Bendong Tan**, et al., “A novel data-driven self-tuning SVC additional fractional-order sliding mode controller for transient voltage stability with wind generations,", **IEEE Transactions on Power Systems**, 2023.[[Link](https://ieeexplore.ieee.org/document/10005097)].
 - [J13] **Bendong Tan**, Junbo Zhao, et al., “Transferable deep kernel emulator for probabilistic load margin assessment with topology changes, uncertain renewable generations and loads,”, **IEEE Transactions on Power Systems**, 2022.[[Link](https://ieeexplore.ieee.org/document/9996972)]
 - [J12] **Bendong Tan**, Junbo Zhao, et al., “Data-driven time-varying inertia estimation of inverter-based resources,”, **IEEE Transactions on Power Systems**, vol. 38, no. 2, pp. 1795-1798, March 2023.[[Link](https://ieeexplore.ieee.org/document/9990924)]
 - [J11] **Bendong Tan**, Junbo Zhao, et al., “A general decentralized dynamic state estimation with synchronous generator magnetic saturation,”, **IEEE Transactions on Power Systems**, vol. 38, no. 1, pp. 960-963, Jan. 2023.[[Link](https://ieeexplore.ieee.org/document/9926125)]
