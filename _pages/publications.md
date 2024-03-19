@@ -9,7 +9,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 
 ---
 ## 📝 Journal Papers 
-- [J17] **Bendong Tan**, Junbo Zhao, “Data-driven adaptive unscented Kalman filter for time-varying inertia and damping estimation of utility-scale IBRs considering current limiter,”, **IEEE Transactions on Power Systems**, 2024.
+- [J19] **Bendong Tan**, Junbo Zhao, “Data-driven adaptive unscented Kalman filter for time-varying inertia and damping estimation of utility-scale IBRs considering current limiter,”, **IEEE Transactions on Power Systems**, 2024.
 - [J18] Jiahao Liu, Cheng Wang, Junbo Zhao, **Bendong Tan** and Tianshu Bi, “Simplified transient model of
 DFIG wind turbine for power system frequency dynamics analysis,”, **IEEE Transactions on Power Systems**, 2023.
 - [J17] **Bendong Tan**, Junbo Zhao, “Debiased uncertainty quantification approach for probabilistic transient stability assessment,", **IEEE Transactions on Power Systems**, 2023.[[Link](https://ieeexplore.ieee.org/document/10124366)]
