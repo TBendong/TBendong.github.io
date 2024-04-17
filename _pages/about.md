@@ -33,6 +33,7 @@ author_profile: true
 # 🔥 News
 
 ## 2024
+- **[2024-03-17]** Received <font color=red>2024 Summer Doctoral Dissertation Fellowship</font> from the Graduate School of UCONN.
 - **[2024-03-17]** Our paper "Data-driven adaptive unscented Kalman filter for time-varying inertia and damping estimation of utility-scale IBRs considering current limiter" has been accepted to IEEE Transactions on Power Systems.
 - **[2024-01-11]** Received <font color=red>2023 Excellent Reviewer Award</font> from Journal of Modern Power Systems and Clean Energy (MPCE)!
 - **[2024-01-03]** Received <font color=red>the 2023 IEEE PES Connecticut Chapter Outstanding Young Engineer Award</font>!
