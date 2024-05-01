@@ -33,10 +33,6 @@ author_profile: true
     text-align: center; /* 图片和文字居中显示 */
     padding: 20px; /* 图片区域的内边距 */
   }
-  .text-side {
-    margin-left: 50%; /* 文字内容从容器的一半开始 */
-    padding: 20px; /* 文字区域的内边距 */
-  }
   img {
     width: 100%; /* 图片宽度调整为100%容器宽度 */
     height: auto; /* 图片高度自动调整 */
@@ -44,6 +40,10 @@ author_profile: true
   figcaption {
     color: #666; /* 说明文字颜色 */
     font-size: 14px; /* 说明文字大小 */
+  }
+  .text-side {
+    overflow: hidden; /* 清除浮动，使文本自动环绕 */
+    padding: 20px; /* 文字区域的内边距 */
   }
 </style>
 </head>
@@ -53,7 +53,7 @@ author_profile: true
   <div class="image-side">
     <figure>
       <img src="/images/Uncertainty Quantification.png" alt="描述性文本">
-      <figcaption>Research framework.</figcaption>
+      <figcaption>This is a caption of the image.</figcaption>
     </figure>
   </div>
   <div class="text-side">
@@ -63,6 +63,7 @@ author_profile: true
 </div>
 </body>
 </html>
+
 
 
 
