@@ -25,7 +25,7 @@ author_profile: true
     background-color: #ccc; /* 灰色背景 */
     padding: 10px; /* 内边距 */
     text-align: center; /* 文本居中 */
-    font-size: 24px; /* 字体大小 */
+    font-size: 20px; /* 字体大小 */
     border-radius: 10px; /* 圆角 */
   }
   .container {
@@ -35,7 +35,7 @@ author_profile: true
     float: right; /* 图片浮动在右侧 */
     width: 50%; /* 图片占用容器的一半宽度 */
     text-align: center; /* 图片居中显示 */
-    padding: 10px; /* 图片区域的内边距 */
+    padding: 5px; /* 图片区域的内边距 */
   }
   img {
     width: 100%; /* 图片宽度调整为容器的100% */
@@ -46,7 +46,7 @@ author_profile: true
     font-size: 16px; /* 说明文字大小 */
   }
   .text-side {
-    padding: 20px; /* 文字区域的内边距 */
+    padding: 5px; /* 文字区域的内边距 */
   }
 </style>
 </head>
@@ -84,7 +84,7 @@ author_profile: true
     background-color: #ccc; /* 灰色背景 */
     padding: 10px; /* 内边距 */
     text-align: center; /* 文本居中 */
-    font-size: 24px; /* 字体大小 */
+    font-size: 20px; /* 字体大小 */
     border-radius: 10px; /* 圆角 */
   }
   .container {
@@ -94,7 +94,7 @@ author_profile: true
     float: right; /* 图片浮动在右侧 */
     width: 50%; /* 图片占用容器的一半宽度 */
     text-align: center; /* 图片居中显示 */
-    padding: 10px; /* 图片区域的内边距 */
+    padding: 5px; /* 图片区域的内边距 */
   }
   img {
     width: 100%; /* 图片宽度调整为容器的100% */
@@ -140,7 +140,7 @@ author_profile: true
     background-color: #ccc; /* 灰色背景 */
     padding: 10px; /* 内边距 */
     text-align: center; /* 文本居中 */
-    font-size: 24px; /* 字体大小 */
+    font-size: 20px; /* 字体大小 */
     border-radius: 10px; /* 圆角 */
   }
   .container {
@@ -150,7 +150,7 @@ author_profile: true
     float: right; /* 图片浮动在右侧 */
     width: 50%; /* 图片占用容器的一半宽度 */
     text-align: center; /* 图片居中显示 */
-    padding: 10px; /* 图片区域的内边距 */
+    padding: 5px; /* 图片区域的内边距 */
   }
   img {
     width: 100%; /* 图片宽度调整为容器的100% */
@@ -161,7 +161,7 @@ author_profile: true
     font-size: 16px; /* 说明文字大小 */
   }
   .text-side {
-    padding: 20px; /* 文字区域的内边距 */
+    padding: 5px; /* 文字区域的内边距 */
   }
   .container {
     overflow: visible; /* 确保内容不被截断 */
