@@ -12,7 +12,7 @@ author_profile: true
         <img src='/images/Uncertainty Quantification.png' alt="network" style="width: 100%; display: block; margin-left: auto; margin-right: auto;">
     </div>
 </div>
-
+<hr class="dashed">
 <center>
     <h2><strong>Research Framework</strong></h2>
 </center>
