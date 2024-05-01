@@ -186,7 +186,7 @@ systems with uncertain wind generation and loads," IEEE Transactions on Power Sy
   </div>
   <div class="text-side">
     <p>Contrarily, the inverse problem is centered on deducing unknown model parameters and elucidating its underlying uncertainties from power system observations, minimizing the disparity between theoretical model response and observed data.</p> 
-    <p>We have developed multiple techniques in power system monitoring and modeling, such as composite load modeling and inertia estimation for IBRs. We try to answer the following questions in general settings: <i> 1) How to identify critical parameters that have large impacts on the system response? 2) How to tackle data quality issues? 3) How to identify a time-varying dynamic system?</i></p>
+    <p>We have developed multiple techniques in power system monitoring and modeling, such as composite load modeling and inertia estimation for inverter-based resources (IBRs). We try to answer the following questions in general settings: <i> 1) How to identify critical parameters that have large impacts on the system response? 2) How to tackle data quality issues? 3) How to identify a time-varying dynamic system?</i></p>
 <h3>Selected Publications</h3> <!-- 添加标题 -->
 <ul> <!-- 开始无序列表 -->
   <li><a href="https://ieeexplore.ieee.org/abstract/document/10477536/">Bendong Tan, Junbo Zhao, "Data-driven adaptive unscented Kalman filter for time-varying inertia and damping estimation of utility-scale IBRs considering current limiter," IEEE Transactions on Power Systems, 2024, doi: 10.1109/TPWRS.2024.3379956.</a></li> <!-- 第一个列表项，替换#为您想要的链接 -->
