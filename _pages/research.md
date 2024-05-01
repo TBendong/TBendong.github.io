@@ -43,7 +43,7 @@ author_profile: true
     font-size: 16px; /* 说明文字大小 */
   }
   .text-side {
-    padding: 20px; /* 文字区域的内边距 */
+    padding: 20px 0 20px 20px; /* 文字区域的内边距 */
   }
 </style>
 </head>
