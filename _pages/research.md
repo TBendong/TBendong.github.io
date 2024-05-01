@@ -88,7 +88,7 @@ author_profile: true
   </div>
   <div class="image-side">
     <figure>
-      <img src="path/to/your/image.jpg" alt="描述性文本">
+      <img src="/images/Uncertainty Quantification.png" alt="描述性文本">
       <figcaption>This is a caption of the image.</figcaption>
     </figure>
   </div>
