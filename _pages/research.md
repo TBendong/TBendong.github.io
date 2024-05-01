@@ -53,7 +53,7 @@ author_profile: true
   <div class="image-side">
     <figure>
       <img src="/images/Uncertainty Quantification.png" alt="描述性文本">
-      <figcaption>This is a caption of the image.</figcaption>
+      <figcaption>Research framework.</figcaption>
     </figure>
   </div>
   <div class="text-side">
