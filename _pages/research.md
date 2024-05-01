@@ -41,7 +41,7 @@ author_profile: true
   .image-side {
     width: 50%; /* 图片区域占一半宽度 */
     text-align: center; /* 图片和文字居中显示 */
-    padding: 10px; /* 图片区域的内边距 */
+    padding: 0; /* 图片区域的内边距 */
   }
   img {
     width: 100%; /* 图片宽度调整为100%容器宽度 */
