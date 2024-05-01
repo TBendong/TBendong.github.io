@@ -165,7 +165,7 @@ author_profile: true
   }
   .container {
     overflow: visible; /* 确保内容不被截断 */
-    padding-bottom: 20px; /* 增加底部内边距 */
+    padding-bottom: 100px; /* 增加底部内边距 */
   }
 </style>
 </head>
