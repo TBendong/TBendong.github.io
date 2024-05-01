@@ -32,7 +32,7 @@ author_profile: true
     float: right; /* 让图片区域浮动在右侧 */
     width: 50%; /* 图片区域占一半宽度 */
     text-align: center; /* 图片和文字居中显示 */
-    padding: 10px 20px 20px 0; /* 图片区域的内边距 */
+    padding: 0px 0px 0px 0px; /* 图片区域的内边距 */
   }
   img {
     width: 100%; /* 图片宽度调整为100%容器宽度 */
@@ -43,7 +43,7 @@ author_profile: true
     font-size: 14px; /* 说明文字大小 */
   }
   .text-side {
-    padding: 20px 0 20px 20px; /* 文字区域的内边距 */
+    padding: 0px 0px 0px 0px; /* 文字区域的内边距 */
   }
 </style>
 </head>
