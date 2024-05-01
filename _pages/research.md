@@ -10,24 +10,6 @@ author_profile: true
     </div>
 </div>
 
-<html lang="zh">
-<head>
-<meta charset="UTF-8">
-<title>自定义直线示例</title>
-<style>
-  .line {
-    width: 100%; /* 线条宽度为整个容器的宽度 */
-    height: 10px; /* 线条的粗细 */
-    background-color: black; /* 线条颜色 */
-    border-top: 5px dashed red; /* 设置线条为虚线，颜色为红色，线宽为5px */
-  }
-</style>
-</head>
-<body>
-<div class="line"></div> <!-- 这是自定义的直线 -->
-</body>
-</html>
-
 
 <html lang="zh">
 <head>
