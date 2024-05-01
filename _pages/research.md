@@ -121,6 +121,7 @@ author_profile: true
   <div class="text-side">
     <p>Forward problem primarily addresses the propagation of input uncertainties through power system to quantify their consequent effects on the outputs. </p>
     <p>We have developed various approaches in risk analysis and probabilistic stability assessment in power systems. Wr try to answer the following questions <i>1): How to efficiently handle massive topology changes in the power system? 2) How to mitigate the “curse of dimensionality" issue for both input and output spaces? </i> </p>
+<h3>相关链接：</h3> <!-- 添加标题 -->
 <ul> <!-- 开始无序列表 -->
   <li><a href="https://ieeexplore.ieee.org/abstract/document/9996972">链接1</a></li> <!-- 第一个列表项，替换#为您想要的链接 -->
   <li><a href="https://ieeexplore.ieee.org/abstract/document/10124366">链接2</a></li> <!-- 第二个列表项，替换#为您想要的链接 -->
