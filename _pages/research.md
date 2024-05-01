@@ -14,7 +14,7 @@ author_profile: true
 </div>
 
 <center>
-    <h2>Research Framework</h2>
+    <h2><strong>Research Framework</strong></h2>
 </center>
 <div style="display: flex; align-items: center; justify-content: space-between;">
     <div style="width: 50%; text-align: left;">
