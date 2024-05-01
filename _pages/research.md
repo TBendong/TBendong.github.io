@@ -121,10 +121,10 @@ author_profile: true
   <div class="text-side">
     <p>Forward problem primarily addresses the propagation of input uncertainties through power system to quantify their consequent effects on the outputs. </p>
     <p>We have developed various approaches in risk analysis and probabilistic stability assessment in power systems. Wr try to answer the following questions <i>1): How to efficiently handle massive topology changes in the power system? 2) How to mitigate the “curse of dimensionality" issue for both input and output spaces? </i> </p>
-<h3>相关链接：</h3> <!-- 添加标题 -->
+<h3>Selected Publications</h3> <!-- 添加标题 -->
 <ul> <!-- 开始无序列表 -->
-  <li><a href="https://ieeexplore.ieee.org/abstract/document/9996972">链接1</a></li> <!-- 第一个列表项，替换#为您想要的链接 -->
-  <li><a href="https://ieeexplore.ieee.org/abstract/document/10124366">链接2</a></li> <!-- 第二个列表项，替换#为您想要的链接 -->
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/9996972">Bendong Tan, Junbo Zhao and Le Xie., "Transferable deep kernel emulator for probabilistic load margin assessment with topology changes, uncertain renewable generations and loads,", IEEE Transactions on Power Systems, vol. 38, no. 6, pp. 5740-5754, Nov. 2023.</a></li> <!-- 第一个列表项，替换#为您想要的链接 -->
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/10124366">Bendong Tan, Junbo Zhao, "Debiased uncertainty quantification approach for probabilistic transient stability assessment,", IEEE Transactions on Power Systems, vol. 38, no. 5, pp. 4954-4957, Sept. 2023.</a></li> <!-- 第二个列表项，替换#为您想要的链接 -->
   <!-- 可以继续添加更多的列表项 -->
 </ul> <!-- 结束无序列表 -->
   </div>
