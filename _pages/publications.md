@@ -11,7 +11,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 ## 📝 Papers in Progress 
 - **Bendong Tan**, Junbo Zhao and Yousu Chen, "Scalable risk assessment of rare events in power
 systems with uncertain wind generation and loads," **IEEE Transactions on Power Systems**, 2024. (Under the second round of review)
-- **Bendong Tan**, Junbo Zhao "Bayesian post-fault power system dynamic
+- **Bendong Tan**, Junbo Zhao, "Bayesian post-fault power system dynamic
 trajectory prediction," **IEEE Transactions on Power Systems**, 2024. (Under review)
 - **Bendong Tan**, Junbo Zhao, Naiyuan Chiang and Nan Duan, ``High-dimension Bayesian parameter estimation for WECC composite load model using realistic event measurements,” **IEEE Transactions on Power Systems**, 2024.  (Under review)
 -  Xingyu Zhao,  **Bendong Tan** and Junbo Zhao, "Power system dynamic state estimation of grid-forming inverters with current limiter," **IEEE Power Engineering Letters**, 2024. (Under review)
