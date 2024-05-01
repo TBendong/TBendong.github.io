@@ -5,11 +5,8 @@ author_profile: true
 ---
 {% include base_path %}
 <div style="display: flex; align-items: center; justify-content: space-between;">
-    <div style="width: 50%; text-align: left;">
+    <div style="width: 100%; text-align: left;">
         <p>Bendong has dedicated himself to advancing techniques related to uncertainty in modern power systems. His work is pivotal in enhancing the efficiency and accuracy of power system operation. It also plays a critical role in the holistic and secure management of power systems with highly penetrated inverter-based resources (IBRs).</p>
-    </div>
-    <div style="width: 50%;">
-        <img src='/images/Uncertainty Quantification.png' alt="network" style="width: 100%; display: block; margin-left: auto; margin-right: auto;">
     </div>
 </div>
 <hr class="dashed">
