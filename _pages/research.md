@@ -29,46 +29,44 @@ author_profile: true
     border-radius: 10px; /* 圆角 */
   }
   .container {
-    display: flex; /* 使用flex布局 */
-    flex-wrap: wrap; /* 允许内容换行 */
-    align-items: flex-start; /* 对齐项目至容器的起始位置 */
-  }
-  .text-side {
-    flex: 1; /* 文本占用剩余空间 */
-    padding: 10px; /* 文字区域的内边距 */
-    text-align: justify; /* 文字两端对齐 */
+    overflow: hidden; /* 清除浮动，保持布局整洁 */
   }
   .image-side {
-    width: 50%; /* 图片区域占一半宽度 */
-    text-align: center; /* 图片和文字居中显示 */
-    padding: 0; /* 图片区域的内边距 */
+    float: right; /* 图片浮动在右侧 */
+    width: 50%; /* 图片占用容器的一半宽度 */
+    text-align: center; /* 图片居中显示 */
+    padding: 20px; /* 图片区域的内边距 */
   }
   img {
-    width: 100%; /* 图片宽度调整为100%容器宽度 */
+    width: 100%; /* 图片宽度调整为容器的100% */
     height: auto; /* 图片高度自动调整 */
   }
   figcaption {
     color: #666; /* 说明文字颜色 */
     font-size: 14px; /* 说明文字大小 */
   }
+  .text-side {
+    padding: 20px; /* 文字区域的内边距 */
+  }
 </style>
 </head>
 <body>
 <div class="header">Research Framework</div>
 <div class="container">
-  <div class="text-side">
-    <p>I concentrate on both practical applications within the system and the development of underlying algorithms. A comprehensive framework has been established to address a broad spectrum of uncertainty-related issues in power systems. This framework includes both forward and inverse uncertainty quantification methodologies.</p>
-    <p>This framework includes both forward and inverse uncertainty quantification methodologies. The forward problems focus on risk assessment and stability analysis, which are crucial for proactive system management. Conversely, the inverse problems address parameter estimation, essential for system modeling and control.</p>
-  </div>
   <div class="image-side">
     <figure>
       <img src="/images/Uncertainty Quantification.png" alt="描述性文本">
       <figcaption>This is a caption of the image.</figcaption>
     </figure>
   </div>
+  <div class="text-side">
+    <p>I concentrate on both practical applications within the system and the development of underlying algorithms. A comprehensive framework has been established to address a broad spectrum of uncertainty-related issues in power systems. This framework includes both forward and inverse uncertainty quantification methodologies.</p>
+    <p>This framework includes both forward and inverse uncertainty quantification methodologies. The forward problems focus on risk assessment and stability analysis, which are crucial for proactive system management. Conversely, the inverse problems address parameter estimation, essential for system modeling and control.</p>
+  </div>
 </div>
 </body>
 </html>
+
 
 
 
