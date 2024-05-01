@@ -10,7 +10,6 @@ author_profile: true
     </div>
 </div>
 
-
 <html lang="zh">
 <head>
 <meta charset="UTF-8">
@@ -18,52 +17,53 @@ author_profile: true
 <style>
   body {
     font-family: Arial, sans-serif; /* 设置字体 */
+    margin: 0; /* 移除默认边距 */
+    padding: 0; /* 移除默认内边距 */
   }
   .header {
     background-color: #ccc; /* 灰色背景 */
     padding: 10px; /* 内边距 */
     text-align: center; /* 文本居中 */
     font-size: 24px; /* 字体大小 */
-  }
-  .container {
-    display: flex; /* 启用 flex 布局 */
-    align-items: flex-start; /* 垂直对齐 */
-  }
-  .text-side {
-    width: 50%; /* 文本区域宽度 */
-    padding: 20px; /* 文本内边距 */
+    border-radius: 10px; /* 圆角 */
   }
   .image-side {
-    width: 50%; /* 图像区域宽度 */
-    text-align: center; /* 图像居中 */
-    padding: 20px; /* 图像内边距 */
+    float: left; /* 让图片区域浮动在左侧 */
+    width: 50%; /* 图片区域占一半宽度 */
+    text-align: center; /* 图片和文字居中显示 */
+    padding: 20px; /* 图片区域的内边距 */
+  }
+  .text-side {
+    margin-left: 50%; /* 文字内容从容器的一半开始 */
+    padding: 20px; /* 文字区域的内边距 */
   }
   img {
-    max-width: 100%; /* 图像最大宽度 */
-    height: auto; /* 图像高度自动 */
+    width: 100%; /* 图片宽度调整为100%容器宽度 */
+    height: auto; /* 图片高度自动调整 */
   }
   figcaption {
-    color: #666; /* 图像说明文字颜色 */
-    font-size: 14px; /* 图像说明文字大小 */
+    color: #666; /* 说明文字颜色 */
+    font-size: 14px; /* 说明文字大小 */
   }
 </style>
 </head>
 <body>
 <div class="header">Research Framework</div>
 <div class="container">
-  <div class="text-side">
-    <p>I concentrate on both practical applications within the system and the development of underlying algorithms. A comprehensive framework has been established to address a broad spectrum of uncertainty-related issues in power systems. This framework includes both forward and inverse uncertainty quantification methodologies.</p>
-    <p>This framework includes both forward and inverse uncertainty quantification methodologies. The forward problems focus on risk assessment and stability analysis, which are crucial for proactive system management. Conversely, the inverse problems address parameter estimation, essential for system modeling and control.</p>
-  </div>
   <div class="image-side">
     <figure>
       <img src="/images/Uncertainty Quantification.png" alt="描述性文本">
       <figcaption>This is a caption of the image.</figcaption>
     </figure>
   </div>
+  <div class="text-side">
+    <p>I concentrate on both practical applications within the system and the development of underlying algorithms. A comprehensive framework has been established to address a broad spectrum of uncertainty-related issues in power systems. This framework includes both forward and inverse uncertainty quantification methodologies.</p>
+    <p>This framework includes both forward and inverse uncertainty quantification methodologies. The forward problems focus on risk assessment and stability analysis, which are crucial for proactive system management. Conversely, the inverse problems address parameter estimation, essential for system modeling and control.</p>
+  </div>
 </div>
 </body>
 </html>
+
 
 
 <center>
