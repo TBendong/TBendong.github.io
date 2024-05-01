@@ -40,10 +40,10 @@ author_profile: true
   }
   figcaption {
     color: #666; /* 说明文字颜色 */
-    font-size: 14px; /* 说明文字大小 */
+    font-size: 18px; /* 说明文字大小 */
   }
   .text-side {
-    padding: 20px; /* 文字区域的内边距 */
+    padding: 10px; /* 文字区域的内边距 */
   }
 </style>
 </head>
