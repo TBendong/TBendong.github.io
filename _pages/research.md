@@ -9,7 +9,25 @@ author_profile: true
         <p> Modern power systems face increasing levels of uncertainty from renewable generation, time-varying loads, modeling limitations and measurement errors. These uncertainties propagate through the system and impact analysis related to steady-state conditions and dynamic performance. Consequently, <b>my primary research interests lie in the uncertainty quantification framework for power systems</b>. This framework is dedicated to enhancing the efficiency and precision of power system planning. It also aims to ensure the secure operation of power systems, as well as to achieve precise estimation and identification for power system modeling.</p>
     </div>
 </div>
-<hr class="dashed">
+
+<html lang="zh">
+<head>
+<meta charset="UTF-8">
+<title>自定义直线示例</title>
+<style>
+  .line {
+    width: 100%; /* 线条宽度为整个容器的宽度 */
+    height: 10px; /* 线条的粗细 */
+    background-color: black; /* 线条颜色 */
+    border-top: 5px dashed red; /* 设置线条为虚线，颜色为红色，线宽为5px */
+  }
+</style>
+</head>
+<body>
+<div class="line"></div> <!-- 这是自定义的直线 -->
+</body>
+</html>
+
 <center>
     <h2><strong>Research Framework</strong></h2>
 </center>
