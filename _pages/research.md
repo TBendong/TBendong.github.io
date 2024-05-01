@@ -22,6 +22,37 @@ author_profile: true
     </div>
 </div>
 
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="UTF-8">
+<title>图文并排示例</title>
+<style>
+  .container {
+    display: flex; /* 启用 flex 布局 */
+    align-items: center; /* 垂直居中 */
+    justify-content: space-around; /* 水平分布 */
+  }
+  img {
+    max-width: 50%; /* 图片最大宽度为容器的一半 */
+    height: auto; /* 图片高度自动调整 */
+  }
+  figcaption {
+    max-width: 50%; /* 说明文字最大宽度为容器的一半 */
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <figure>
+    <img src="/images/Uncertainty Quantification.png" alt="图片描述">
+  </figure>
+  <figcaption>这里是图片的说明文字，说明文字和图片各占一半宽度。</figcaption>
+</div>
+</body>
+</html>
+
+
 <center>
     <h2>Forward Uncertainty Quantification</h2>
 </center>
