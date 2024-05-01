@@ -6,7 +6,7 @@ author_profile: true
 {% include base_path %}
 <div style="display: flex; align-items: center; justify-content: space-between;">
     <div style="width: 100%; text-align: left;">
-        <p> Modern power systems face increasing levels of uncertainty from renewable generation, time-varying loads, modeling limitations and measurement errors. These uncertainties propagate through the system and impact analysis related to steady-state conditions and dynamic performance. Consequently, <b>my primary research interests lie in the uncertainty quantification framework for power systems</b>. This framework is dedicated to enhancing the efficiency and precision of power system planning. It also aims to ensure the secure operation of power systems, as well as to achieve precise estimation and identification for power system modeling.</p>
+        <p> Modern power systems face increasing levels of uncertainty from renewable generation, time-varying loads, modeling limitations and measurement errors. These uncertainties propagate through the system and impact analysis related to steady-state conditions and dynamic performance. Consequently, <b>my primary research interests lie in the uncertainty quantification (UQ) framework for power systems</b>. This framework is dedicated to enhancing the efficiency and precision of power system planning. It also aims to ensure the secure operation of power systems, as well as to achieve precise estimation and identification for power system modeling.</p>
     </div>
 </div>
 
@@ -119,7 +119,13 @@ author_profile: true
     </figure>
   </div>
   <div class="text-side">
-    <p>Forward problem primarily addresses the propagation of input uncertainties through computational models to ascertain their consequent effects on the outputs. This process involves evaluating the sensitivity of the system’s responses to variations in inputs. The application of forward UQ is fundamental in appraising system behavior under variable scenarios, thereby serving as an invaluable tool in risk analysis and probabilistic stability assessment in power systems.</p>
+    <p>Forward problem primarily addresses the propagation of input uncertainties through power system to quantify their consequent effects on the outputs. </p>
+    <p>We have developed various approaches in risk analysis and probabilistic stability assessment in power systems. Wr try to answer the following questions <i>1): How to efficiently handle massive topology changes in the power system? 2) How to mitigate the “curse of dimensionality" issue for both input and output spaces? </i> </p>
+<ul> <!-- 开始无序列表 -->
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/9996972">链接1</a></li> <!-- 第一个列表项，替换#为您想要的链接 -->
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/10124366">链接2</a></li> <!-- 第二个列表项，替换#为您想要的链接 -->
+  <!-- 可以继续添加更多的列表项 -->
+</ul> <!-- 结束无序列表 -->
   </div>
 </div>
 </body>
@@ -175,7 +181,15 @@ author_profile: true
     </figure>
   </div>
   <div class="text-side">
-    <p>Contrarily, the inverse problem is centered on deducing unknown model parameters or elucidating the nature of underlying uncertainties from power system observations. This modality is employed when direct measurement of certain system parameters is impractical, necessitating the inference of these parameters from observable data. Inverse UQ encompasses the calibration of model parameters to minimize the disparity between model simulation response and observed data, thereby bridging the gap between theoretical models and empirical reality. This approach is particularly pertinent in power system parameter estimation and data assimilation.</p>
+    <p>Contrarily, the inverse problem is centered on deducing unknown model parameters and elucidating its underlying uncertainties from power system observations, minimizing the disparity between theoretical model response and observed data.</p> 
+    <p>We have developed multiple techniques in power system composite load modeling and inertia estimation for IBRs. We try to answer the following questions in general settings: <i> 1): How to identify critical parameters that have large impacts on the system response? 2) How to tackle data quality issues? 3) How to identify a time-varying dynamic system?</i></p>
+ <ul> <!-- 开始无序列表 -->
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/10477536/">链接1</a></li> <!-- 第一个列表项，替换#为您想要的链接 -->
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/10056325">链接2</a></li> <!-- 第二个列表项，替换#为您想要的链接 -->
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/9926125">链接3</a></li> <!-- 第二个列表项，替换#为您想要的链接 -->
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/9990924">链接3</a></li> <!-- 第二个列表项，替换#为您想要的链接 -->
+  <!-- 可以继续添加更多的列表项 -->
+</ul> <!-- 结束无序列表 -->     
   </div>
 </div>
 </body>
