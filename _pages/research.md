@@ -32,11 +32,11 @@ author_profile: true
     float: right; /* 让图片区域浮动在右侧 */
     width: 50%; /* 图片区域占一半宽度 */
     text-align: center; /* 图片和文字居中显示 */
-    padding: 20px; /* 图片区域的内边距 */
+    padding: 10px 20px 20px 0; /* 图片区域的内边距 */
   }
   img {
     width: 100%; /* 图片宽度调整为100%容器宽度 */
-    height: 200px; /* 图片高度自动调整 */
+    height: auto; /* 图片高度自动调整 */
   }
   figcaption {
     color: #666; /* 说明文字颜色 */
