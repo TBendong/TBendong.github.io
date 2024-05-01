@@ -35,7 +35,7 @@ author_profile: true
     float: right; /* 图片浮动在右侧 */
     width: 50%; /* 图片占用容器的一半宽度 */
     text-align: center; /* 图片居中显示 */
-    padding: 0px; /* 图片区域的内边距 */
+    padding: 10px; /* 图片区域的内边距 */
   }
   img {
     width: 100%; /* 图片宽度调整为容器的100% */
@@ -43,7 +43,7 @@ author_profile: true
   }
   figcaption {
     color: #666; /* 说明文字颜色 */
-    font-size: 14px; /* 说明文字大小 */
+    font-size: 16px; /* 说明文字大小 */
   }
   .text-side {
     padding: 20px; /* 文字区域的内边距 */
@@ -56,7 +56,7 @@ author_profile: true
   <div class="image-side">
     <figure>
       <img src="/images/Uncertainty Quantification.png" alt="描述性文本">
-      <figcaption>This is a caption of the image.</figcaption>
+      <figcaption>Research framework of uncertainty quantification for power system.</figcaption>
     </figure>
   </div>
   <div class="text-side">
