@@ -15,10 +15,10 @@ author_profile: true
 </center>
 <div style="display: flex; align-items: center; justify-content: space-between;">
     <div style="width: 50%; text-align: left;">
-        <p>I concentrate on both practical applications within the system and the development of underlying algorithms. A comprehensive framework has been established to address a broad spectrum of uncertainty-related issues in power systems. This framework encompasses both forward and inverse uncertainty quantification methodologies.</p>
+        <p>I concentrate on both practical applications within the system and the development of underlying algorithms. A comprehensive framework has been established to address a broad spectrum of uncertainty-related issues in power systems. This framework includes both forward and inverse uncertainty quantification methodologies. The forward problems focus on risk assessment and stability analysis, which are crucial for proactive system management. Conversely, the inverse problems address parameter estimation, essential for system modeling and control. </p>
     </div>
     <div style="width: 50%;">
-        <img src='/images/Forward problem.png' alt="network" style="width: 100%; display: block; margin-left: auto; margin-right: auto;">
+        <img src='/images/Uncertainty Quantification.png' alt="network" style="width: 100%; display: block; margin-left: auto; margin-right: auto;">
     </div>
 </div>
 
