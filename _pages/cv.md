@@ -8,8 +8,8 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="/files/CV-Bendong_Tan.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
-CV can be downloaded [here](http://TBendong.github.io/files/CV-Bendong_Tan.pdf) [Updated at May 2024] 
+<iframe src="/files/CV-Bendong.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+CV can be downloaded [here](http://TBendong.github.io/files/CV-Bendong.pdf) [Updated at May 2024] 
 ## Education  
 * B.S. in Electrical Engineering, Wuhan University, 2013/09 - 2017/06  
 (1)  Grade Point Average (GPA): 3.60/4.00    
