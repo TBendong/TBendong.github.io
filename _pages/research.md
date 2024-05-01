@@ -115,7 +115,7 @@ author_profile: true
   <div class="image-side">
     <figure>
       <img src="/images/Forward problem.png" alt="描述性文本">
-      <figcaption>Research framework of uncertainty quantification for power system.</figcaption>
+      <figcaption>Forward uncertainty quantification for power system.</figcaption>
     </figure>
   </div>
   <div class="text-side">
@@ -175,7 +175,7 @@ author_profile: true
   <div class="image-side">
     <figure>
       <img src="/images/Inverse problem.png" alt="描述性文本">
-      <figcaption>Research framework of uncertainty quantification for power system.</figcaption>
+      <figcaption>Inverse uncertainty quantification for power system.</figcaption>
     </figure>
   </div>
   <div class="text-side">
