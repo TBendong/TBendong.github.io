@@ -36,14 +36,14 @@ author_profile: true
   }
   img {
     width: 100%; /* 图片宽度调整为100%容器宽度 */
-    height: auto; /* 图片高度自动调整 */
+    height: 200px; /* 图片高度自动调整 */
   }
   figcaption {
     color: #666; /* 说明文字颜色 */
-    font-size: 18px; /* 说明文字大小 */
+    font-size: 16px; /* 说明文字大小 */
   }
   .text-side {
-    padding: 10px; /* 文字区域的内边距 */
+    padding: 20px; /* 文字区域的内边距 */
   }
 </style>
 </head>
