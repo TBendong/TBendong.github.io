@@ -28,18 +28,6 @@ author_profile: true
 </body>
 </html>
 
-<center>
-    <h2><strong>Research Framework</strong></h2>
-</center>
-<div style="display: flex; align-items: center; justify-content: space-between;">
-    <div style="width: 50%; text-align: left;">
-        <p>I concentrate on both practical applications within the system and the development of underlying algorithms. A comprehensive framework has been established to address a broad spectrum of uncertainty-related issues in power systems. This framework includes both forward and inverse uncertainty quantification methodologies. The forward problems focus on risk assessment and stability analysis, which are crucial for proactive system management. Conversely, the inverse problems address parameter estimation, essential for system modeling and control. </p>
-    </div>
-    <div style="width: 50%;">
-        <img src='/images/Uncertainty Quantification.png' alt="network" style="width: 100%; display: block; margin-left: auto; margin-right: auto;">
-    </div>
-</div>
-
 
 <html lang="zh">
 <head>
@@ -79,12 +67,11 @@ author_profile: true
 </style>
 </head>
 <body>
-<div class="header">Uncertainty Modeling</div>
+<div class="header">Research Framework</div>
 <div class="container">
   <div class="text-side">
-    <p>An accurate uncertainty modeling is the prerequisite for a forward uncertainty quantification and its associated decision-making under uncertainty problem.</p>
-    <p>The high-dimension uncertainty modeling is indeed not an easy task considering the non-parametric, non-Gaussian, asymmetric probability distributions. Not to mention the complicated spatial-temporal dependence relationship.</p>
-    <p>Special techniques, such as dimension reduction, can sometimes enable the high-dimensional uncertainty modeling move to a low-dimensional latent space.</p>
+    <p>I concentrate on both practical applications within the system and the development of underlying algorithms. A comprehensive framework has been established to address a broad spectrum of uncertainty-related issues in power systems. This framework includes both forward and inverse uncertainty quantification methodologies.</p>
+    <p>This framework includes both forward and inverse uncertainty quantification methodologies. The forward problems focus on risk assessment and stability analysis, which are crucial for proactive system management. Conversely, the inverse problems address parameter estimation, essential for system modeling and control.</p>
   </div>
   <div class="image-side">
     <figure>
