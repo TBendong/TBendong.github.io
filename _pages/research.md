@@ -22,7 +22,7 @@ author_profile: true
     </div>
 </div>
 
-<!DOCTYPE html>
+
 <html lang="zh">
 <head>
 <meta charset="UTF-8">
@@ -30,24 +30,33 @@ author_profile: true
 <style>
   .container {
     display: flex; /* 启用 flex 布局 */
-    align-items: center; /* 垂直居中 */
-    justify-content: space-around; /* 水平分布 */
+    align-items: flex-start; /* 内容垂直对齐到顶部 */
+    justify-content: space-between; /* 内容分散对齐 */
+  }
+  .text {
+    width: 50%; /* 文本占容器的一半宽度 */
+  }
+  .image-container {
+    width: 50%; /* 图片容器占容器的一半宽度 */
+    text-align: center; /* 图片和说明文字居中显示 */
   }
   img {
-    max-width: 50%; /* 图片最大宽度为容器的一半 */
-    height: auto; /* 图片高度自动调整 */
-  }
-  figcaption {
-    max-width: 50%; /* 说明文字最大宽度为容器的一半 */
+    max-width: 100%; /* 图片最大宽度为其容器宽度 */
+    height: auto; /* 图片高度自动 */
   }
 </style>
 </head>
 <body>
 <div class="container">
-  <figure>
-    <img src="/images/Uncertainty Quantification.png" alt="图片描述">
-  </figure>
-  <figcaption>这里是图片的说明文字，说明文字和图片各占一半宽度。</figcaption>
+  <div class="text">
+    <p>这里是文章的文本内容。此部分内容在左边占据了50%的空间，与右侧的图片和说明文字并排展示。</p>
+  </div>
+  <div class="image-container">
+    <figure>
+      <img src="/images/Uncertainty Quantification.png" alt="图片描述">
+      <figcaption>这是图片的说明文字。</figcaption>
+    </figure>
+  </div>
 </div>
 </body>
 </html>
