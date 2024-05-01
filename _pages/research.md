@@ -35,7 +35,7 @@ author_profile: true
     float: right; /* 图片浮动在右侧 */
     width: 50%; /* 图片占用容器的一半宽度 */
     text-align: center; /* 图片居中显示 */
-    padding: 20px; /* 图片区域的内边距 */
+    padding: 0px; /* 图片区域的内边距 */
   }
   img {
     width: 100%; /* 图片宽度调整为容器的100% */
