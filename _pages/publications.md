@@ -15,7 +15,7 @@ systems with uncertain wind generation and loads," **IEEE Transactions on Power 
 trajectory prediction," **IEEE Transactions on Power Systems**, 2024. (Under review)
 - **Bendong Tan**, Junbo Zhao, Naiyuan Chiang and Nan Duan, ``High-dimension Bayesian parameter estimation for WECC composite load model using realistic event measurements,” **IEEE Transactions on Power Systems**, 2024.  (Under review)
 -  Xingyu Zhao,  **Bendong Tan** and Junbo Zhao, "Power system dynamic state estimation of grid-forming inverters with current limiter," **IEEE Power Engineering Letters**, 2024. (Under review)
--  Tong Su, Junbo Zhao, **Bendong Tan**, Daniel Maldonado, Xiaodong. Liu,  and Xiaochuan Luo, "Analytic input convex neural networks enabled transient stability predictive control with wind generators," **IEEE Power Engineering Letters**, 2024. (Under review)
+-  Tong Su, Junbo Zhao, **Bendong Tan**, Daniel Maldonado, Xiaodong. Liu,  and Xiaochuan Luo, "Analytic input convex neural networks enabled transient stability predictive control with wind generators," **IEEE Transactions on Power Systems**, 2024. (Under review)
 
 ## 📝 Journal Papers 
 - [J19] **Bendong Tan**, Junbo Zhao, “Data-driven adaptive unscented Kalman filter for time-varying inertia and damping estimation of utility-scale IBRs considering current limiter,” **IEEE Transactions on Power Systems**, 2024, doi: 10.1109/TPWRS.2024.3379956.[[Link](https://ieeexplore.ieee.org/document/10477536)]
