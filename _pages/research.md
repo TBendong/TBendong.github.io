@@ -120,7 +120,7 @@ author_profile: true
   </div>
   <div class="text-side">
     <p>Forward problem primarily addresses the propagation of input uncertainties through power system to quantify their consequent effects on the outputs. </p>
-    <p>We have developed various methodologies for power system planning and operation, including a wide range of applications such as probabilistic load margin assessment, rare event risk analysis, probabilistic stability assessment and Bayesian dynamic trajectory predictions. We try to answer the following questions <i>1) How to efficiently handle massive topology changes in the power system? 2) How to mitigate the "curse of dimensionality" issue for both input and output spaces? </i> </p>
+    <p>We have developed various methodologies for power system planning and operation, including a wide range of applications such as probabilistic load margin assessment, rare event risk analysis, probabilistic stability assessment and Bayesian dynamic trajectory predictions. We try to answer the following questions in general settings: <i>1) How to efficiently handle massive topology changes in the power system? 2) How to mitigate the "curse of dimensionality" issue for both input and output spaces? </i> </p>
 <h3>Selected Publications</h3> <!-- 添加标题 -->
 <ul> <!-- 开始无序列表 -->
   <li><a href="https://ieeexplore.ieee.org/abstract/document/9996972">Bendong Tan, Junbo Zhao and Le Xie., "Transferable deep kernel emulator for probabilistic load margin assessment with topology changes, uncertain renewable generations and loads," IEEE Transactions on Power Systems, vol. 38, no. 6, pp. 5740-5754, Nov. 2023.</a></li> <!-- 第一个列表项，替换#为您想要的链接 -->
