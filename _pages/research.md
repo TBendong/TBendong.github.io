@@ -14,7 +14,7 @@ author_profile: true
 <html lang="zh">
 <head>
 <meta charset="UTF-8">
-<title>文本对齐示例</title>
+<title>复杂图文布局示例</title>
 <style>
   body {
     font-family: Arial, sans-serif; /* 设置字体 */
@@ -24,19 +24,24 @@ author_profile: true
   .header {
     background-color: #ccc; /* 灰色背景 */
     padding: 10px; /* 内边距 */
-    text-align: center; /* 标题居中对齐 */
+    text-align: center; /* 文本居中 */
     font-size: 24px; /* 字体大小 */
     border-radius: 10px; /* 圆角 */
   }
+  .container {
+    display: flex; /* 使用flex布局 */
+    flex-wrap: wrap; /* 允许内容换行 */
+    align-items: flex-start; /* 对齐项目至容器的起始位置 */
+  }
   .text-side {
-    padding: 0px 5px 20px 20px; /* 文字区域的内边距：上 右 下 左 */
-    text-align: justify; /* 设置文字两端对齐 */
+    flex: 1; /* 文本占用剩余空间 */
+    padding: 10px; /* 文字区域的内边距 */
+    text-align: justify; /* 文字两端对齐 */
   }
   .image-side {
-    float: right; /* 让图片区域浮动在右侧 */
     width: 50%; /* 图片区域占一半宽度 */
     text-align: center; /* 图片和文字居中显示 */
-    padding: 10px 20px 0 5px; /* 图片区域的内边距：上 右 下 左 */
+    padding: 10px; /* 图片区域的内边距 */
   }
   img {
     width: 100%; /* 图片宽度调整为100%容器宽度 */
@@ -64,6 +69,7 @@ author_profile: true
 </div>
 </body>
 </html>
+
 
 
 
