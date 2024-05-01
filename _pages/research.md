@@ -44,35 +44,52 @@ author_profile: true
 <html lang="zh">
 <head>
 <meta charset="UTF-8">
-<title>图文并排示例</title>
+<title>复杂图文布局示例</title>
 <style>
+  body {
+    font-family: Arial, sans-serif; /* 设置字体 */
+  }
+  .header {
+    background-color: #ccc; /* 灰色背景 */
+    padding: 10px; /* 内边距 */
+    text-align: center; /* 文本居中 */
+    font-size: 24px; /* 字体大小 */
+  }
   .container {
     display: flex; /* 启用 flex 布局 */
-    align-items: flex-start; /* 内容垂直对齐到顶部 */
-    justify-content: space-between; /* 内容分散对齐 */
+    align-items: flex-start; /* 垂直对齐 */
   }
-  .text {
-    width: 50%; /* 文本占容器的一半宽度 */
+  .text-side {
+    width: 50%; /* 文本区域宽度 */
+    padding: 20px; /* 文本内边距 */
   }
-  .image-container {
-    width: 50%; /* 图片容器占容器的一半宽度 */
-    text-align: center; /* 图片和说明文字居中显示 */
+  .image-side {
+    width: 50%; /* 图像区域宽度 */
+    text-align: center; /* 图像居中 */
+    padding: 20px; /* 图像内边距 */
   }
   img {
-    max-width: 100%; /* 图片最大宽度为其容器宽度 */
-    height: auto; /* 图片高度自动 */
+    max-width: 100%; /* 图像最大宽度 */
+    height: auto; /* 图像高度自动 */
+  }
+  figcaption {
+    color: #666; /* 图像说明文字颜色 */
+    font-size: 14px; /* 图像说明文字大小 */
   }
 </style>
 </head>
 <body>
+<div class="header">Uncertainty Modeling</div>
 <div class="container">
-  <div class="text">
-    <p>这里是文章的文本内容。此部分内容在左边占据了50%的空间，与右侧的图片和说明文字并排展示。</p>
+  <div class="text-side">
+    <p>An accurate uncertainty modeling is the prerequisite for a forward uncertainty quantification and its associated decision-making under uncertainty problem.</p>
+    <p>The high-dimension uncertainty modeling is indeed not an easy task considering the non-parametric, non-Gaussian, asymmetric probability distributions. Not to mention the complicated spatial-temporal dependence relationship.</p>
+    <p>Special techniques, such as dimension reduction, can sometimes enable the high-dimensional uncertainty modeling move to a low-dimensional latent space.</p>
   </div>
-  <div class="image-container">
+  <div class="image-side">
     <figure>
-      <img src="/images/Uncertainty Quantification.png" alt="图片描述">
-      <figcaption>这是图片的说明文字。</figcaption>
+      <img src="path/to/your/image.jpg" alt="描述性文本">
+      <figcaption>This is a caption of the image.</figcaption>
     </figure>
   </div>
 </div>
