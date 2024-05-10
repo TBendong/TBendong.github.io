@@ -33,6 +33,7 @@ author_profile: true
 # 🔥 News
 
 ## 2024
+- **[2024-05-10]** Received <font color=red>2024 Summer PreDoctoral Fellowship</font> from Department of Electrical and Computer Engineering, UCONN.
 - **[2024-05-09]** Our paper "Power system overloading risk assessment considering topology and renewable uncertainties" Received <font color=red>Best Paper Award</font> from 2024 IEEE Power & Energy Society General Meeting (GM), Seattle, USA!
 - **[2024-04-15]** Received <font color=red>2024 Summer Doctoral Dissertation Fellowship</font> from the Graduate School of UCONN.
 - **[2024-03-17]** Our paper "Data-driven adaptive unscented Kalman filter for time-varying inertia and damping estimation of utility-scale IBRs considering current limiter" has been accepted to IEEE Transactions on Power Systems.
