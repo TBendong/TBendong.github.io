@@ -13,22 +13,7 @@ author_profile: true
 &emsp; I was a recipient of the Outstanding Reviewer of IEEE Transactions on Power Systems in 2021, 2022 and 2023, Best Journal Paper Award of International Journal of Electrical Power & Energy Systems in 2022, the Best Conference Paper Award from IEEE Power & Energy Society General Meeting (GM) in 2021 and 2022, the Best Conference Paper Award from 11th International Conference on Innovative Smart Grid Technologies (Asia) in 2022.
 
 # 📖 Journal Reviewer
-* IEEE Transactions on Power Systems
-* IEEE Transactions on Smart Grid
-* IEEE Power Engineering Letters
-* IEEE Open Access Journal of Power and Energy
-* International Journal of Electrical Power and Energy Systems
-* CSEE Journal of Power and Energy Systems 
-* Journal of Modern Power Systems and Clean Energy
-* IET Generation, Transmission & Distribution
-* IEEE Transactions on Circuits and Systems II: Express Briefs
-* Electric Power Systems Research
-* IEEE ACCESS
-* IET Smart Grid
-* IET Renewable Power Generation
-* Applied Energy
-* IEEE Transactions on Neural Networks and Learning Systems
-* IEEE Transactions on Cybernetics
+IEEE Transactions on Power Systems, IEEE Transactions on Smart Grid,IEEE Power Engineering Letters, IEEE Open Access Journal of Power and Energy, International Journal of Electrical Power and Energy Systems, CSEE Journal of Power and Energy Systems , Journal of Modern Power Systems and Clean Energy, IET Generation, Transmission & Distribution, IEEE Transactions on Circuits and Systems II: Express Briefs, Electric Power Systems Research, IEEE ACCESS, IET Smart Grid, IET Renewable Power Generation, Applied Energy, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Cybernetics, IEEE Transactions on Industrial Informatics, IEEE Transactions on Industry Applications
 
 # 🔥 News
 
