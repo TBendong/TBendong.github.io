@@ -18,6 +18,7 @@ IEEE Transactions on Power Systems; IEEE Transactions on Smart Grid; IEEE Power 
 # 🔥 News
 
 ## 2024
+- **[2024-07-21]** Our paper "Scalable risk assessment of rare events in power systems with uncertain wind generation and loads" has been accepted to IEEE Transactions on Power Systems.
 - **[2024-06-18]** Delivered a talk on "Data-driven uncertainty quantification for stochastic power system: risk assessment and parameter estimation" at The Young Scholars Forum of the School of Electrical Engineering, Chongqing University.
 - **[2024-05-31]** Delivered a talk on "Data-driven uncertainty quantification for stochastic power system: parameter estimation, risk and stability assessment" at Process-Energy-Environmental Systems Engineering (PEESE) Lab of Cornell University.
 - **[2024-05-10]** Received <font color=red>2024 Summer PreDoctoral Fellowship</font> from Department of Electrical and Computer Engineering, UCONN.
