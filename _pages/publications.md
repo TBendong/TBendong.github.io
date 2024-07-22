@@ -9,8 +9,6 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 
 ---
 ## 📝 Papers in Progress 
-- **Bendong Tan**, Junbo Zhao and Yousu Chen, "Scalable risk assessment of rare events in power
-systems with uncertain wind generation and loads," **IEEE Transactions on Power Systems**, 2024. (Under the second round of review)
 - **Bendong Tan**, Junbo Zhao, "Bayesian post-fault power system dynamic
 trajectory prediction," **IEEE Transactions on Power Systems**, 2024. (Under review)
 - **Bendong Tan**, Junbo Zhao, Naiyuan Chiang and Nan Duan, ``High-dimension Bayesian parameter estimation for WECC composite load model using realistic event measurements,” **IEEE Transactions on Power Systems**, 2024.  (Under review)
@@ -18,6 +16,8 @@ trajectory prediction," **IEEE Transactions on Power Systems**, 2024. (Under rev
 -  Tong Su, Junbo Zhao, **Bendong Tan**, Daniel Maldonado, Xiaodong. Liu,  and Xiaochuan Luo, "Analytic input convex neural networks enabled transient stability predictive control with wind generators," **IEEE Transactions on Power Systems**, 2024. (Under review)
 
 ## 📝 Journal Papers 
+- [J20] **Bendong Tan**, Junbo Zhao and Yousu Chen, "Scalable risk assessment of rare events in power
+systems with uncertain wind generation and loads," **IEEE Transactions on Power Systems**, 2024.
 - [J19] **Bendong Tan**, Junbo Zhao, “Data-driven adaptive unscented Kalman filter for time-varying inertia and damping estimation of utility-scale IBRs considering current limiter,” **IEEE Transactions on Power Systems**, 2024, doi: 10.1109/TPWRS.2024.3379956.[[Link](https://ieeexplore.ieee.org/document/10477536)]
 - [J18] Jiahao Liu, Cheng Wang, Junbo Zhao, **Bendong Tan** and Tianshu Bi, “Simplified transient model of
 DFIG wind turbine for power system frequency dynamics analysis,” **IEEE Transactions on Power Systems**, vol. 39, no. 2, pp. 3752-3768, Mar. 2024.[[Link]([https://ieeexplore.ieee.org/document/10124366](https://ieeexplore.ieee.org/document/10209245))] 
