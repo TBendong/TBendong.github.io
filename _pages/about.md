@@ -8,7 +8,7 @@ author_profile: true
 ---
 {% include base_path %}
 # 🧍‍♂️ Biography
-&emsp; Hi! I am a third-year PhD student at University of Connecticut, advised by Prof. [Junbo Zhao](https://cpes.lab.uconn.edu/advisor/). I receieved my Bachelor and Master's degrees in Electrical Engineering in 2017 and 2020 respectively from Wuhan University, Wuhan. My research interests lie in uncertainty quantification for power systems identification, monitoring, and stability. 
+&emsp; Hi! I am a third-year PhD student at the University of Connecticut, advised by Prof. [Junbo Zhao](https://cpes.lab.uconn.edu/advisor/). I received my Bachelor's and Master's degrees in Electrical Engineering in 2017 and 2020 respectively from Wuhan University, Wuhan. My research interests lie in uncertainty quantification for power systems identification, monitoring, and stability. 
 
 &emsp; I was a recipient of the Outstanding Reviewer of IEEE Transactions on Power Systems in 2021, 2022 and 2023, Best Journal Paper Award of International Journal of Electrical Power & Energy Systems in 2022, the Best Conference Paper Award from IEEE Power & Energy Society General Meeting (GM) in 2021, 2022 and 2024, the Best Conference Paper Award from 11th International Conference on Innovative Smart Grid Technologies (Asia) in 2022.
 
