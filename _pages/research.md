@@ -126,8 +126,8 @@ author_profile: true
   <li><a href="https://ieeexplore.ieee.org/abstract/document/9996972">Bendong Tan, Junbo Zhao and Le Xie., "Transferable deep kernel emulator for probabilistic load margin assessment with topology changes, uncertain renewable generations and loads," IEEE Transactions on Power Systems, vol. 38, no. 6, pp. 5740-5754, Nov. 2023.</a></li> <!-- 第一个列表项，替换#为您想要的链接 -->
   <li><a href="https://ieeexplore.ieee.org/abstract/document/10124366">Bendong Tan, Junbo Zhao, "Debiased uncertainty quantification approach for probabilistic transient stability assessment," IEEE Transactions on Power Systems, vol. 38, no. 5, pp. 4954-4957, Sept. 2023.</a></li> <!-- 第二个列表项，替换#为您想要的链接 -->
   <li>Bendong Tan, Junbo Zhao and Yousu Chen, "Scalable risk assessment of rare events in power
-systems with uncertain wind generation and loads," IEEE Transactions on Power Systems, 2024. (Under the second round of review) </li> <!-- 第二个列表项，替换#为您想要的链接 -->
-   <li>Bendong Tan, Junbo Zhao, "Bayesian post-fault power system dynamic trajectory prediction," IEEE Transactions on Power Systems, 2024.(Under review)</li> <!-- 第二个列表项，替换#为您想要的链接 -->
+systems with uncertain wind generation and loads," IEEE Transactions on Power Systems, 2024. </li> <!-- 第二个列表项，替换#为您想要的链接 -->
+   <li>Bendong Tan, Junbo Zhao, "Bayesian post-fault power system dynamic trajectory prediction," IEEE Transactions on Power Systems, 2025.</li> <!-- 第二个列表项，替换#为您想要的链接 -->
     <!-- 可以继续添加更多的列表项 -->
 </ul> <!-- 结束无序列表 -->
   </div>
@@ -194,7 +194,7 @@ systems with uncertain wind generation and loads," IEEE Transactions on Power Sy
   <li><a href="https://ieeexplore.ieee.org/abstract/document/9990924">Bendong Tan, Junbo Zhao, "Data-driven time-varying inertia estimation of inverter-based resources," IEEE Transactions on Power Systems, vol. 38, no. 5, pp. 4954-4957, Sept. 2023.</a></li> <!-- 第二个列表项，替换#为您想要的链接 -->
   <li><a href="https://ieeexplore.ieee.org/abstract/document/9926125">Bendong Tan, Junbo Zhao and Marcos Netto, "A general decentralized dynamic state estimation with synchronous generator magnetic saturation," IEEE Transactions on Power Systems, vol. 38, no. 1, pp. 960-963, Jan. 2023</a></li> <!-- 第二个列表项，替换#为您想要的链接 -->
   
-  <li>Bendong Tan, Junbo Zhao, Naiyuan Chiang and Nan Duan, "High-dimension Bayesian parameter estimation for WECC composite load model using realistic event measurements," IEEE Transactions on Power Systems, 2024. (Under review)</li> <!-- 第二个列表项，替换#为您想要的链接 -->
+  <li>Bendong Tan, Junbo Zhao, Naiyuan Chiang and Nan Duan, "High-dimension Bayesian parameter estimation for WECC composite load model using realistic event measurements," IEEE Transactions on Power Systems, 2025.</li> <!-- 第二个列表项，替换#为您想要的链接 -->
   <!-- 可以继续添加更多的列表项 -->
 </ul> <!-- 结束无序列表 -->     
   </div>
