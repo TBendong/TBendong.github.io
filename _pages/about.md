@@ -18,6 +18,7 @@ IEEE Transactions on Power Systems; IEEE Transactions on Smart Grid; IEEE Power 
 # 🔥 News
 
 ## 2025
+- **[2025-04-20]** Appointed as an early-career associate editors for Energy Conversion and Economics.
 - **[2025-02-15]** Our paper "High-dimension Bayesian parameter estimation for WECC composite load model using realistic event measurements" has been accepted to IEEE Transactions on Power Systems.
 - **[2025-01-19]** Our paper "Bayesian post-fault power system dynamic trajectory prediction" has been accepted to IEEE Transactions on Power Systems.
 
