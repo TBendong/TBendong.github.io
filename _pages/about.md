@@ -24,7 +24,7 @@ author_profile: true
       font-family: Arial, sans-serif;
       line-height: 1.6;
       margin: 20px;
-      max-width: 1200px;
+      max-width: 2400px;
       margin-left: auto;
       margin-right: auto;
     }
