@@ -27,6 +27,7 @@ IEEE Transactions on Power Systems; IEEE Transactions on Smart Grid; IEEE Power 
 <div style="display: flex; gap: 8px; margin-bottom: 4px;">
   <span style="color: #4F81BD; min-width: 100px;">2024-09-09</span> <span> Our paper "Power system dynamic state estimation of grid-forming inverters with current limiter" has been accepted to IEEE Transactions on Power Systems
     </span>
+</div>
 - **[2024-09-09]** Our paper "Power system dynamic state estimation of grid-forming inverters with current limiter" has been accepted to IEEE Transactions on Power Systems.
 - **[2024-07-31]** The PhD defense has been done! My PhD studies at the University of Connecticut are finished!
 - **[2024-07-21]** Our paper "Scalable risk assessment of rare events in power systems with uncertain wind generation and loads" has been accepted to IEEE Transactions on Power Systems.
@@ -38,8 +39,6 @@ IEEE Transactions on Power Systems; IEEE Transactions on Smart Grid; IEEE Power 
 - **[2024-03-17]** Our paper "Data-driven adaptive unscented Kalman filter for time-varying inertia and damping estimation of utility-scale IBRs considering current limiter" has been accepted to IEEE Transactions on Power Systems.
 - **[2024-01-11]** Received <font color=red>2023 Excellent Reviewer Award</font> from Journal of Modern Power Systems and Clean Energy (MPCE)!
 - **[2024-01-03]** Received <font color=red>the 2023 IEEE PES Connecticut Chapter Outstanding Young Engineer Award</font>!
-</div>
-
 ## 2023
 - **[2023-12-21]** Received <font color=red>2023 Outstanding Reviewer</font> from IEEE Transactions on Power Systems!
 - **[2023-08-28]** Bendong has successfully passed the PhD qualification examination and has been elevated to a PhD candidate in UCONN. 
