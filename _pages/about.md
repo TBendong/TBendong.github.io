@@ -13,9 +13,10 @@ author_profile: true
     body {
       font-family: Arial, sans-serif;
       line-height: 1.6;
-      max-width: 1260px; /* Updated to match the second code */
+      width: 100%; /* Full width adaptive to viewport */
       margin: 0 auto;
       padding: 20px;
+      box-sizing: border-box; /* Ensures padding is included in width */
     }
     h1 {
       color: #333;
