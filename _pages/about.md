@@ -14,9 +14,16 @@ author_profile: true
       font-family: Arial, sans-serif;
       line-height: 1.6;
       margin: 20px;
-      max-width: 2400px; /* Adjust the width to make it more spacious */
+      max-width: 1200px;
       margin-left: auto;
       margin-right: auto;
+    }
+    h1.main-title {
+      text-align: center;
+      color: #2F5597;
+      border-bottom: 4px solid #4F81BD;
+      padding-bottom: 10px;
+      margin-bottom: 30px;
     }
     h2 {
       color: #333;
@@ -44,6 +51,8 @@ author_profile: true
   </style>
 </head>
 <body>
+  <h1 class="main-title">📌 Personal Academic Highlights</h1>
+
   <h2>🧍‍♂️ Biography</h2>
   <p>Hi! I am currently a Postdoctoral Researcher at the University of Connecticut, working under the guidance of Prof. <a href="https://cpes.lab.uconn.edu/advisor/">Junbo Zhao</a>. I earned my Ph.D. from the University of Connecticut in 2024. Prior to that, I received both my Bachelor's and Master's degrees in Electrical Engineering from Wuhan University in 2017 and 2020, respectively. My research focuses on uncertainty quantification in power systems, specifically in identification, monitoring, and stability analysis.</p>
   <p>I have been recognized for my contributions to the field, including receiving the Outstanding Reviewer Award from IEEE Transactions on Power Systems in 2021, 2022, and 2023. Additionally, I was honored with the Best Journal Paper Award from the International Journal of Electrical Power & Energy Systems in 2022, and the Best Conference Paper Award from IEEE Power & Energy Society General Meetings in 2021, 2022, and 2024, as well as the 11th International Conference on Innovative Smart Grid Technologies (Asia) in 2022.</p>
@@ -135,13 +144,13 @@ author_profile: true
     <span class="date">2020-06-01</span>
     <span class="content">Our paper "Spatial-temporal Adaptive Transient Stability Assessment for Power System under Missing Data" has been accepted to International Journal of Electrical Power and Energy Systems.</span>
   </div>
-
   <div class="timeline-entry">
     <span class="date">2020-05-18</span>
     <span class="content">The master defense has been done online! My master in Wuhan University is finished!</span>
   </div>
 </body>
 </html>
+
 
 <div style="color: white;">
     这是一段白色字体的内容，在网页白色背景下不可见，但实际上存在于页面中。您可以在这里放置任何您想要添加的隐藏内容。这种技术有时用于搜索引擎优化(SEO)或特殊用途，但请注意滥用这种方法可能被一些搜索引擎视为不良做法。
