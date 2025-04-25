@@ -24,6 +24,9 @@ IEEE Transactions on Power Systems; IEEE Transactions on Smart Grid; IEEE Power 
 - **[2025-01-19]** Our paper "Bayesian post-fault power system dynamic trajectory prediction" has been accepted to IEEE Transactions on Power Systems.
 
 ## 2024
+<div style="display: grid; grid-template-columns: auto auto; gap: 12px;">
+  <span style="color: #4F81BD;">2024-09-09</span> <span> Our paper "Power system dynamic state estimation of grid-forming inverters with current limiter" has been accepted to IEEE Transactions on Power Systems
+    </span>
 - **[2024-09-09]** Our paper "Power system dynamic state estimation of grid-forming inverters with current limiter" has been accepted to IEEE Transactions on Power Systems.
 - **[2024-07-31]** The PhD defense has been done! My PhD studies at the University of Connecticut are finished!
 - **[2024-07-21]** Our paper "Scalable risk assessment of rare events in power systems with uncertain wind generation and loads" has been accepted to IEEE Transactions on Power Systems.
@@ -35,6 +38,7 @@ IEEE Transactions on Power Systems; IEEE Transactions on Smart Grid; IEEE Power 
 - **[2024-03-17]** Our paper "Data-driven adaptive unscented Kalman filter for time-varying inertia and damping estimation of utility-scale IBRs considering current limiter" has been accepted to IEEE Transactions on Power Systems.
 - **[2024-01-11]** Received <font color=red>2023 Excellent Reviewer Award</font> from Journal of Modern Power Systems and Clean Energy (MPCE)!
 - **[2024-01-03]** Received <font color=red>the 2023 IEEE PES Connecticut Chapter Outstanding Young Engineer Award</font>!
+</div>
 
 ## 2023
 - **[2023-12-21]** Received <font color=red>2023 Outstanding Reviewer</font> from IEEE Transactions on Power Systems!
