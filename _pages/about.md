@@ -14,12 +14,12 @@ author_profile: true
       font-family: Arial, sans-serif;
       line-height: 1.6;
       margin: 20px;
+      width: 120%;
     }
-    h2 {
+    h1 {
       color: #333;
       border-bottom: 2px solid #4F81BD;
       padding-bottom: 5px;
-      margin-top: 25px;
     }
     .timeline-entry {
       display: flex;
@@ -45,12 +45,12 @@ author_profile: true
   <p>Hi! I am currently a Postdoctoral Researcher at the University of Connecticut, working under the guidance of Prof. <a href="https://cpes.lab.uconn.edu/advisor/">Junbo Zhao</a>. I earned my Ph.D. from the University of Connecticut in 2024. Prior to that, I received both my Bachelor's and Master's degrees in Electrical Engineering from Wuhan University in 2017 and 2020, respectively. My research focuses on uncertainty quantification in power systems, specifically in identification, monitoring, and stability analysis.</p>
   <p>I have been recognized for my contributions to the field, including receiving the Outstanding Reviewer Award from IEEE Transactions on Power Systems in 2021, 2022, and 2023. Additionally, I was honored with the Best Journal Paper Award from the International Journal of Electrical Power & Energy Systems in 2022, and the Best Conference Paper Award from IEEE Power & Energy Society General Meetings in 2021, 2022, and 2024, as well as the 11th International Conference on Innovative Smart Grid Technologies (Asia) in 2022.</p>
 
-  <h2>📖 Journal Reviewer</h2>
+  <h1>📖 Journal Reviewer</h1>
   <p>IEEE Transactions on Power Systems; IEEE Transactions on Smart Grid; IEEE Power Engineering Letters; IEEE Open Access Journal of Power and Energy; International Journal of Electrical Power and Energy Systems; CSEE Journal of Power and Energy Systems; Journal of Modern Power Systems and Clean Energy; IET Generation, Transmission & Distribution; IEEE Transactions on Circuits and Systems II: Express Briefs; Electric Power Systems Research; IEEE ACCESS; IET Smart Grid; IET Renewable Power Generation; Applied Energy; IEEE Transactions on Neural Networks and Learning Systems; IEEE Transactions on Cybernetics; IEEE Transactions on Industrial Informatics; IEEE Transactions on Industry Applications</p>
 
-  <h2>🔥 News</h2>
+  <h1>🔥 News</h1>
 
-  <h3>2025</h3>
+  <h2>2025</h2>
   <div class="timeline-entry">
     <span class="date">2025-04-25</span>
     <span class="content">Appointed as an early career researcher associate editor for IET Smart Grid.</span>
@@ -71,7 +71,7 @@ author_profile: true
     <span class="content">Our paper "Bayesian post-fault power system dynamic trajectory prediction" has been accepted to IEEE Transactions on Power Systems.</span>
   </div>
 
-  <h3>2024</h3>
+  <h2>2024</h2>
   <div class="timeline-entry">
     <span class="date">2024-09-09</span>
     <span class="content">Our paper "Power system dynamic state estimation of grid-forming inverters with current limiter" has been accepted to IEEE Transactions on Power Systems.</span>
@@ -127,7 +127,7 @@ author_profile: true
     <span class="content">Received <span class="award">the 2023 IEEE PES Connecticut Chapter Outstanding Young Engineer Award</span>!</span>
   </div>
 
-  <h3>2023</h3>
+  <h2>2023</h2>
   <div class="timeline-entry">
     <span class="date">2023-12-21</span>
     <span class="content">Received <span class="award">2023 Outstanding Reviewer</span> from IEEE Transactions on Power Systems!</span>
@@ -178,7 +178,7 @@ author_profile: true
     <span class="content">Our paper "Time-varying inertia estimation for inverter-based resources" has been accepted to 2023 IEEE PES General Meeting.</span>
   </div>
 
-  <h3>2022</h3>
+  <h2>2022</h2>
   <div class="timeline-entry">
     <span class="date">2022-12-18</span>
     <span class="content">Our paper "Transferable deep kernel emulator for probabilistic load margin assessment with topology changes, uncertain renewable generations and loads" has been accepted to IEEE Transactions on Power Systems.</span>
@@ -214,7 +214,7 @@ author_profile: true
     <span class="content">Received <span class="award">2021 Outstanding Reviewer</span> from IEEE Transactions on Power Systems!</span>
   </div>
 
-  <h3>2021</h3>
+  <h2>2021</h2>
   <div class="timeline-entry">
     <span class="date">2021-12-01</span>
     <span class="content">Our paper "Distributed frequency divider for power system bus frequency online estimation considering virtual inertia from DFIGs" has been accepted to IEEE Journal on Emerging and Selected Topics in Circuits and Systems.</span>
@@ -230,7 +230,7 @@ author_profile: true
     <span class="content">Our paper "Power system inertia estimation: review of methods and the impacts of converter-interfaced generations" has been accepted to International Journal of Electrical Power and Energy Systems.</span>
   </div>
 
-  <h3>2020</h3>
+  <h2>2020</h2>
   <div class="timeline-entry">
     <span class="date">2020-08-06</span>
     <span class="content">Our paper "Adaptive integrating assessment method for transient stability of power system considering missing data" has been accepted to Automation of Electric Power Systems (in Chinese).</span>
