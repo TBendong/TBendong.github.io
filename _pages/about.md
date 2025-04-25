@@ -13,8 +13,9 @@ author_profile: true
     body {
       font-family: Arial, sans-serif;
       line-height: 1.6;
-      margin: 20px;
-      width: 100%;
+      max-width: 1260px; /* Increased by 40% from 900px */
+      margin: 0 auto;
+      padding: 20px;
     }
     h1 {
       color: #333;
