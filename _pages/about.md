@@ -8,32 +8,23 @@ author_profile: true
 ---
 {% include base_path %}
 <html>
-<head>
   <style>
-    body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            max-width: 1260px; /* Increased by 40% from 900px */
-            margin: 0 auto;
-            padding: 20px;
-        }
-    <html>
-<head>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 20px;
-      max-width: 2400px;
-      margin-left: auto;
-      margin-right: auto;
-    }
     h2 {
-      color: #333;
-      border-bottom: 2px solid #4F81BD;
-      padding-bottom: 5px;
-      margin-top: 25px;
-    }
+  color: #333;
+  font-size: 28px; /* 调大字号 */
+  font-weight: bold; /* 加粗 */
+  border-bottom: 3px solid #4F81BD; /* 更明显的下划线 */
+  padding-bottom: 8px; /* 下边距更大一点 */
+  margin-top: 35px; /* 上边距也适当拉大 */
+}
+    h2 {
+  color: #333;
+  font-size: 28px; /* 调大字号 */
+  font-weight: bold; /* 加粗 */
+  border-bottom: 3px solid #4F81BD; /* 更明显的下划线 */
+  padding-bottom: 8px; /* 下边距更大一点 */
+  margin-top: 35px; /* 上边距也适当拉大 */
+}
     .timeline-entry {
       display: flex;
       gap: 8px;
