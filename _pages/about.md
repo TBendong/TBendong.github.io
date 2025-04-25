@@ -13,7 +13,7 @@ author_profile: true
     body {
       font-family: Arial, sans-serif;
       line-height: 1.6;
-      max-width: 1260px; /* Increased by 40% from 900px */
+      max-width: 1260px; /* Updated to match the second code */
       margin: 0 auto;
       padding: 20px;
     }
