@@ -15,10 +15,11 @@ For a complete list of publications, please refer to <a href="https://scholar.go
     <style>
         body {
             font-family: Arial, sans-serif;
-            line-height: 1.6;
-            max-width: 1260px; /* Increased by 40% from 900px */
-            margin: 0 auto;
-            padding: 20px;
+      line-height: 1.5; /* Adjusted for readability */
+      width: 100%; /* Full width adaptive to viewport */
+      margin: 0 auto;
+      padding: 10px; /* Reduced padding to allow more text per line */
+      box-sizing: border-box; /* Ensures padding is included in width */
         }
         h2 {
             color: #2c3e50;
@@ -209,7 +210,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 </html>
 
 <div style="color: white;">
-    这是一段白色字体的内容，在网页白色背景下不可见，但实际上存在于页面中。您可以在这里放置任何您想要添加的隐藏内容。这种技术有时用于搜索引擎优化(SEO)或特殊用途，但请注意滥用这种方法可能被一些搜索引擎视为不良做法。
+    这是一段白色字体的内容，在网页白色背景下不可见，但实际上存在于页面中。您可以在这里放置任何您想要添加的隐藏内容。这种技术有时用于搜索引擎优化(SEO)或特殊用途，但请注意滥用这种方法可能被一些搜索引擎视为不良做法。这是一段白色字体的内容，在网页白色背景下不可见，但实际上存在于页面中。您可以在这里放置任何您想要添加的隐藏内容。这种技术有时用于搜索引擎优化(SEO)或特殊用途，但请注意滥用这种方法可能被一些搜索引擎视为不良做法。这是一段白色字体的内容，在网页白色背景下不可见，但实际上存在于页面中。您可以在这里放置任何您想要添加的隐藏内容。这种技术有时用于搜索引擎优化(SEO)或特殊用途，但请注意滥用这种方法可能被一些搜索引擎视为不良做法。
 </div>
 
 
