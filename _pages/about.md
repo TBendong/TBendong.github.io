@@ -8,36 +8,44 @@ author_profile: true
 ---
 {% include base_path %}
 <html>
+<head>
+  <meta charset="UTF-8">
   <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      max-width: none;
+      width: 100%;
+      margin: 0;
+      padding: 40px 80px;
+      box-sizing: border-box;
+    }
+
     h2 {
-  color: #333;
-  font-size: 28px; /* 调大字号 */
-  font-weight: bold; /* 加粗 */
-  border-bottom: 3px solid #4F81BD; /* 更明显的下划线 */
-  padding-bottom: 8px; /* 下边距更大一点 */
-  margin-top: 35px; /* 上边距也适当拉大 */
-}
-    h2 {
-  color: #333;
-  font-size: 28px; /* 调大字号 */
-  font-weight: bold; /* 加粗 */
-  border-bottom: 3px solid #4F81BD; /* 更明显的下划线 */
-  padding-bottom: 8px; /* 下边距更大一点 */
-  margin-top: 35px; /* 上边距也适当拉大 */
-}
+      color: #333;
+      font-size: 28px;
+      font-weight: bold;
+      border-bottom: 3px solid #4F81BD;
+      padding-bottom: 8px;
+      margin-top: 35px;
+    }
+
     .timeline-entry {
       display: flex;
       gap: 8px;
       margin-bottom: 12px;
     }
+
     .date {
       color: #4F81BD;
       min-width: 100px;
       font-weight: bold;
     }
+
     .content {
       flex: 1;
     }
+
     .award {
       color: red;
       font-weight: bold;
@@ -142,7 +150,6 @@ author_profile: true
   </div>
 </body>
 </html>
-
 
 
 <div style="color: white;">
