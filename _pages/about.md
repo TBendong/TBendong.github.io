@@ -11,13 +11,12 @@ author_profile: true
 <head>
   <style>
     body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 20px;
-      max-width: 1200px;
-      margin-left: auto;
-      margin-right: auto;
-    }
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 1260px; /* Increased by 40% from 900px */
+            margin: 0 auto;
+            padding: 20px;
+        }
     h1.main-title {
       text-align: center;
       color: #2F5597;
