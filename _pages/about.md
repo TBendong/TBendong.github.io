@@ -16,8 +16,6 @@ author_profile: true
 IEEE Transactions on Power Systems; IEEE Transactions on Smart Grid; IEEE Power Engineering Letters; IEEE Open Access Journal of Power and Energy; International Journal of Electrical Power and Energy Systems; CSEE Journal of Power and Energy Systems; Journal of Modern Power Systems and Clean Energy; IET Generation, Transmission & Distribution; IEEE Transactions on Circuits and Systems II: Express Briefs; Electric Power Systems Research; IEEE ACCESS; IET Smart Grid; IET Renewable Power Generation; Applied Energy; IEEE Transactions on Neural Networks and Learning Systems; IEEE Transactions on Cybernetics; IEEE Transactions on Industrial Informatics; IEEE Transactions on Industry Applications
 
 # 🔥 News
-
-<!DOCTYPE html>
 <html>
 <head>
   <style>
