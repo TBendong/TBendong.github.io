@@ -12,16 +12,20 @@ author_profile: true
   <style>
     body {
       font-family: Arial, sans-serif;
-      line-height: 1.6;
+      line-height: 1.5; /* Adjusted for readability */
       width: 100%; /* Full width adaptive to viewport */
       margin: 0 auto;
-      padding: 20px;
+      padding: 10px; /* Reduced padding to allow more text per line */
       box-sizing: border-box; /* Ensures padding is included in width */
     }
     h1 {
       color: #333;
       border-bottom: 2px solid #4F81BD;
       padding-bottom: 5px;
+    }
+    p {
+      width: 100%; /* Ensure paragraphs use full width */
+      margin: 0 0 10px 0; /* Consistent margin for paragraphs */
     }
     .timeline-entry {
       display: flex;
