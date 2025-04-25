@@ -16,7 +16,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
-            max-width: 900px;
+            max-width: 1260px; /* Increased by 40% from 900px */
             margin: 0 auto;
             padding: 20px;
         }
@@ -27,41 +27,79 @@ For a complete list of publications, please refer to <a href="https://scholar.go
             margin-top: 30px;
         }
         .publication-list {
-            counter-reset: journal-counter;
             list-style-type: none;
             padding-left: 0;
+            /* Remove counter-reset as we'll use custom numbering */
         }
         .publication-list li {
             margin-bottom: 15px;
-            padding-left: 40px;
+            padding-left: 60px; /* Increased from 40px to prevent overlap */
             position: relative;
         }
         .publication-list li::before {
-            counter-increment: journal-counter;
-            content: "[J" counter(journal-counter) "]";
             position: absolute;
             left: 0;
             font-weight: bold;
-            color: #3498db;
+            color: #000000; /* Changed to black */
+            width: 50px; /* Fixed width for the counter */
+            text-align: right;
+            padding-right: 10px;
         }
+        /* Custom numbering for journal papers */
+        .publication-list li:nth-child(1)::before { content: "[J23]"; }
+        .publication-list li:nth-child(2)::before { content: "[J22]"; }
+        .publication-list li:nth-child(3)::before { content: "[J21]"; }
+        .publication-list li:nth-child(4)::before { content: "[J20]"; }
+        .publication-list li:nth-child(5)::before { content: "[J19]"; }
+        .publication-list li:nth-child(6)::before { content: "[J18]"; }
+        .publication-list li:nth-child(7)::before { content: "[J17]"; }
+        .publication-list li:nth-child(8)::before { content: "[J16]"; }
+        .publication-list li:nth-child(9)::before { content: "[J15]"; }
+        .publication-list li:nth-child(10)::before { content: "[J14]"; }
+        .publication-list li:nth-child(11)::before { content: "[J13]"; }
+        .publication-list li:nth-child(12)::before { content: "[J12]"; }
+        .publication-list li:nth-child(13)::before { content: "[J11]"; }
+        .publication-list li:nth-child(14)::before { content: "[J10]"; }
+        .publication-list li:nth-child(15)::before { content: "[J9]"; }
+        .publication-list li:nth-child(16)::before { content: "[J8]"; }
+        .publication-list li:nth-child(17)::before { content: "[J7]"; }
+        .publication-list li:nth-child(18)::before { content: "[J6]"; }
+        .publication-list li:nth-child(19)::before { content: "[J5]"; }
+        .publication-list li:nth-child(20)::before { content: "[J4]"; }
+        .publication-list li:nth-child(21)::before { content: "[J3]"; }
+        .publication-list li:nth-child(22)::before { content: "[J2]"; }
+        .publication-list li:nth-child(23)::before { content: "[J1]"; }
+        
         .conference-list {
-            counter-reset: conference-counter;
             list-style-type: none;
             padding-left: 0;
+            /* Remove counter-reset as we'll use custom numbering */
         }
         .conference-list li {
             margin-bottom: 15px;
-            padding-left: 40px;
+            padding-left: 60px; /* Increased from 40px to prevent overlap */
             position: relative;
         }
         .conference-list li::before {
-            counter-increment: conference-counter;
-            content: "[C" counter(conference-counter) "]";
             position: absolute;
             left: 0;
             font-weight: bold;
-            color: #e74c3c;
+            color: #000000; /* Changed to black */
+            width: 50px; /* Fixed width for the counter */
+            text-align: right;
+            padding-right: 10px;
         }
+        /* Custom numbering for conference papers */
+        .conference-list li:nth-child(1)::before { content: "[C9]"; }
+        .conference-list li:nth-child(2)::before { content: "[C8]"; }
+        .conference-list li:nth-child(3)::before { content: "[C7]"; }
+        .conference-list li:nth-child(4)::before { content: "[C6]"; }
+        .conference-list li:nth-child(5)::before { content: "[C5]"; }
+        .conference-list li:nth-child(6)::before { content: "[C4]"; }
+        .conference-list li:nth-child(7)::before { content: "[C3]"; }
+        .conference-list li:nth-child(8)::before { content: "[C2]"; }
+        .conference-list li:nth-child(9)::before { content: "[C1]"; }
+        
         .papers-in-progress {
             list-style-type: none;
             padding-left: 20px;
