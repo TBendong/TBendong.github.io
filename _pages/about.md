@@ -14,7 +14,7 @@ author_profile: true
       font-family: Arial, sans-serif;
       line-height: 1.6;
       margin: 20px;
-      width: 120%;
+      width: 100%;
     }
     h1 {
       color: #333;
