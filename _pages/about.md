@@ -24,8 +24,8 @@ IEEE Transactions on Power Systems; IEEE Transactions on Smart Grid; IEEE Power 
 - **[2025-01-19]** Our paper "Bayesian post-fault power system dynamic trajectory prediction" has been accepted to IEEE Transactions on Power Systems.
 
 ## 2024
-<div style="display: grid; grid-template-columns: auto auto; gap: 2px;">
-  <span style="color: #4F81BD;">2024-09-09</span> <span> Our paper "Power system dynamic state estimation of grid-forming inverters with current limiter" has been accepted to IEEE Transactions on Power Systems
+<div style="display: flex; gap: 8px; margin-bottom: 4px;">
+  <span style="color: #4F81BD; min-width: 100px;">2024-09-09</span> <span> Our paper "Power system dynamic state estimation of grid-forming inverters with current limiter" has been accepted to IEEE Transactions on Power Systems
     </span>
 - **[2024-09-09]** Our paper "Power system dynamic state estimation of grid-forming inverters with current limiter" has been accepted to IEEE Transactions on Power Systems.
 - **[2024-07-31]** The PhD defense has been done! My PhD studies at the University of Connecticut are finished!
