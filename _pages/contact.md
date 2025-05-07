@@ -20,48 +20,99 @@ Contact information is below, including email and various web services.  This i
 * Researchgate: [This is the website where I share my research](https://www.researchgate.net/profile/Bendong_Tan)
 
 # 🗺️ Visitor Map
+
+**<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Website Visitor Map</title>
+    <title>My GitHub Website</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
             max-width: 800px;
             margin: 0 auto;
-            padding: 20px;
+        }
+        header {
             text-align: center;
+            margin-bottom: 30px;
         }
-        h1 {
-            color: #333;
-        }
-        .map-container {
-            margin: 30px 0;
-        }
-        .description {
+        .visitor-stats {
             background-color: #f5f5f5;
             padding: 15px;
             border-radius: 5px;
-            text-align: left;
+            margin-top: 20px;
+        }
+        footer {
             margin-top: 30px;
+            text-align: center;
+            font-size: 0.9em;
+            color: #666;
         }
     </style>
 </head>
 <body>
-    <h1>My Website Visitor Map</h1>
+    <header>
+        <h1>Welcome to My Website</h1>
+    </header>
     
-    <div class="map-container">
-        <!-- RevolveMaps Visitor Map Widget -->
-        <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
-    </div>
+    <main>
+        <p>This is the main content of my website...</p>
+        
+        <div class="visitor-stats">
+            <h3>Visitor Statistics</h3>
+            <!-- Flag Counter for visitor countries and count -->
+            <div>
+                <a href="https://flagcounter.com/">
+                    <img src="https://s11.flagcounter.com/count2/XXXX/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter">
+                </a>
+            </div>
+            
+            <!-- Simple visitor counter -->
+            <div id="visitor-count">
+                <p>Visits: <span id="count">Loading...</span></p>
+            </div>
+            
+            <!-- Visitor location information -->
+            <div id="visitor-location">
+                <p>Your location: <span id="location">Loading...</span></p>
+            </div>
+        </div>
+    </main>
     
-    <div class="description">
-        <h2>About This Visitor Map</h2>
-        <p>This interactive map displays visitors to our website from around the world. Each visit is marked on the map, helping us understand our website's global reach and impact.</p>
-    </div>
+    <footer>
+        <p>© 2025 My GitHub Website</p>
+    </footer>
+
+    <!-- Script for visitor location and counting -->
+    <script>
+        // Simple visitor counter (using localStorage for demonstration)
+        // In a real application, you should use a backend service or third-party API
+        window.addEventListener('DOMContentLoaded', function() {
+            // Visitor counter
+            let count = localStorage.getItem('visitorCount') || 0;
+            count = parseInt(count) + 1;
+            localStorage.setItem('visitorCount', count);
+            document.getElementById('count').textContent = count;
+            
+            // Get visitor location information
+            fetch('https://ipapi.co/json/')
+                .then(response => response.json())
+                .then(data => {
+                    const location = `${data.city}, ${data.country_name}`;
+                    document.getElementById('location').textContent = location;
+                })
+                .catch(error => {
+                    document.getElementById('location').textContent = 'Unable to retrieve location';
+                    console.error('Failed to get location information:', error);
+                });
+        });
+    </script>
 </body>
-</html>
+</html>**
 
 
 <div style="color: white;">
