@@ -65,6 +65,12 @@ nav_order: 2
     content: "[C" counter(pub-counter) "] "; /* Display numbering */
     font-weight: bold;
 }
+
+/* Highlight Bendong Tan */
+.author-highlight {
+    font-weight: bold;      /* Make bold */
+    color: #1a73e8;         /* Optional: change color */
+}
 </style>
 
 <div class="publications">
@@ -86,4 +92,5 @@ nav_order: 2
 
   <li><span class="author-highlight">Bendong Tan</span>, Jun Yang, Xueli Pan, Jun Li, Peiyuan Xie, and Ciling Zeng, "<a href="https://www.theiet.org/publishing/journals/joe/">Representational learning approach for power system transient stability assessment based on convolutional neural network</a>," in <span class="journal-name">The Journal of Engineering</span>, vol. 2017, no. 13, pp. 1847-1850, 2017.</li> 
 </div>
+
 
