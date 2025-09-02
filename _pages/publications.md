@@ -55,7 +55,7 @@ nav_order: 2
 ### Journal Papers
 
 <div class="journal-publications publications">
-
+   
 <li>
     <span class="author-highlight">Bendong Tan</span>, Junbo Zhao, Naiyuan Chiang, and Nan Duan, 
     "<a href="https://ieeexplore.ieee.org/document/10056325">High-dimension Bayesian parameter estimation for WECC composite load model using realistic event measurements</a>", 
