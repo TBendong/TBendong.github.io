@@ -19,7 +19,7 @@ horizontal: false
 
 <!-- Professional Membership -->
 <div class="service-category">
-  <h3>Professional Organization</h3>
+  <h3>Professional Membership</h3>
   <ul>
     <li>Technical Program Committee Member, IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (Sept. 20 – Oct. 2, 2025)</li>
     <li>Member, IEEE Working Group on Big Data & Analytics for Transmission Systems (2024 - Present)</li>
@@ -29,7 +29,7 @@ horizontal: false
 
 <!-- Journal Reviewers -->
 <div class="service-category">
-  <h3>Peer Reviewer in Journals</h3>
+  <h3>Journal Reviewers</h3>
   <ul>
     <li>IEEE Transactions on Power Systems</li>
     <li>IEEE Transactions on Smart Grid</li>
