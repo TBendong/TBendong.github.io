@@ -7,13 +7,15 @@ nav_order: 2
 ---
 
 <style>
-/* Highlight text with soft yellow background and red font */
-.highlight {
-    background-color: #FFFACD; /* Light yellow background */
-    color: #D32F2F;            /* Softer red font */
-    font-weight: normal;        /* Remove bold */
-    padding: 0.1em 0.3em;      /* Small padding for better visibility */
-    border-radius: 3px;         /* Slightly rounded corners */
+/* Style for section titles */
+.section-title {
+    background-color: #FFFACD;  /* Light yellow background */
+    color: #D32F2F;            /* Soft red text color */
+    font-weight: normal;       /* Remove default bold */
+    padding: 0.2em 0.5em;      /* Add some padding for readability */
+    border-radius: 5px;        /* Rounded corners */
+    display: inline-block;     /* Background wraps only around the text */
+    margin-bottom: 0.8em;      /* Space below the title */
 }
 </style>
 
@@ -74,7 +76,7 @@ h4 {
 
 For a complete list of publications, please refer to <a href="https://scholar.google.com/citations?user=FdEP8xgAAAAJ&hl=en">Google Scholar</a>.
 
-<h2>📝In-Progress Papers</h2>
+<h3 class="section-title">📝In-Progress Papers</h3>
 <div class="journal-publications publications">
 <li>
   <span class="author-highlight">Bendong Tan</span>, Deepjyoti Deka and Junbo Zhao,
@@ -109,7 +111,7 @@ Luo,
 </li>
 </div>
 
-<h2>📝Journal Papers</h2>
+<h3 class="section-title">📝Journal Papers</h3>
 
 <div class="journal-publications publications">
    
@@ -192,7 +194,7 @@ Luo,
 
 </div>
 
-<h2>📝Conference Papers</h2>
+<h3 class="section-title">📝Conference Papers</h3>
 
 <div class="conference-publications publications">
 <li>Ketian Ye, Junbo Zhao, Mingguo Hong and Slava Maslennikov, <span class="author-highlight">Bendong Tan</span> and Xiaochuan Luo, "<a href="https://ieeexplore.ieee.org/document/10688568">Power system overloading risk assessment considering topology and renewable uncertainties</a>," in <span class="journal-name">2024 IEEE Power & Energy Society General Meeting (PESGM)</span>, pp. 1-5, 2024. <span class="highlight">Best Paper Award</span></li> 
