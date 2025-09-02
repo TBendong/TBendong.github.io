@@ -111,7 +111,7 @@ nav_order: 2
 
 <li>
   <span class="author-highlight">Bendong Tan</span>, Jun Yang, Yuan Liu, Wenjing Liu, Ting Zhou, Yuanzhang Sun,
-  "Adaptive Integrated Assessment Method for Transient Stability of Power System Considering PMU Data Missing",
+  "Adaptive integrated assessment method for transient stability of power system considering PMU data missing",
   <span class="journal-name">Automation of Electric Power Systems</span>, vol. 45, no. 23, pp. 68–75, 2021. (in Chinese, EI)
 </li>
 
