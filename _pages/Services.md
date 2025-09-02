@@ -12,8 +12,8 @@ horizontal: false
 <div class="service-category">
   <h3>Editorial Services</h3>
   <ul>
-    <li><strong>Youth Editor, IET Smart Grid (2025 - Present)</li>
-    <li><strong>Youth Editor, Energy Conversion and Economics (2025 - Present)</li>
+    <li>Youth Editor, IET Smart Grid (2025 - Present)</li>
+    <li>Youth Editor, Energy Conversion and Economics (2025 - Present)</li>
   </ul>
 </div>
 
@@ -21,9 +21,9 @@ horizontal: false
 <div class="service-category">
   <h3>Professional Organization</h3>
   <ul>
-    <li><strong>Technical Program Committee Member, IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (Sept. 20 – Oct. 2, 2025)</li>
-    <li><strong>Member, IEEE Working Group on Big Data & Analytics for Transmission Systems (2024 - Present)</li>
-    <li><strong>Member, IEEE Task Force on Standard Test Cases for Power System State Estimation (2022 - Present)</li>
+    <li>Technical Program Committee Member, IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (Sept. 20 – Oct. 2, 2025)</li>
+    <li>Member, IEEE Working Group on Big Data & Analytics for Transmission Systems (2024 - Present)</li>
+    <li>Member, IEEE Task Force on Standard Test Cases for Power System State Estimation (2022 - Present)</li>
   </ul>
 </div>
 
