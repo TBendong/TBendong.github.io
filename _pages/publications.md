@@ -109,7 +109,11 @@ nav_order: 2
 
 <li><span class="author-highlight">Bendong Tan</span>, Junbo Zhao, Marcos Netto, Venkat Krishnan, Vladimir Terzija and Yingchen Zhang, "<a href="https://www.sciencedirect.com/science/article/pii/S0142061521006013">Power system inertia estimation: review of methods and the impacts of converter-interfaced generations</a>," <span class="journal-name">International Journal of Electrical Power & Energy Systems</span>, Jan 2022. <span class="highlight">Best Journal Paper Award</span></li>
 
-<li><span class="author-highlight">Bendong Tan</span>, Jun Yang, Ting Zhou, Xiangpeng Zhan, Yuan Liu, Shengbo Jiang and Chao Luo, "Spatial-temporal adaptive transient stability assessment for power system under missing data," <span class="journal-name">International Journal of Electrical Power & Energy Systems</span>, vol.123, pp.106237, 2020.</li>
+<li>
+    <span class="author-highlight">Bendong Tan</span>, Jun Yang, Ting Zhou, Xiangpeng Zhan, Yuan Liu, Shengbo Jiang and Chao Luo,
+    "<a href="https://www.sciencedirect.com/science/article/pii/S0142061520307212">Spatial-temporal adaptive transient stability assessment for power system under missing data</a>",
+    <span class="journal-name">International Journal of Electrical Power & Energy Systems</span>, vol. 123, p. 106237, Dec. 2020.
+  </li>
 
 <li>Ting Zhou, Jun Yang, Qiangming Zhou, <span class="author-highlight">Bendong Tan</span>, Yue Zhou, Jian Xu and Yuanzhang Sun, "Power system transient stability assessment based on modified LightGBM," <span class="journal-name">Power System Technology</span>, vol.43, no.6, pp.1931-1940, 2019. (in Chinese, EI)</li>
 
