@@ -40,8 +40,9 @@ h4 {
 
 /* Highlight Bendong Tan */
 .author-highlight {
-    font-weight: bold;
-    color: #000000; /* Optional: blue color */
+    font-weight: normal;          /* remove bold */
+    color: #000000;               /* keep black font */
+    text-decoration: underline;   /* add underline */
 }
 
 /* Journal Papers Auto-numbering [J*] */
