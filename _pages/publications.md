@@ -7,6 +7,18 @@ nav_order: 2
 ---
 
 <style>
+/* Highlight text with yellow background and red font */
+.highlight {
+    background-color: #FFFF00; /* Yellow background */
+    color: #FF0000;            /* Red font */
+    font-weight: bold;          /* Optional: make text bold */
+    padding: 0.1em 0.3em;      /* Optional: small padding for better visibility */
+    border-radius: 3px;         /* Optional: slightly rounded corners */
+}
+</style>
+
+
+<style>
 /* Add a blue thick line below all h4 headings */
 /* The line will span the full width of the content area */
 h4 {
