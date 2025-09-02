@@ -10,7 +10,7 @@ horizontal: false
 
 <!-- Editorial Services -->
 <div class="service-category">
-  <h3>Editorial Services</h3>
+  <h2>Editorial Services</h2>
   <ul>
     <li>Youth Editor, IET Smart Grid (2025 - Present)</li>
     <li>Youth Editor, Energy Conversion and Economics (2025 - Present)</li>
@@ -19,7 +19,7 @@ horizontal: false
 
 <!-- Professional Membership -->
 <div class="service-category">
-  <h3>Professional Membership</h3>
+  <h2>Professional Membership</h2>
   <ul>
     <li>Technical Program Committee Member, IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (Sept. 20 – Oct. 2, 2025)</li>
     <li>Member, IEEE Working Group on Big Data & Analytics for Transmission Systems (2024 - Present)</li>
@@ -29,7 +29,7 @@ horizontal: false
 
 <!-- Journal Reviewers -->
 <div class="service-category">
-  <h3>Journal Reviewers</h3>
+  <h2>Journal Reviewers</h2>
   <p>
 IEEE Transactions on Power Systems; IEEE Transactions on Smart Grid; IEEE Transactions on Sustainable Energy; IEEE Power Engineering Letters; IEEE Open Access Journal of Power and Energy; International Journal of Electrical Power & Energy Systems; CSEE Journal of Power and Energy Systems; IET Generation, Transmission & Distribution; Journal of Modern Power Systems and Clean Energy; IEEE Transactions on Industry Applications; IEEE Transactions on Circuits and Systems II: Express Briefs; Electric Power Systems Research; IEEE ACCESS; IET Smart Grid; IET Renewable Power Generation; Applied Energy; IEEE Transactions on Neural Networks and Learning Systems; IEEE Transactions on Cybernetics
 </p>
