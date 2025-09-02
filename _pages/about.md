@@ -59,11 +59,6 @@ In the past five years, I have published over 30 research papers at prestigious 
             font-weight: bold;
             text-align: center;
         }
-        p {
-            font-size: 18px;
-            line-height: 1.6;
-            margin-bottom: 10px;
-        }
         .email {
             color: #333;  /* 继承默认字体 */
         }
