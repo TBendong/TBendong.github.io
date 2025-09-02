@@ -44,8 +44,9 @@ My research interests lie in dynamic modeling/monitoring, stability assessment, 
         .card-title {
             color: #4a90e2;
             font-size: 1.6em;
-            margin-bottom: 15px;
+            margin-bottom: 5px;
             font-weight: bold; /* 加粗 */
+            text-align: center;
         }
         p {
             font-size: 18px;
