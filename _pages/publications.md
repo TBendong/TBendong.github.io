@@ -81,7 +81,7 @@ For a complete list of publications, please refer to
 <!-- -------------------- In-Progress Papers -------------------- -->
 
 <div class="journal-publications publications">
-    <h3 class="section-title">In-Progress Papers</h3>
+    <h4 class="section-title">In-Progress Papers</h4>
     <li>
         <span class="author-highlight">Bendong Tan</span>, Deepjyoti Deka and Junbo Zhao, 
         "Spatial-temporal global sensitivity analysis for probabilistic transient stability assessment", 
