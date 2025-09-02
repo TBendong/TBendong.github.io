@@ -37,50 +37,13 @@ In the past five years, I have published over 30 research papers at prestigious 
 
 <strong>I am open to research discussions and collaborations. Feel free to reach out to me via email!</strong>
 
-<html>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>I'm actively looking for Ph.D./MPhil/RA students</title>
-    <style>
-        body {
-            margin: 50px auto;
-            max-width: 800px;
-            padding: 20px;
-        }
-        .card {
-            background: #e8f4fd;
-            border-radius: 12px;
-            padding: 5px;
-        }
-        .card-title {
-            font-size: 1.6em;
-            margin-bottom: 5px;
-            font-weight: bold;
-            text-align: center;
-        }
-        p {
-            line-height: 1.6;
-            margin-bottom: 10px;
-        }
-        .email {
-            color: #333;  /* 继承默认字体 */
-        }
-        a {
-            color: #4a90e2;
-        }
-    </style>
-</head>
-<body>
-    <div class="card">
-        <h4 class="card-title">Openings for 26 Spring/Fall</h4>
-        
-        <p>I'm actively looking for Postdoc and Ph.D. students to work with me. Feel free to drop me an email (bendong.tan@uconn.edu) with the subject "{Postdoc|PhD}-{Your Name}" (e.g., PhD-Jiacheng Shen) with your CV and transcripts attached, if you are interested.</p>
-        
-        <p>Check <a href="#openings">openings</a> for more details.</p>
-    </div>
-</body>
-</html>
+<p>
+    <span style="color: red; font-weight: bold;">Openings for 26 Spring/Fall</span>: I'm actively looking for Postdoc and Ph.D. students to work with me. 
+    Feel free to drop me an email (bendong.tan@uconn.edu) with the subject "{Postdoc|PhD}-{Your Name}" (e.g., PhD-Jiacheng Shen) with your CV and transcripts attached, if you are interested. 
+    Check <a href="#openings">openings</a> for more details.
+</p>
+
+
 
 
 
