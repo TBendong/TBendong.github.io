@@ -40,12 +40,13 @@ My research interests lie in dynamic modeling/monitoring, stability assessment, 
             background: #e8f4fd;
             border-radius: 12px;
             padding: 5px;
+            font-family: inherit;  /* 使用网页默认字体 */
         }
         .card-title {
             color: #4a90e2;
             font-size: 1.6em;
             margin-bottom: 5px;
-            font-weight: bold; /* 加粗 */
+            font-weight: bold;
             text-align: center;
         }
         p {
@@ -55,8 +56,7 @@ My research interests lie in dynamic modeling/monitoring, stability assessment, 
             margin-bottom: 10px;
         }
         .email {
-            color: #333;
-            font-family: monospace;
+            color: #333;  /* 继承默认字体 */
         }
         a {
             color: #4a90e2;
@@ -73,6 +73,7 @@ My research interests lie in dynamic modeling/monitoring, stability assessment, 
     </div>
 </body>
 </html>
+
 
 
 
