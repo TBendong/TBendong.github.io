@@ -52,7 +52,6 @@ body {
     background: #e8f4fd;
     border-radius: 12px;
     padding: 5px;
-    font-family: inherit;
 }
 .card-title {
     margin-bottom: 5px;
@@ -74,8 +73,8 @@ a {
 <body>
 <div class="card">
     <h4 class="card-title">Openings for 26 Spring/Fall</h4>
-    <p>I'm actively looking for Postdoc and Ph.D. students to work with me. Feel free to drop me an email (<span class="email">bendong.tan@uconn.edu</span>) with the subject "{Postdoc|PhD}-{Your Name}" (e.g., PhD-Jiacheng Shen) with your CV and transcripts attached, if you are interested.</p>
-    <p>Check <a href="#Openings">openings</a> for more details.</p>
+    I'm actively looking for Postdoc and Ph.D. students to work with me. Feel free to drop me an email (<span class="email">bendong.tan@uconn.edu</span>) with the subject "{Postdoc|PhD}-{Your Name}" (e.g., PhD-Jiacheng Shen) with your CV and transcripts attached, if you are interested.
+    Check <a href="#Openings">openings</a> for more details.
 </div>
 </body>
 </html>
