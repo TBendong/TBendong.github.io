@@ -52,11 +52,11 @@ ninja.data = [{
             window.location.href = "/Opening/";
           },
         },{id: "nav-people",
-          title: "people",
+          title: "People",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/people/";
+            window.location.href = "/People/";
           },
         },{id: "post-a-post-with-plotly-js",
         
