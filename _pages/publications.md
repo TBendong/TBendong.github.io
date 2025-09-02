@@ -18,10 +18,10 @@ nav_order: 2
 
 /* -------------------- Blue line under h4 -------------------- */
 h4 {
-    border-bottom: 3px solid #007BFF; /* Blue thick underline */
+    border-bottom: 1.5px solid #007BFF; /* Blue thick underline */
     padding-bottom: 0.4em; /* Reduce space between title text and underline */
     margin-bottom: 0.4em; /* Reduce space between underline and content */
-    width: 50%; 
+    width: 100%; 
     display: block; 
 }
 
@@ -83,13 +83,13 @@ For a complete list of publications, please refer to
 <div class="journal-publications publications">
     <h4 class="section-title">In-Progress Papers</h4>
     <li>
-        <span class="author-highlight">Bendong Tan</span>, Deepjyoti Deka and Junbo Zhao, 
+        <span class="author-highlight">Bendong Tan</span>, Deepjyoti Deka, and Junbo Zhao, 
         "Spatial-temporal global sensitivity analysis for probabilistic transient stability assessment", 
         <span class="journal-name">IEEE Transactions on Power Systems</span>, 2025. (Under revision)
     </li>
     <li>
         <span class="author-highlight">Bendong Tan</span>, Tong Su, Yu Weng, Ketian Ye, Parikshit Pareek, 
-        Petr Vorobev, Hung Nguyen, Junbo Zhao and Deepjyoti Deka, 
+        Petr Vorobev, Hung Nguyen, Junbo Zhao, and Deepjyoti Deka, 
         "<a href="https://arxiv.org/abs/2505.15950">Gaussian processes in power systems: Techniques, applications, and future Works</a>", 
         <span class="journal-name">Applied Energy</span>, 2025. (Under revision)
     </li>
