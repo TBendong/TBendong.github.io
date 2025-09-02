@@ -41,7 +41,6 @@ h4 {
 /* Highlight Bendong Tan */
 .author-highlight {
     font-weight: normal;          /* remove bold */
-    color: #000000;               /* keep black font */
     text-decoration: underline;   /* add underline */
 }
 
