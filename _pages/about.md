@@ -39,7 +39,7 @@ My research interests lie in dynamic modeling/monitoring, stability assessment, 
         .card {
             background: #e8f4fd;
             border-radius: 12px;
-            padding: 15px;
+            padding: 5px;
         }
         .card-title {
             color: #4a90e2;
