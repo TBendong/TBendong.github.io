@@ -19,7 +19,7 @@ nav_order: 2
 /* -------------------- Blue line under h4 -------------------- */
 h4 {
     border-bottom: 3px solid #007BFF; /* Blue thick underline */
-    padding-bottom: 0.1em; /* Reduce space between title text and underline */
+    padding-bottom: 0.4em; /* Reduce space between title text and underline */
     margin-bottom: 0.4em; /* Reduce space between underline and content */
     width: 100%; 
     display: block; 
@@ -111,8 +111,9 @@ For a complete list of publications, please refer to
 </div>
 
 <!-- -------------------- Journal Papers -------------------- -->
-<h3 class="section-title">📝Journal Papers</h3>
+
 <div class="journal-publications publications">
+    <h3 class="section-title">📝Journal Papers</h3>
     <li>
         <span class="author-highlight">Bendong Tan</span>, Junbo Zhao, Naiyuan Chiang and Nan Duan, 
         "<a href="https://ieeexplore.ieee.org/document/10892022">High-dimension Bayesian parameter estimation for WECC composite load model using realistic event measurements</a>", 
@@ -232,8 +233,9 @@ For a complete list of publications, please refer to
 </div>
 
 <!-- -------------------- Conference Papers -------------------- -->
-<h3 class="section-title">📝Conference Papers</h3>
+
 <div class="conference-publications publications">
+    <h3 class="section-title">📝Conference Papers</h3>
     <li>
         Ketian Ye, Junbo Zhao, Mingguo Hong and Slava Maslennikov, <span class="author-highlight">Bendong Tan</span> and Xiaochuan Luo, 
         "<a href="https://ieeexplore.ieee.org/document/10688568">Power system overloading risk assessment considering topology and renewable uncertainties</a>", 
