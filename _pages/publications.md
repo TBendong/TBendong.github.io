@@ -1,5 +1,6 @@
 ---
-layout: archive
+layout: page
+title: Publications
 permalink: /Publications/
 nav: true
 nav_order: 2
