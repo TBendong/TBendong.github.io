@@ -30,26 +30,9 @@ horizontal: false
 <!-- Journal Reviewers -->
 <div class="service-category">
   <h3>Journal Reviewers</h3>
-  <ul>
-    <li>IEEE Transactions on Power Systems</li>
-    <li>IEEE Transactions on Smart Grid</li>
-    <li>IEEE Transactions on Sustainable Energy</li>
-    <li>IEEE Power Engineering Letters</li>
-    <li>IEEE Open Access Journal of Power and Energy</li>
-    <li>International Journal of Electrical Power & Energy Systems</li>
-    <li>CSEE Journal of Power and Energy Systems</li>
-    <li>IET Generation, Transmission & Distribution</li>
-    <li>Journal of Modern Power Systems and Clean Energy</li>
-    <li>IEEE Transactions on Industry Applications</li>
-    <li>IEEE Transactions on Circuits and Systems II: Express Briefs</li>
-    <li>Electric Power Systems Research</li>
-    <li>IEEE ACCESS</li>
-    <li>IET Smart Grid</li>
-    <li>IET Renewable Power Generation</li>
-    <li>Applied Energy</li>
-    <li>IEEE Transactions on Neural Networks and Learning Systems</li>
-    <li>IEEE Transactions on Cybernetics</li>
-  </ul>
+  <p>
+IEEE Transactions on Power Systems; IEEE Transactions on Smart Grid; IEEE Transactions on Sustainable Energy; IEEE Power Engineering Letters; IEEE Open Access Journal of Power and Energy; International Journal of Electrical Power & Energy Systems; CSEE Journal of Power and Energy Systems; IET Generation, Transmission & Distribution; Journal of Modern Power Systems and Clean Energy; IEEE Transactions on Industry Applications; IEEE Transactions on Circuits and Systems II: Express Briefs; Electric Power Systems Research; IEEE ACCESS; IET Smart Grid; IET Renewable Power Generation; Applied Energy; IEEE Transactions on Neural Networks and Learning Systems; IEEE Transactions on Cybernetics
+</p>
 </div>
 
 <!-- 可选 CSS 提升排版美观 -->
