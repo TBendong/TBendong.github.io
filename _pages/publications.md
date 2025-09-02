@@ -7,22 +7,53 @@ nav: true
 nav_order: 2
 ---
 
+
+
 <style>
-/* Auto-numbering for journal papers as [J1], [J2], ... */
+/* General styling for publications */
 .publications {
-    counter-reset: journal-counter; /* Initialize counter */
     list-style: none; /* Remove default bullets */
     padding-left: 0;
+    margin-bottom: 1.5em;
 }
 
-.publications li::before {
-    counter-increment: journal-counter; /* Increment counter for each li */
-    content: "[J" counter(journal-counter) "] "; /* Display numbering */
+/* Highlight Bendong Tan */
+.author-highlight {
     font-weight: bold;
+    color: #1a73e8; /* Optional: blue color */
+}
+
+/* Journal Papers Auto-numbering [J*] */
+.journal-publications {
+    counter-reset: journal-counter;
+}
+
+.journal-publications li::before {
+    counter-increment: journal-counter;
+    content: "[J" counter(journal-counter) "] ";
+    font-weight: bold;
+}
+
+/* Conference Papers Auto-numbering [C*] */
+.conference-publications {
+    counter-reset: conf-counter;
+}
+
+.conference-publications li::before {
+    counter-increment: conf-counter;
+    content: "[C" counter(conf-counter) "] ";
+    font-weight: bold;
+}
+
+/* Optional: add spacing between entries */
+.publications li {
+    margin-bottom: 0.8em;
 }
 </style>
 
-<div class="publications">
+## Journal Papers
+
+<div class="journal-publications publications">
 <li>Jiahao Liu, Cheng Wang, Junbo Zhao, <span class="author-highlight">Bendong Tan</span> and Tianshu Bi, "<a href="https://ieeexplore.ieee.org/document/10209245">Simplified transient model of DFIG wind turbine for power system frequency dynamics analysis</a>," <span class="journal-name">IEEE Transactions on Power Systems</span>, vol. 39, no. 2, pp. 3752-3768, Mar. 2024.</li>
 
 <li><span class="author-highlight">Bendong Tan</span>, Junbo Zhao, "<a href="https://ieeexplore.ieee.org/document/10124366">Debiased uncertainty quantification approach for probabilistic transient stability assessment</a>," <span class="journal-name">IEEE Transactions on Power Systems</span>, vol. 38, no. 5, pp. 4954-4957, Sept. 2023.</li>
@@ -50,47 +81,26 @@ nav_order: 2
 <li><span class="author-highlight">Bendong Tan</span>, Junbo Zhao, Marcos Netto, Venkat Krishnan, Vladimir Terzija and Yingchen Zhang, "<a href="https://www.sciencedirect.com/science/article/pii/S0142061521006013">Power system inertia estimation: review of methods and the impacts of converter-interfaced generations</a>," <span class="journal-name">International Journal of Electrical Power & Energy Systems</span>, Jan 2022. <span class="highlight">Best Journal Paper Award</span></li>
 </div>
 
+## Conference Papers
 
+<div class="conference-publications publications">
+<li><span class="author-highlight">Bendong Tan</span>, Ketian Ye, Junbo Zhao, Mingguo Hong, Slava Maslennikov, and Xiaochuan Luo, "<a href="https://ieeexplore.ieee.org/document/10056325">Power system overloading risk assessment considering topology and renewable uncertainties</a>," in <span class="journal-name">2024 IEEE Power & Energy Society General Meeting (PESGM)</span>, pp. 1-5, 2024. <span class="highlight">Best Paper Award</span></li> 
 
-<style>
-/* Auto-numbering as [C1], [C2], ... */
-.publications {
-    counter-reset: pub-counter; /* Initialize counter */
-    list-style: none; /* Remove default list bullets */
-    padding-left: 0;
-}
+<li><span class="author-highlight">Bendong Tan</span>, Jiangkai Peng, Ningchao Gao, Junbo Zhao, and Jin Tan, "<a href="https://ieeexplore.ieee.org/document/10209245">Comparative study of data-driven area inertia estimation approaches on WECC power systems</a>," in <span class="journal-name">2024 IEEE Power & Energy Society General Meeting (PESGM)</span>, pp. 1-5, 2024.</li> 
 
-.publications li::before {
-    counter-increment: pub-counter; /* Increment counter for each li */
-    content: "[C" counter(pub-counter) "] "; /* Display numbering */
-    font-weight: bold;
-}
+<li><span class="author-highlight">Bendong Tan</span>, Junbo Zhao, Daniel Adrian Maldonado, and Jason Philhower, "<a href="https://ieeexplore.ieee.org/document/10124366">Time-varying inertia estimation for inverter-based resources</a>," in <span class="journal-name">2023 IEEE Power & Energy Society General Meeting (PESGM)</span>, pp. 1-5, 2023.</li> 
 
-/* Highlight Bendong Tan */
-.author-highlight {
-    font-weight: bold;      /* Make bold */
-    color: #1a73e8;         /* Optional: change color */
-}
-</style>
+<li><span class="author-highlight">Bendong Tan</span>, Junbo Zhao, Tong Su, Qiuhua Huang, Yingchen Zhang, and Hongming Zhang, "<a href="https://ieeexplore.ieee.org/document/9996972">Explainable Bayesian neural network for probabilistic transient stability analysis considering wind energy</a>," in <span class="journal-name">2022 IEEE Power & Energy Society General Meeting (PESGM)</span>, pp. 1-5, 2022. <span class="highlight">Best Paper Award</span></li> 
 
-<div class="publications">
-  <li><span class="author-highlight">Bendong Tan</span>, Ketian Ye, Junbo Zhao, Mingguo Hong, Slava Maslennikov, and Xiaochuan Luo, "<a href="https://ieeexplore.ieee.org/document/10056325">Power system overloading risk assessment considering topology and renewable uncertainties</a>," in <span class="journal-name">2024 IEEE Power & Energy Society General Meeting (PESGM)</span>, pp. 1-5, 2024. <span class="highlight">Best Paper Award</span></li> 
+<li><span class="author-highlight">Bendong Tan</span>, Junbo Zhao, Weijia Liu, and Nan Duan, "<a href="https://ieeexplore.ieee.org/document/9990924">Interpretable data-driven probabilistic power system load margin assessment with uncertain renewable energy and loads</a>," in <span class="journal-name">11th International Conference on Innovative Smart Grid Technologies (Asia)</span>, 2022. <span class="highlight">Best Paper Award</span></li> 
 
-  <li><span class="author-highlight">Bendong Tan</span>, Jiangkai Peng, Ningchao Gao, Junbo Zhao, and Jin Tan, "<a href="https://ieeexplore.ieee.org/document/10209245">Comparative study of data-driven area inertia estimation approaches on WECC power systems</a>," in <span class="journal-name">2024 IEEE Power & Energy Society General Meeting (PESGM)</span>, pp. 1-5, 2024.</li> 
+<li><span class="author-highlight">Bendong Tan</span>, Junbo Zhao, Federico Milano, Qiupin Lai, Yingchen Zhang, and Daniel Adrian Maldonado, "<a href="https://ieeexplore.ieee.org/document/10005097">Extended frequency divider for bus frequency estimation considering virtual inertia from DFIGs</a>," in <span class="journal-name">2021 IEEE PES Innovative Smart Grid Technologies Conference - Latin America (ISGT Latin America)</span>, pp. 1-5, 2021.</li> 
 
-  <li><span class="author-highlight">Bendong Tan</span>, Junbo Zhao, Daniel Adrian Maldonado, and Jason Philhower, "<a href="https://ieeexplore.ieee.org/document/10124366">Time-varying inertia estimation for inverter-based resources</a>," in <span class="journal-name">2023 IEEE Power & Energy Society General Meeting (PESGM)</span>, pp. 1-5, 2023.</li> 
+<li>Bi Liu, Junbo Zhao, Qi Huang, Federico Milano, <span class="author-highlight">Bendong Tan</span>, and Weihao Hu, "<a href="https://ieeexplore.ieee.org/document/9676646">Robust Nonlinear Controller for Wind Turbine Generator Drivetrain Torsional Oscillation under Large Disturbances</a>," in <span class="journal-name">2021 IEEE Power & Energy Society General Meeting (PESGM)</span>, Washington, DC, USA, 2021. <span class="highlight">Best Paper Award</span></li> 
 
-  <li><span class="author-highlight">Bendong Tan</span>, Junbo Zhao, Tong Su, Qiuhua Huang, Yingchen Zhang, and Hongming Zhang, "<a href="https://ieeexplore.ieee.org/document/9996972">Explainable Bayesian neural network for probabilistic transient stability analysis considering wind energy</a>," in <span class="journal-name">2022 IEEE Power & Energy Society General Meeting (PESGM)</span>, pp. 1-5, 2022. <span class="highlight">Best Paper Award</span></li> 
+<li><span class="author-highlight">Bendong Tan</span>, Jun Yang, Ting Zhou, Yi Xiao, and Qiangming Zhou, "<a href="https://ieeexplore.ieee.org/document/9652094">A novel temporal feature selection for time-Adaptive transient stability assessment</a>," in <span class="journal-name">2019 IEEE PES Innovative Smart Grid Technologies Europe (ISGT-Europe), Bucharest</span>, Romania, 2019, pp. 1-5.</li> 
 
-  <li><span class="author-highlight">Bendong Tan</span>, Junbo Zhao, Weijia Liu, and Nan Duan, "<a href="https://ieeexplore.ieee.org/document/9990924">Interpretable data-driven probabilistic power system load margin assessment with uncertain renewable energy and loads</a>," in <span class="journal-name">11th International Conference on Innovative Smart Grid Technologies (Asia)</span>, 2022. <span class="highlight">Best Paper Award</span></li> 
-
-  <li><span class="author-highlight">Bendong Tan</span>, Junbo Zhao, Federico Milano, Qiupin Lai, Yingchen Zhang, and Daniel Adrian Maldonado, "<a href="https://ieeexplore.ieee.org/document/10005097">Extended frequency divider for bus frequency estimation considering virtual inertia from DFIGs</a>," in <span class="journal-name">2021 IEEE PES Innovative Smart Grid Technologies Conference - Latin America (ISGT Latin America)</span>, pp. 1-5, 2021.</li> 
-
-  <li>Bi Liu, Junbo Zhao, Qi Huang, Federico Milano, <span class="author-highlight">Bendong Tan</span>, and Weihao Hu, "<a href="https://ieeexplore.ieee.org/document/9676646">Robust Nonlinear Controller for Wind Turbine Generator Drivetrain Torsional Oscillation under Large Disturbances</a>," in <span class="journal-name">2021 IEEE Power & Energy Society General Meeting (PESGM)</span>, Washington, DC, USA, 2021. <span class="highlight">Best Paper Award</span></li> 
-
-  <li><span class="author-highlight">Bendong Tan</span>, Jun Yang, Ting Zhou, Yi Xiao, and Qiangming Zhou, "<a href="https://ieeexplore.ieee.org/document/9652094">A novel temporal feature selection for time-Adaptive transient stability assessment</a>," in <span class="journal-name">2019 IEEE PES Innovative Smart Grid Technologies Europe (ISGT-Europe), Bucharest</span>, Romania, 2019, pp. 1-5.</li> 
-
-  <li><span class="author-highlight">Bendong Tan</span>, Jun Yang, Xueli Pan, Jun Li, Peiyuan Xie, and Ciling Zeng, "<a href="https://www.theiet.org/publishing/journals/joe/">Representational learning approach for power system transient stability assessment based on convolutional neural network</a>," in <span class="journal-name">The Journal of Engineering</span>, vol. 2017, no. 13, pp. 1847-1850, 2017.</li> 
+<li><span class="author-highlight">Bendong Tan</span>, Jun Yang, Xueli Pan, Jun Li, Peiyuan Xie, and Ciling Zeng, "<a href="https://www.theiet.org/publishing/journals/joe/">Representational learning approach for power system transient stability assessment based on convolutional neural network</a>," in <span class="journal-name">The Journal of Engineering</span>, vol. 2017, no. 13, pp. 1847-1850, 2017.</li> 
 </div>
 
 
