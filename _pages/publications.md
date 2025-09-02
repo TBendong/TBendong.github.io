@@ -48,7 +48,7 @@ nav_order: 2
 }
 </style>
 
-For a complete list of publications, please refer to <a href="https://scholar.google.com/citations?user=FdEP8xgAAAAJ&hl=en"></i>Google Scholar</a>.
+For a complete list of publications, please refer to <a href="https://scholar.google.com/citations?user=FdEP8xgAAAAJ&hl=en">Google Scholar</a>.
 
 #### 📝In-Progress Papers 
 <div class="journal-publications publications">
