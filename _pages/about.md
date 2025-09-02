@@ -52,19 +52,15 @@ In the past five years, I have published over 30 research papers at prestigious 
             background: #e8f4fd;
             border-radius: 12px;
             padding: 5px;
-            font-family: inherit;  /* 使用网页默认字体 */
         }
         .card-title {
-            color: #4a90e2;
             font-size: 1.6em;
             margin-bottom: 5px;
             font-weight: bold;
             text-align: center;
         }
         p {
-            font-size: 18px;
             line-height: 1.6;
-            color: #333;
             margin-bottom: 10px;
         }
         .email {
@@ -79,7 +75,7 @@ In the past five years, I have published over 30 research papers at prestigious 
     <div class="card">
         <h4 class="card-title">Openings for 26 Spring/Fall</h4>
         
-        <p>I'm actively looking for Ph.D./MPhil/RA students to work with me on machine learning systems and data center resource disaggregation. Feel free to drop me an email (<span class="email">jc.shen@dukekunshan.edu.cn</span>) with the subject "{PhD|MPhil|RA}-{Your Name}" (e.g., PhD-Jiacheng Shen) with your CV and transcripts attached, if you are interested.</p>
+        <p>I'm actively looking for Postdoc and Ph.D. students to work with me. Feel free to drop me an email (bendong.tan@uconn.edu) with the subject "{Postdoc|PhD}-{Your Name}" (e.g., PhD-Jiacheng Shen) with your CV and transcripts attached, if you are interested.</p>
         
         <p>Check <a href="#openings">openings</a> for more details.</p>
     </div>
