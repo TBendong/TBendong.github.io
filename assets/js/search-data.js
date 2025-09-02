@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-services",
           title: "Services",
-          description: "",
+          description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/Services/";
