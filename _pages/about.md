@@ -4,7 +4,17 @@ title: About
 permalink: /
 subtitle: Incoming Assistant Professor@PolyU
 
-
+profile:
+  align: left
+  image: photo.jpg
+  image_circular: false # crops the image to make it circular
+  more_info: >
+      <a href="https://www.linkedin.com/in/bendong-tan-453046182/"><i class="fa-brands fa-linkedin fa-2x"></i></a>
+      <a href="https://scholar.google.com/citations?user=FdEP8xgAAAAJ&hl=en"><i class="ai ai-google-scholar-square ai-2x"></i></a>
+      <a href="https://www.zhihu.com/people/tan-ben-dong"><i class="fa-brands fa-zhihu fa-2x"></i></a>
+      <a href="https://www.researchgate.net/profile/Bendong-Tan?ev=hdr_xprf"><i class="fa-brands fa-researchgate fa-2x"></i></a>
+      <a href="https://orcid.org/my-orcid?orcid=0000-0003-1701-1577"><i class="fa-brands fa-orcid fa-2x"></i></a>
+      <a href="https://github.com/TBendong"><i class="fa-brands fa-square-github fa-2x"></i></a>
       
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
