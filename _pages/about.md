@@ -114,7 +114,8 @@ My research interests lie in dynamic modeling/monitoring, stability assessment, 
 <body>
 
 
-<h4 style="text-align: center; font-weight: bold; line-height: 1.5; margin: 0 0 1.5em 0;">🔥 News</h4>
+<h4 style="text-align: center; font-weight: bold; line-height: 1.5; margin-top: 1.5em;">🔥 News</h4>
+
 
 
 <h4>2025</h4>
