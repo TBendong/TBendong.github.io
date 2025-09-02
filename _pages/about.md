@@ -40,11 +40,9 @@ My research interests lie in dynamic modeling/monitoring, stability assessment, 
             background: #e8f4fd;
             border-radius: 12px;
             padding: 5px;
-            font-family: inherit;  /* 使用网页默认字体 */
+            font-family: inherit;  
         }
         .card-title {
-            color: #4a90e2;
-            font-size: 1.6em;
             margin-bottom: 5px;
             font-weight: bold;
             text-align: center;
@@ -52,7 +50,6 @@ My research interests lie in dynamic modeling/monitoring, stability assessment, 
         p {
             font-size: 18px;
             line-height: 1.6;
-            color: #333;
             margin-bottom: 10px;
         }
         .email {
@@ -67,7 +64,7 @@ My research interests lie in dynamic modeling/monitoring, stability assessment, 
     <div class="card">
         <h4 class="card-title">Openings for 26 Spring/Fall</h4>
         
-        <p>I'm actively looking for Postdoc/Ph.D. students to work with me. Feel free to drop me an email (<span class="email">bendong.tan@uconn.edu</span>) with the subject "{Postdoc|PhD}-{Your Name}" (e.g., PhD-Jiacheng Shen) with your CV and transcripts attached, if you are interested.</p>
+        <p>I'm actively looking for Postdoc and Ph.D. students to work with me. Feel free to drop me an email (<span class="email">bendong.tan@uconn.edu</span>) with the subject "{Postdoc|PhD}-{Your Name}" (e.g., PhD-Jiacheng Shen) with your CV and transcripts attached, if you are interested.</p>
         
         <p>Check <a href="#Openings">openings</a> for more details.</p>
     </div>
