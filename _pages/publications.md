@@ -6,7 +6,17 @@ nav: true
 nav_order: 2
 ---
 
-
+<style>
+/* Add a blue thick line below all h4 headings */
+/* The line will span the full width of the content area */
+h4 {
+    border-bottom: 3px solid #007BFF; /* Blue thick line */
+    padding-bottom: 0.3em;            /* Space between title and line */
+    margin-bottom: 0.8em;             /* Space below the line before content */
+    width: 100%;                       /* Make the line span the full width */
+    display: block;                    /* Ensure h4 behaves as a block element */
+}
+</style>
 <style>
 /* General styling for publications */
 .publications {
@@ -170,17 +180,6 @@ Luo,
 </div>
 
 #### 📝Conference Papers
-<style>
-/* Add a blue thick line below all h4 headings */
-/* The line will span the full width of the content area */
-h4 {
-    border-bottom: 3px solid #007BFF; /* Blue thick line */
-    padding-bottom: 0.3em;            /* Space between title and line */
-    margin-bottom: 0.8em;             /* Space below the line before content */
-    width: 100%;                       /* Make the line span the full width */
-    display: block;                    /* Ensure h4 behaves as a block element */
-}
-</style>
 
 <div class="conference-publications publications">
 <li><span class="author-highlight">Bendong Tan</span>, Ketian Ye, Junbo Zhao, Mingguo Hong, Slava Maslennikov, and Xiaochuan Luo, "<a href="https://ieeexplore.ieee.org/document/10056325">Power system overloading risk assessment considering topology and renewable uncertainties</a>," in <span class="journal-name">2024 IEEE Power & Energy Society General Meeting (PESGM)</span>, pp. 1-5, 2024. <span class="highlight">Best Paper Award</span></li> 
