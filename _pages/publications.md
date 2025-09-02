@@ -12,10 +12,10 @@ nav_order: 2
 .section-title {
     color: inherit; /* Use default text color */
     font-weight: normal; /* Remove bold */
-    padding: 0; /* Remove background padding */
-    border-radius: 0; /* Remove rounded corners */
-    display: inline; /* Inline display */
-    margin-bottom: 0.8em; /* Space below the title */
+    padding-bottom: 0.3em; /* Space between text and line */
+    border-bottom: 3px solid #007BFF; /* Blue thick line */
+
+    display: block; /* Ensure block behavior */
 }
 
 /* -------------------- Blue line under h4 -------------------- */
