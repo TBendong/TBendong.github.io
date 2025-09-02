@@ -19,7 +19,7 @@ profile:
 news: true # includes a list of news items
 ---
 
-Currently, I am a postdoctoral research fellow at the University of Connecticut and a visiting scientist at Massachusetts Institute of Technology, working with advided by Dr. [Junbo Zhao](https://engineering.dartmouth.edu/community/faculty/junbo-zhao) and Dr. [Deepjyoti Deka](https://energy.mit.edu/profile/deepjyoti-deka/). I received my Ph.D. degree in Electrical Engineering from the University of Connecticut, advised by Dr. [Junbo Zhao](https://engineering.dartmouth.edu/community/faculty/junbo-zhao). Before my Ph.D. studies at UConn, I received my M.S. degree in Electrical Engineering from Wuhan University in 2020 and my B.Eng. degree in Electrical Engineering from Wuhan University in 2017.
+Currently, I am a postdoctoral research fellow at the University of Connecticut and a visiting scientist at Massachusetts Institute of Technology, working with advised by Dr. [Junbo Zhao](https://engineering.dartmouth.edu/community/faculty/junbo-zhao) and Dr. [Deepjyoti Deka](https://energy.mit.edu/profile/deepjyoti-deka/). I received my Ph.D. degree in Electrical Engineering from the University of Connecticut, advised by Dr. [Junbo Zhao](https://engineering.dartmouth.edu/community/faculty/junbo-zhao). Before my Ph.D. studies at UConn, I received my M.S. degree in Electrical Engineering from Wuhan University in 2020 and my B.Eng. degree in Electrical Engineering from Wuhan University in 2017.
 
 My research interests lie in dynamic modeling/monitoring, stability assessment, and control for inverter-integrated power systems, with a focus on dynamic load/inverter-based resource modeling, inertia estimation, static/dynamic risk assessment, uncertainty quantification and management, and machine learning applications. In the past five years, I have published over 30 research papers at prestigious journals and conferences, such as TPWRS. 
 
@@ -67,9 +67,9 @@ My research interests lie in dynamic modeling/monitoring, stability assessment, 
     <div class="card">
         <h4 class="card-title">Openings for 26 Spring/Fall</h4>
         
-        <p>I'm actively looking for Ph.D./MPhil/RA students to work with me on machine learning systems and data center resource disaggregation. Feel free to drop me an email (<span class="email">jc.shen@dukekunshan.edu.cn</span>) with the subject "{PhD|MPhil|RA}-{Your Name}" (e.g., PhD-Jiacheng Shen) with your CV and transcripts attached, if you are interested.</p>
+        <p>I'm actively looking for Postdoc/Ph.D. students to work with me. Feel free to drop me an email (<span class="email">bendong.tan@uconn.edu</span>) with the subject "{Postdoc|PhD}-{Your Name}" (e.g., PhD-Jiacheng Shen) with your CV and transcripts attached, if you are interested.</p>
         
-        <p>Check <a href="#openings">openings</a> for more details.</p>
+        <p>Check <a href="#Openings">openings</a> for more details.</p>
     </div>
 </body>
 </html>
