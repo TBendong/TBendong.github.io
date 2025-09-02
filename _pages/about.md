@@ -25,15 +25,13 @@ My research interests lie in dynamic modeling/monitoring, stability assessment, 
 
 <strong>I am open to research discussions and collaborations. Feel free to reach out to me via email!</strong>
 
-<!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Openings for 26 Spring/Fall</title>
+    <title>I'm actively looking for Ph.D./MPhil/RA students</title>
     <style>
         body {
-            font-family: -apple-system, sans-serif;
             margin: 50px auto;
             max-width: 800px;
             padding: 20px;
@@ -41,13 +39,14 @@ My research interests lie in dynamic modeling/monitoring, stability assessment, 
         .card {
             background: #e8f4fd;
             border-radius: 12px;
-            padding: 30px;
+            padding: 20px;
             text-align: center;
         }
-        h1 {
+        h4 {
             color: #4a90e2;
-            font-size: 2.2em;
+            font-size: 1.6em;
             margin-bottom: 25px;
+            font-weight: bold; /* 加粗 */
         }
         p {
             font-size: 18px;
@@ -66,7 +65,7 @@ My research interests lie in dynamic modeling/monitoring, stability assessment, 
 </head>
 <body>
     <div class="card">
-        <h1>Openings for 26 Spring/Fall</h1>
+        <h4>I'm actively looking for Ph.D./MPhil/RA students</h4>
         
         <p>I'm actively looking for Ph.D./MPhil/RA students to work with me on machine learning systems and data center resource disaggregation. Feel free to drop me an email (<span class="email">jc.shen@dukekunshan.edu.cn</span>) with the subject "{PhD|MPhil|RA}-{Your Name}" (e.g., PhD-Jiacheng Shen) with your CV and transcripts attached, if you are interested.</p>
         
@@ -74,6 +73,7 @@ My research interests lie in dynamic modeling/monitoring, stability assessment, 
     </div>
 </body>
 </html>
+
 
 <html>
 <head>
