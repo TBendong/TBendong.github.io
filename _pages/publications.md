@@ -195,7 +195,7 @@ Luo,
 #### 📝Conference Papers
 
 <div class="conference-publications publications">
-<li><span class="author-highlight">Bendong Tan</span>, Ketian Ye, Junbo Zhao, Mingguo Hong, Slava Maslennikov, and Xiaochuan Luo, "<a href="https://ieeexplore.ieee.org/document/10688568">Power system overloading risk assessment considering topology and renewable uncertainties</a>," in <span class="journal-name">2024 IEEE Power & Energy Society General Meeting (PESGM)</span>, pp. 1-5, 2024. <span class="highlight">Best Paper Award</span></li> 
+<li>Ketian Ye, Junbo Zhao, Mingguo Hong, Slava Maslennikov, <span class="author-highlight">Bendong Tan</span> and Xiaochuan Luo, "<a href="https://ieeexplore.ieee.org/document/10688568">Power system overloading risk assessment considering topology and renewable uncertainties</a>," in <span class="journal-name">2024 IEEE Power & Energy Society General Meeting (PESGM)</span>, pp. 1-5, 2024. <span class="highlight">Best Paper Award</span></li> 
 
 <li><span class="author-highlight">Bendong Tan</span>, Jiangkai Peng, Ningchao Gao, Junbo Zhao, and Jin Tan, "<a href="https://ieeexplore.ieee.org/document/10688692">Comparative study of data-driven area inertia estimation approaches on WECC power systems</a>," in <span class="journal-name">2024 IEEE Power & Energy Society General Meeting (PESGM)</span>, pp. 1-5, 2024.</li> 
 
