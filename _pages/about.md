@@ -25,6 +25,18 @@ My research interests lie in dynamic modeling/monitoring, stability assessment, 
 
 <strong>I am open to research discussions and collaborations. Feel free to reach out to me via email!</strong>
 
+<!-- *I'm actively looking for Ph.D./M.Phil studengs starting from 2026 spring/fall to work with me on machine learning systems and distributed systems. Please drop me an email (jc.shen@dukekunshan.edu.cn) with the subject "{PhD/MPhil/RA}-{Your Name}" (e.g., PhD-Jiacheng Shen) with your CV and transcript attached.* -->
+
+<div class="warning">
+<div class="warning-title"><p>Openings for 26 Spring/Fall</p></div>
+<div class="warning-text">
+<p style="margin-top:0.8em">
+I'm actively looking for Ph.D./MPhil/RA students to work with me on machine learning systems and data center resource disaggregation. Feel free to drop me an email (jc.shen@dukekunshan.edu.cn) with the subject "{PhD|MPhil|RA}-{Your Name}" (e.g., PhD-Jiacheng Shen) with your CV and transcripts attached, if you are interested. 
+</p>
+<p style="margin-top:-0.8em">
+Check <a href="openings">openings</a> for more details.
+</p></div>
+</div>
 
 <html>
 <head>
