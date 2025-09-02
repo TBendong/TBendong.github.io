@@ -2,8 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Senior Research Scientist@Kunlun Tech, Ex-Research Scientist@Meituan, Intern@MSRA, Megvii
-
+subtitle: Incoming Assistant Professor@PolyU
 
 profile:
   align: left
