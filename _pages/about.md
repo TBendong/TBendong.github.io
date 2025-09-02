@@ -51,7 +51,7 @@ My research interests lie in dynamic modeling/monitoring, stability assessment, 
             font-size: 18px;
             line-height: 1.6;
             color: #333;
-            margin-bottom: 20px;
+            margin-bottom: 10px;
         }
         .email {
             color: #333;
