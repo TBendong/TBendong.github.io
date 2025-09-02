@@ -67,7 +67,7 @@ My industry experience includes being a research intern at **Microsoft Research 
 <h4>2025</h4>
 <div class="timeline-entry">
   <span class="date">2025-04-25</span>
-  <span class="content">Appointed as an early career researcher associate editor for IET Smart Grid.</span>
+  <span class="content">Appointed as an early-career researcher associate editor for IET Smart Grid.</span>
 </div>
 <div class="timeline-entry">
   <span class="date">2025-04-20</span>
