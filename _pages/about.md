@@ -25,18 +25,55 @@ My research interests lie in dynamic modeling/monitoring, stability assessment, 
 
 <strong>I am open to research discussions and collaborations. Feel free to reach out to me via email!</strong>
 
-<!-- *I'm actively looking for Ph.D./M.Phil studengs starting from 2026 spring/fall to work with me on machine learning systems and distributed systems. Please drop me an email (jc.shen@dukekunshan.edu.cn) with the subject "{PhD/MPhil/RA}-{Your Name}" (e.g., PhD-Jiacheng Shen) with your CV and transcript attached.* -->
-
-<div class="warning">
-<div class="warning-title"><p>Openings for 26 Spring/Fall</p></div>
-<div class="warning-text">
-<p style="margin-top:0.8em">
-I'm actively looking for Ph.D./MPhil/RA students to work with me on machine learning systems and data center resource disaggregation. Feel free to drop me an email (jc.shen@dukekunshan.edu.cn) with the subject "{PhD|MPhil|RA}-{Your Name}" (e.g., PhD-Jiacheng Shen) with your CV and transcripts attached, if you are interested. 
-</p>
-<p style="margin-top:-0.8em">
-Check <a href="openings">openings</a> for more details.
-</p></div>
-</div>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Openings for 26 Spring/Fall</title>
+    <style>
+        body {
+            font-family: -apple-system, sans-serif;
+            margin: 50px auto;
+            max-width: 800px;
+            padding: 20px;
+        }
+        .card {
+            background: #e8f4fd;
+            border-radius: 12px;
+            padding: 30px;
+            text-align: center;
+        }
+        h1 {
+            color: #4a90e2;
+            font-size: 2.2em;
+            margin-bottom: 25px;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+            color: #333;
+            margin-bottom: 20px;
+        }
+        .email {
+            color: #333;
+            font-family: monospace;
+        }
+        a {
+            color: #4a90e2;
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h1>Openings for 26 Spring/Fall</h1>
+        
+        <p>I'm actively looking for Ph.D./MPhil/RA students to work with me on machine learning systems and data center resource disaggregation. Feel free to drop me an email (<span class="email">jc.shen@dukekunshan.edu.cn</span>) with the subject "{PhD|MPhil|RA}-{Your Name}" (e.g., PhD-Jiacheng Shen) with your CV and transcripts attached, if you are interested.</p>
+        
+        <p>Check <a href="#openings">openings</a> for more details.</p>
+    </div>
+</body>
+</html>
 
 <html>
 <head>
