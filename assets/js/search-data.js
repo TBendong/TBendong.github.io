@@ -38,11 +38,11 @@ ninja.data = [{
             window.location.href = "/CV/";
           },
         },{id: "nav-teaching",
-          title: "teaching",
+          title: "Teaching",
           description: "Materials for courses you taught. Replace this text with your description.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/teaching/";
+            window.location.href = "/Teaching/";
           },
         },{id: "nav-people",
           title: "people",
