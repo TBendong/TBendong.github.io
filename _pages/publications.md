@@ -10,21 +10,21 @@ nav_order: 2
 <style>
 /* -------------------- Section Titles -------------------- */
 .section-title {
-    color: inherit; /* Use default text color */
-    font-weight: normal; /* Remove bold */
-    padding-bottom: 0.3em; /* Space between text and line */
-    border-bottom: 3px solid #007BFF; /* Blue thick line */
-
-    display: block; /* Ensure block behavior */
+    color: inherit; 
+    font-weight: normal; 
+    padding-bottom: 0.1em; /* Reduce space between title text and underline */
+    border-bottom: 3px solid #007BFF; /* Blue thick underline */
+    margin-bottom: 0.4em; /* Reduce space between underline and content */
+    display: block; 
 }
 
 /* -------------------- Blue line under h4 -------------------- */
 h4 {
-    border-bottom: 3px solid #007BFF; /* Blue thick line */
-    padding-bottom: 0.3em; /* Space between title and line */
-    margin-bottom: 0.8em; /* Space below line before content */
-    width: 100%; /* Line spans full width */
-    display: block; /* Ensure block behavior */
+    border-bottom: 3px solid #007BFF; /* Blue thick underline */
+    padding-bottom: 0.1em; /* Reduce space between title text and underline */
+    margin-bottom: 0.4em; /* Reduce space between underline and content */
+    width: 100%; 
+    display: block; 
 }
 
 /* -------------------- General publication list styling -------------------- */
