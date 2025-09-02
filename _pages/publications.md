@@ -20,7 +20,7 @@ nav_order: 2
 /* Highlight Bendong Tan */
 .author-highlight {
     font-weight: bold;
-    color: #1a73e8; /* Optional: blue color */
+    color: #000000; /* Optional: blue color */
 }
 
 /* Journal Papers Auto-numbering [J*] */
