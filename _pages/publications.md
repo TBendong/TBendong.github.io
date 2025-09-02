@@ -49,7 +49,9 @@ nav_order: 2
 }
 </style>
 
-### In-Progress Papers 
+For a complete list of publications, please refer to <a href="https://scholar.google.com/citations?user=FdEP8xgAAAAJ&hl=en"></i>Google Scholar</a>.
+
+#### 📝In-Progress Papers 
 <div class="journal-publications publications">
 <li>
   <span class="author-highlight">Bendong Tan</span>, Deepjyoti Deka, Junbo Zhao,
@@ -84,7 +86,7 @@ Luo,
 </li>
 </div>
 
-### Journal Papers
+#### 📝Journal Papers
 
 <div class="journal-publications publications">
    
@@ -167,7 +169,7 @@ Luo,
 
 </div>
 
-### Conference Papers
+#### 📝Conference Papers
 
 <div class="conference-publications publications">
 <li><span class="author-highlight">Bendong Tan</span>, Ketian Ye, Junbo Zhao, Mingguo Hong, Slava Maslennikov, and Xiaochuan Luo, "<a href="https://ieeexplore.ieee.org/document/10056325">Power system overloading risk assessment considering topology and renewable uncertainties</a>," in <span class="journal-name">2024 IEEE Power & Energy Society General Meeting (PESGM)</span>, pp. 1-5, 2024. <span class="highlight">Best Paper Award</span></li> 
