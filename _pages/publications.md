@@ -108,6 +108,13 @@ nav_order: 2
 <li>Seyyed Rashid Khazeiynasab, Junbo Zhao, Issa Batarseh and <span class="author-highlight">Bendong Tan</span>, "<a href="https://ieeexplore.ieee.org/document/9525328">Power plant model parameter calibration using conditional variational autoencoder</a>," <span class="journal-name">IEEE Transactions on Power Systems</span>, vol. 37, no. 2, pp. 1642-1652, March 2022.</li>
 
 <li><span class="author-highlight">Bendong Tan</span>, Junbo Zhao, Marcos Netto, Venkat Krishnan, Vladimir Terzija and Yingchen Zhang, "<a href="https://www.sciencedirect.com/science/article/pii/S0142061521006013">Power system inertia estimation: review of methods and the impacts of converter-interfaced generations</a>," <span class="journal-name">International Journal of Electrical Power & Energy Systems</span>, Jan 2022. <span class="highlight">Best Journal Paper Award</span></li>
+
+<li><span class="author-highlight">Bendong Tan</span>, Jun Yang, Ting Zhou, Xiangpeng Zhan, Yuan Liu, Shengbo Jiang and Chao Luo, "<a href="http://TBendong.github.io/files/paper5.pdf">Spatial-temporal adaptive transient stability assessment for power system under missing data</a>," <span class="journal-name">International Journal of Electrical Power & Energy Systems</span>, vol.123, pp.106237, 2020.</li>
+
+<li>Ting Zhou, Jun Yang, Qiangming Zhou, <span class="author-highlight">Bendong Tan</span>, Yue Zhou, Jian Xu and Yuanzhang Sun, "<a href="http://TBendong.github.io/files/paper1.pdf">Power System Transient Stability Assessment Based on Modified LightGBM</a>," <span class="journal-name">Power System Technology</span>, vol.43, no.6, pp.1931-1940, 2019. (in Chinese, EI)</li>
+
+<li><span class="author-highlight">Bendong Tan</span>, Jun Yang, Qiupin Lai, Peiyuan Xie, Jun Li and Jian Xu, "<a href="http://TBendong.github.io/files/paper2.pdf">Data augmentation method for power system transient stability assessment based on improved conditional generative adversarial network</a>," <span class="journal-name">Automation of Electric Power Systems</span>, vol.43, no.1, pp.149-157, 2019. (in Chinese, EI)</li>
+
 </div>
 
 ### Conference Papers
