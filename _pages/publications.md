@@ -7,7 +7,6 @@ nav_order: 2
 ---
 
 
-
 <style>
 /* General styling for publications */
 .publications {
