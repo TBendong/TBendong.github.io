@@ -62,8 +62,8 @@ My industry experience includes being a research intern at **Microsoft Research 
 <body>
 
 
-<h4>🔥 News</h4>
-----
+<h4 style="text-align: center; font-weight: bold;">🔥 News</h4>
+
 <h4>2025</h4>
 <div class="timeline-entry">
   <span class="date">2025-04-25</span>
