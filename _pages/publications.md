@@ -49,9 +49,40 @@ nav_order: 2
 }
 </style>
 
+### In-Progress Papers 
+
+
 ### Journal Papers
 
 <div class="journal-publications publications">
+
+<li>
+    <span class="author-highlight">Bendong Tan</span>, Junbo Zhao, Naiyuan Chiang, and Nan Duan, 
+    "<a href="https://ieeexplore.ieee.org/document/10056325">High-dimension Bayesian parameter estimation for WECC composite load model using realistic event measurements</a>", 
+    <span class="journal-name">IEEE Transactions on Power Systems</span>, vol. 40, no. 5, pp. 3979-3992, Sept. 2025.
+  </li>
+  <li>
+    <span class="author-highlight">Bendong Tan</span>, Junbo Zhao, 
+    "<a href="https://ieeexplore.ieee.org/document/10056325">Bayesian post-fault power system dynamic trajectory prediction</a>", 
+    <span class="journal-name">IEEE Transactions on Power Systems</span>, vol. 40, no. 6, pp. 4123-4136, Oct. 2025.
+  </li>
+  <li>
+    Xinyu Zhao, <span class="author-highlight">Bendong Tan</span>, and Junbo Zhao, 
+    "<a href="https://ieeexplore.ieee.org/document/10056325">Power system dynamic state estimation of grid-forming inverters with current limiter</a>", 
+    <span class="journal-name">IEEE Transactions on Power Systems</span>, vol. 40, no. 1, pp. 1156-1159, Jan. 2025.
+  </li>
+  <li>
+    <span class="author-highlight">Bendong Tan</span>, Junbo Zhao, and Yifan Chen, 
+    "<a href="https://ieeexplore.ieee.org/document/10056325">Scalable risk assessment of rare events in power systems with uncertain wind generation and loads</a>", 
+    <span class="journal-name">IEEE Transactions on Power Systems</span>, vol. 40, no. 2, pp. 1374-1388, Mar. 2025.
+  </li>
+  <li>
+    <span class="author-highlight">Bendong Tan</span>, Junbo Zhao, 
+    "<a href="https://ieeexplore.ieee.org/document/10056325">Data-driven adaptive unscented Kalman filter for time-varying inertia and damping estimation of utility-scale IBRs considering current limiter</a>", 
+    <span class="journal-name">IEEE Transactions on Power Systems</span>, vol. 39, no. 6, pp. 7331-7345, Nov. 2024.
+  </li>
+
+
 <li>Jiahao Liu, Cheng Wang, Junbo Zhao, <span class="author-highlight">Bendong Tan</span> and Tianshu Bi, "<a href="https://ieeexplore.ieee.org/document/10209245">Simplified transient model of DFIG wind turbine for power system frequency dynamics analysis</a>," <span class="journal-name">IEEE Transactions on Power Systems</span>, vol. 39, no. 2, pp. 3752-3768, Mar. 2024.</li>
 
 <li><span class="author-highlight">Bendong Tan</span>, Junbo Zhao, "<a href="https://ieeexplore.ieee.org/document/10124366">Debiased uncertainty quantification approach for probabilistic transient stability assessment</a>," <span class="journal-name">IEEE Transactions on Power Systems</span>, vol. 38, no. 5, pp. 4954-4957, Sept. 2023.</li>
