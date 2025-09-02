@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Incoming Assistant Professor@PolyU
+subtitle: <p> Incoming Assistant Professor@PolyU</p>
 
 profile:
   align: left
@@ -19,9 +19,21 @@ profile:
 news: true # includes a list of news items
 ---
 
-Currently, I am a postdoctoral research fellow at the University of Connecticut and a visiting scientist at Massachusetts Institute of Technology, working with advised by Dr. [Junbo Zhao](https://engineering.dartmouth.edu/community/faculty/junbo-zhao) and Dr. [Deepjyoti Deka](https://energy.mit.edu/profile/deepjyoti-deka/). I received my Ph.D. degree in Electrical Engineering from the University of Connecticut, advised by Dr. [Junbo Zhao](https://engineering.dartmouth.edu/community/faculty/junbo-zhao). Before my Ph.D. studies at UConn, I received my M.S. degree in Electrical Engineering from Wuhan University in 2020 and my B.Eng. degree in Electrical Engineering from Wuhan University in 2017.
+<p>
+Currently, I am a postdoctoral research fellow at the University of Connecticut and a visiting scientist at Massachusetts Institute of Technology, working with advised by 
+<a href="https://engineering.dartmouth.edu/community/faculty/junbo-zhao">Dr. Junbo Zhao</a> 
+and 
+<a href="https://energy.mit.edu/profile/deepjyoti-deka/">Dr. Deepjyoti Deka</a>. 
+I received my Ph.D. degree in Electrical Engineering from the University of Connecticut, advised by 
+<a href="https://engineering.dartmouth.edu/community/faculty/junbo-zhao">Dr. Junbo Zhao</a>. 
+Before my Ph.D. studies at UConn, I received my M.S. degree in Electrical Engineering from Wuhan University in 2020 and my B.Eng. degree in Electrical Engineering from Wuhan University in 2017.
+</p>
 
-My research interests lie in dynamic modeling/monitoring, stability assessment, and control for inverter-integrated power systems, with a focus on dynamic load/inverter-based resource modeling, inertia estimation, static/dynamic risk assessment, uncertainty quantification and management, and machine learning applications. In the past five years, I have published over 30 research papers at prestigious journals and conferences, such as TPWRS. 
+<p>
+My research interests lie in dynamic modeling/monitoring, stability assessment and control for inverter-integrated power systems, with a focus on dynamic load/inverter-based resource modeling, inertia estimation, static/dynamic risk assessment, uncertainty quantification and management, and machine learning applications. 
+In the past five years, I have published over 30 research papers at prestigious journals and conferences, such as TPWRS.
+</p>
+
 
 <strong>I am open to research discussions and collaborations. Feel free to reach out to me via email!</strong>
 
