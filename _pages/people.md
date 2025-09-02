@@ -1,10 +1,9 @@
 ---
-layout: people
-permalink: /people/
-title: people
+layout: page
+permalink: /People/
+title: People
 nav: true
 nav_order: 7
-
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
