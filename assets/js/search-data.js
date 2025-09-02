@@ -23,12 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/Research/";
           },
-        },{id: "nav-services",
-          title: "Services",
-          description: "A growing collection of your cool projects.",
+        },{id: "nav-teaching",
+          title: "Teaching",
+          description: "Materials for courses you taught. Replace this text with your description.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/Services/";
+            window.location.href = "/Teaching/";
           },
         },{id: "nav-cv",
           title: "CV",
@@ -37,12 +37,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/CV/";
           },
-        },{id: "nav-teaching",
-          title: "Teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+        },{id: "nav-services",
+          title: "Services",
+          description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/Teaching/";
+            window.location.href = "/Services/";
           },
         },{id: "nav-people",
           title: "people",
