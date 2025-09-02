@@ -51,7 +51,7 @@ nav_order: 2
 }
 </style>
 
-## Journal Papers
+### Journal Papers
 
 <div class="journal-publications publications">
 <li>Jiahao Liu, Cheng Wang, Junbo Zhao, <span class="author-highlight">Bendong Tan</span> and Tianshu Bi, "<a href="https://ieeexplore.ieee.org/document/10209245">Simplified transient model of DFIG wind turbine for power system frequency dynamics analysis</a>," <span class="journal-name">IEEE Transactions on Power Systems</span>, vol. 39, no. 2, pp. 3752-3768, Mar. 2024.</li>
@@ -81,7 +81,7 @@ nav_order: 2
 <li><span class="author-highlight">Bendong Tan</span>, Junbo Zhao, Marcos Netto, Venkat Krishnan, Vladimir Terzija and Yingchen Zhang, "<a href="https://www.sciencedirect.com/science/article/pii/S0142061521006013">Power system inertia estimation: review of methods and the impacts of converter-interfaced generations</a>," <span class="journal-name">International Journal of Electrical Power & Energy Systems</span>, Jan 2022. <span class="highlight">Best Journal Paper Award</span></li>
 </div>
 
-## Conference Papers
+### Conference Papers
 
 <div class="conference-publications publications">
 <li><span class="author-highlight">Bendong Tan</span>, Ketian Ye, Junbo Zhao, Mingguo Hong, Slava Maslennikov, and Xiaochuan Luo, "<a href="https://ieeexplore.ieee.org/document/10056325">Power system overloading risk assessment considering topology and renewable uncertainties</a>," in <span class="journal-name">2024 IEEE Power & Energy Society General Meeting (PESGM)</span>, pp. 1-5, 2024. <span class="highlight">Best Paper Award</span></li> 
