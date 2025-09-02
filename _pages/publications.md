@@ -10,9 +10,7 @@ nav_order: 2
 <style>
 /* -------------------- Section Titles -------------------- */
 .section-title {
-    color: inherit; 
-    font-weight: normal; 
-    padding-bottom: 0.1em; /* Reduce space between title text and underline */
+    padding-bottom: 0.4em; /* Reduce space between title text and underline */
     border-bottom: 3px solid #007BFF; /* Blue thick underline */
     margin-bottom: 0.4em; /* Reduce space between underline and content */
     display: block; 
