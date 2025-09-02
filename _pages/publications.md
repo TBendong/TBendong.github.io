@@ -50,7 +50,38 @@ nav_order: 2
 </style>
 
 ### In-Progress Papers 
+<div class="journal-publications publications">
+<li>
+  <span class="author-highlight">Bendong Tan</span>, Deepjyoti Deka, Junbo Zhao,
+  "Spatial-temporal global sensitivity analysis for probabilistic transient stability assessment",
+  <span class="journal-name">IEEE Transactions on Power Systems</span>, 2025. <strong>(Under revision)</strong>
+</li>
 
+<li>
+  <span class="author-highlight">Bendong Tan</span>, Tong Su, Yu Weng, Ketian Ye, Parikshit Pareek, Petr Vorobev, Hung Nguyen, Junbo Zhao, Deepjyoti Deka,
+  "Gaussian processes in power systems: Techniques, applications, and challenges",
+  <span class="journal-name">Proceedings of the IEEE</span>, 2025. <strong>(Under revision)</strong>
+</li>
+
+<li>
+  <span class="author-highlight">Bendong Tan</span>, Ketian Ye1, Junbo Zhao, Mingguo Hong, Slava Maslennikov and Xiaochuan
+Luo,
+  "Tail distribution-aware power system overloading risk assessment",
+  <span class="journal-name">Nature Communications</span>, 2025. <strong>(Under revision)</strong>
+</li>
+
+<li>
+  <span class="author-highlight">Bendong Tan</span>, Junbo Zhao,
+  "Stochastic dynamic stability assessment with high penetration of uncertain sources: Uncertainty modeling, solutions and applications",
+  <span class="journal-name">Cyber-Physical Energy Systems</span>, 2025. <strong>(Under revision)</strong>
+</li>
+
+<li>
+  Tong Su, Junbo. Zhao, <span class="author-highlight">Bendong Tan</span>, Daniel Adrian Maldonado, Xiaodong Liu, and Xiaochuan Luo,
+  "Analytic input convex neural networks enabled transient stability predictive control with wind generators",
+  <span class="journal-name">IEEE Transactions on Sustainable Energy</span>, 2025. <strong>(Under review)</strong>
+</li>
+</div>
 
 ### Journal Papers
 
