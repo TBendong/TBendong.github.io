@@ -59,9 +59,10 @@ nav_order: 2
 
 <li>
   <span class="author-highlight">Bendong Tan</span>, Tong Su, Yu Weng, Ketian Ye, Parikshit Pareek, Petr Vorobev, Hung Nguyen, Junbo Zhao, Deepjyoti Deka,
-  "Gaussian processes in power systems: Techniques, applications, and challenges",
+  "<a href="https://arxiv.org/abs/2505.15950">Gaussian Processes in Power Systems: Techniques, Applications, and Future Works</a>",
   <span class="journal-name">Proceedings of the IEEE</span>, 2025. <strong>(Under revision)</strong>
 </li>
+
 
 <li>
   <span class="author-highlight">Bendong Tan</span>, Ketian Ye1, Junbo Zhao, Mingguo Hong, Slava Maslennikov and Xiaochuan
