@@ -5,7 +5,7 @@ permalink: /Publications/
 nav: true
 nav_order: 2
 ---
-
+<!-- _pages/publications.md -->
 <!-- ==================== CSS ==================== -->
 <style>
 /* -------------------- Section Titles -------------------- */
