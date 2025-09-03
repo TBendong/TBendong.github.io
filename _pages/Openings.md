@@ -92,8 +92,8 @@ I received my Ph.D. degree in Electrical Engineering from the University of Conn
         <li><strong>Postdoctoral Applicants:</strong> Start date is flexible, with competitive compensation offered.</li>
     </ul>
     <p style="color: red;">
-    To apply, please email your CV and transcripts to 
-    <a href="mailto:bendong.tan@uconn.edu">bendong.tan@uconn.edu</a> with the subject line: <code>{Postdoc|PhD Application}-{Your Name}</code> (e.g., PhD Application-San Zhang).
+    To apply, please email your CV, transcripts, and representative publications (if any) to 
+    <a href="mailto:bendong.tan@uconn.edu">bendong.tan@uconn.edu</a> with the subject line: <code>{Postdoc|PhD Application}-{Your Name}</code> (e.g., PhD Application-San Zhang). Please include a brief statement of motivation for joining the research group in the email.
 </p>
 
 </div>
