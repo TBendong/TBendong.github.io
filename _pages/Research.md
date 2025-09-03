@@ -26,6 +26,9 @@ Through broad collaborations with industry and national laboratories, including 
 <ul> </ul>
     
   <h4>Research Topic I: High-Dimension WECC Composite Load Modeling</h4>
+   <div style="flex: 0 0 auto;">
+    <img src="/assets/img/corner_comparison_noise.png" alt="" width="450">
+  </div>
   <p>
     The Western Electricity Coordinating Council (WECC) composite load model comprises various load components, such as different types of motors, distributed energy resources, and electric loads. This structure provides it with the capacity to emulate the dynamic characteristics of loads. Accurate dynamic load modeling is therefore essential for power system dynamic stability analysis, particularly for voltage stability. The goal of load modeling is to estimate the parameters of the WECC composite load model to replicate the measured dynamic response of actual loads. However, with over 100 parameters involved, this high-dimensional estimation task poses a significant challenge. My contributions to this topic are:
  <ul>
@@ -36,12 +39,7 @@ Through broad collaborations with industry and national laboratories, including 
   </p>
 <!-- Use flexbox to arrange the image (left) and publications list (right) -->
 <div style="display: flex; align-items: flex-start; gap: 20px;">
-
-  <!-- Left: Image -->
-  <div style="flex: 0 0 auto;">
-    <img src="/assets/img/corner_comparison_noise.png" alt="" width="450">
-  </div>
-
+ 
   <!-- Right: Publications list -->
   <div style="flex: 1;">
     <h5>Selected Publications</h5>
