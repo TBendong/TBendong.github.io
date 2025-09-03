@@ -39,7 +39,7 @@ In the past five years, I have published over 30 research papers at prestigious 
 
 <p>
     <span style="color: red; font-weight: bold;">Openings for 26 Spring/Fall</span>: I'm actively looking for Postdoc and Ph.D. students to work with me. 
-    Feel free to drop me an email (bendong.tan@uconn.edu) with the subject "{Postdoc|PhD}-{Your Name}" (e.g., PhD-San Zhang) with your CV and transcripts attached, if you are interested. 
+    Feel free to drop me an email (bendong.tan@uconn.edu) with the subject "{Postdoc|PhD Application}-{Your Name}" (e.g., PhD Application-San Zhang) with your CV and transcripts attached, if you are interested. 
     Check <a href="#openings">openings</a> for more details.
 </p>
 
