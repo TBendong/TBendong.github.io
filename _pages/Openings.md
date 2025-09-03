@@ -73,13 +73,16 @@ li {
 </div>
 
 <div class="faculty-profile">
-    <h4 class="section-title">Application Requirements</h4>
+    <h4 class="section-title">Research Interests</h4>
+    <p>The group focuses on modeling/monitoring, stability assessment, and control of stochastic inverter-penetrated power systems. Research interests include but are not limited to:</p>
     <ul>
-        <li>Self-motivated individuals with strong research curiosity and passion for learning</li>
-        <li>Background in electrical engineering, optimization and control, signal processing, statistics, artificial intelligence, or related fields</li>
-        <li>Proficiency in programming (Python/Matlab), with experience in professional power system software such as PowerFactory/PSSE/PowerWorld</li>
-        <li>Strong English writing and communication skills (PolyU requires an IELTS score of 6.5 or above, or a TOEFL score of 80 or above for admission)</li>
+        <li>Dynamic power system modeling, including dynamic load and inverter-based resources</li>
+        <li>Inertia estimation and tracking in inverter-penetrated power systems</li>
+        <li>Static and dynamic power system risk assessment with high penetration of inverter-based resources</li>
+        <li>Stochastic power system decision-making and control</li>
+        <li>Applications of artificial intelligence and machine learning in power system analysis and control</li>
     </ul>
+    <p>If you are interested in other promising new directions, you are very welcome to bring them up, and we can explore and develop them together.</p>
 </div>
 
 <div class="faculty-profile">
