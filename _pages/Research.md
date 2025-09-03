@@ -11,6 +11,7 @@ nav_order: 3
   <p style="font-size:small;">Power system uncertainty quantification framework.</p>
 </div>
 
+<div>
     Modern power systems are experiencing unprecedented levels of uncertainty, arising from several sources: incomplete knowledge of power system physics and sensor measurement errors, as well as the increasing integration of renewable energy resources and flexible loads such as electric vehicles. As these uncertainties propagate through the grid, they affect both steady-state operations and dynamic performance, posing significant challenges to system reliability and security. My long-term goal is to advance power system resilience against uncertainties. We have developed an efficient, scalable, and high-fidelity uncertainty quantification framework for power system modeling and risk analysis. As shown in Figure above, the developed power system uncertainty quantification framework consists of two main modules: 
 <ul>
     <li><b>Bayesian Dynamic modeling of system components</b>: This module models loads and inverter-based resources (IBRs) using sensor measurements. It involves parameter estimation for these components, which is fundamental for operators to conduct accurate power system analysis.</li>
