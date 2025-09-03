@@ -18,21 +18,7 @@ nav_order: 3
     <li><b>Risk assessment</b>: Built upon the modeled power system, this module quantifies the probability of key operational metrics, such as voltage magnitudes, exceeding normal ranges due to stochastic variations in renewable generation, load demands, and contingencies.</li>
   </ul>
   <p>
-    My research focuses on two core questions:<br>
-    <i>1) How can we accurately estimate high-dimensional and time-varying system parameters, while also quantifying the uncertainties of these estimates, to achieve reliable dynamic modeling of power systems?<br>
-    2) How can we efficiently and accurately quantify power system risks in the presence of large-scale integration of renewable energies, varying load demands, and potential contingencies?</i>
-  </p>
-  <p>
-    I have developed various <u><i>computationally efficient data-driven techniques</i></u> to answer these questions, focusing on three key research directions:
-  </p>
-  <ul>
-    <li>Developing high-dimensional constant parameter modeling methods for composite loads, aiding system operators in constructing accurate dynamic power system models and ensuring reliable system analysis.</li>
-    <li>Proposing time-varying inertia estimation approaches for IBRs, which support online frequency stability analysis.</li>
-    <li>Constructing scalable risk assessment methods for power systems across different time scales, ensuring the stability and reliability of power system operations.</li>
-  </ul>
-
-  <p>
-    These efforts advance power system uncertainty quantification in terms of efficiency, scalability, and accuracy, leading to more than ten publications in top-tier journals (e.g., IEEE Transactions on Power Systems). Furthermore, through <b>broad collaborations with industry and national laboratories</b>, including <b>NREL, LLNL, PNNL, ANL, and ISO New England</b>, my research bridges theory and real-world applications. Some of these methods have been validated in practice, such as composite load modeling technique, successfully applied to fault measurements from a utility company in the southern United States.
+Through <b>broad collaborations with industry and national laboratories</b>, including <b>NREL, LLNL, PNNL, ANL, and ISO New England</b>, my research bridges theory and real-world applications. Some of these methods have been validated in practice, such as composite load modeling technique, successfully applied to fault measurements from a utility company in the southern United States.
   </p>
 
   <h4>High-Dimension WECC Composite Load Modeling</h4>
