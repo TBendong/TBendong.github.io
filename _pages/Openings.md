@@ -51,7 +51,7 @@ h4 {
 <p><strong>Dr. Bendong Tan will join the Department of Electrical and Electronic Engineering (EEE) at The Hong Kong Polytechnic University (PolyU) as an Assistant Professor in Fall 2025. He is now recruiting fully funded Ph.D. students (Spring/Fall 2026), postdoctoral researchers, and visiting students, with research focusing on the modeling, stability assessment, and control of next-generation power systems. Undergraduate and Master’s students are also welcome to join the group for research internships.</strong></p>
 
 <div class="faculty-profile">
-    <h4 class="section-title">About Me</h4>
+    <h4>About Me</h4>
     <p>Before joining PolyU, Dr. Tan was a postdoctoral research fellow at the University of Connecticut and a visiting scientist at Massachusetts Institute of Technology, working with <a href="https://engineering.dartmouth.edu/community/faculty/junbo-zhao">Dr. Junbo Zhao</a> 
 and 
 <a href="https://energy.mit.edu/profile/deepjyoti-deka/">Dr. Deepjyoti Deka</a>. 
@@ -61,7 +61,7 @@ I received my Ph.D. degree in Electrical Engineering from the University of Conn
 </div>
 
 <div class="faculty-profile">
-    <h4 class="section-title">Research Interests</h4>
+    <h4>Research Interests</h4>
     <p>The group focuses on <strong>modeling/monitoring, stability assessment, and control of stochastic inverter-penetrated power systems</strong>. We are particularly interested in the areas, including but not limited to:</p>
     <ul>
         <li>Dynamic power system modeling, including dynamic load and inverter-based resources</li>
@@ -74,7 +74,7 @@ I received my Ph.D. degree in Electrical Engineering from the University of Conn
 </div>
 
 <div class="faculty-profile">
-    <h4 class="section-title">Application Requirements</h4>
+    <h4>Application Requirements</h4>
     <p>We are looking for talented candidates who have some or all of the following qualities:</p>
     <ul>
         <li>Self-motivated applicants with strong research curiosity and passion, and strong analytical and problem-solving skills.</li> 
@@ -86,7 +86,7 @@ I received my Ph.D. degree in Electrical Engineering from the University of Conn
 
 
 <div class="faculty-profile">
-    <h4 class="section-title">Application Timeline and Procedure</h4>
+    <h4>Application Timeline and Procedure</h4>
     <ul>
         <li><strong>Ph.D. Applicants:</strong> Enrollment in Spring or Fall 2026. <strong>The application deadline for Spring 2026 admission is September 30, 2025</strong>. Outstanding candidates are encouraged and supported to apply for the Hong Kong PhD Fellowship Scheme (HKPFS).</li>
         <li><strong>Postdoctoral Applicants:</strong> Start date is flexible, with competitive compensation offered.</li>
