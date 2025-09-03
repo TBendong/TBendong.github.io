@@ -15,6 +15,7 @@ profile:
       <a href="https://www.researchgate.net/profile/Bendong-Tan?ev=hdr_xprf"><i class="fa-brands fa-researchgate fa-2x"></i></a>
       <a href="https://orcid.org/my-orcid?orcid=0000-0003-1701-1577"><i class="fa-brands fa-orcid fa-2x"></i></a>
       <a href="https://github.com/TBendong"><i class="fa-brands fa-square-github fa-2x"></i></a>
+      <p> bendong.tan@uconn.edu</p>
       
 news: true # includes a list of news items
 ---
