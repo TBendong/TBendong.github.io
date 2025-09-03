@@ -8,11 +8,24 @@ nav_order: 3
 
 <style>
 /* -------------------- Highlight author's name -------------------- */
+    .section-title {
+    padding-bottom: 0.4em; /* Reduce space between title text and underline */
+    border-bottom: 3px solid #007BFF; /* Blue thick underline */
+    margin-bottom: 0.4em; /* Reduce space between underline and content */
+    display: block; 
+}
 .author-highlight {
     font-weight: normal; /* Remove bold */
     text-decoration: underline; /* Underline the name */
 }
-
+/* -------------------- Blue line under h4 -------------------- */
+h4 {
+    border-bottom: 1.5px solid #007BFF; /* Blue thick underline */
+    padding-bottom: 0.4em; /* Reduce space between title text and underline */
+    margin-bottom: 0.4em; /* Reduce space between underline and content */
+    width: 100%; 
+    display: block; 
+}
 
 </style>
 
@@ -25,7 +38,7 @@ nav_order: 3
 Through broad collaborations with industry and national laboratories, including <b>NREL, LLNL, PNNL, ANL, and ISO New England</b>, my research bridges theory and real-world applications. Some of these modules have been validated in practice, such as the load modeling technique, successfully applied to fault measurements from a utility company in the southern United States.</p>
 <ul> </ul>
     
-  <h4>Research Topic I: High-Dimension WECC Composite Load Modeling</h4>
+  <h4> class="section-title" Research Topic I: High-Dimension WECC Composite Load Modeling</h4>
    <div style="flex: 0 0 auto;">
     <img src="/assets/img/corner_comparison_noise.png" alt="" width="450">
   </div>
