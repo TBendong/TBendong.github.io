@@ -21,7 +21,6 @@ Through broad collaborations with industry and national laboratories, including 
     <li> Achieved significant improvements in modeling efficiency by developing differentiable surrogate models, which eliminate the need for time-consuming load model simulations and prevent unconverged results.</li>
     <li> My research was the first in the dynamic load modeling field to provide both point estimates and confidence intervals for load parameters, enabling the quantification of uncertainties from learning or measurement errors and improving the reliability of power system models. </li>
  </ul>
-    To address this challenge, I propose an amortized Bayesian inference learning method to identify a subset of critical parameters that significantly influence the dynamic load response <i>(Tan, 2024, Amortized)</i>. To further mitigate the impact of measurement errors, a differentiable surrogate model of the composite load is integrated into the Hamiltonian Monte Carlo framework. This approach enables accurate Bayesian parameter estimation under noisy measurements and outliers <i>(Tan, 2024, High-Dimension)</i>. These are the first works in the dynamic load modeling field to simultaneously provide both point estimates and estimation confidence for load parameters, thus quantifying uncertainties due to learning or measurement errors and enhancing the reliability of power system models.
   </p>
 
   <h4>Research Topic II: Time-Varying Inertia Estimation for IBRs</h4>
