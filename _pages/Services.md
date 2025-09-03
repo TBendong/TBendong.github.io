@@ -12,8 +12,8 @@ horizontal: false
 <div class="service-category">
   <h3>Editorial Services</h3>
   <ul>
-    <li>Youth Editor, IET Smart Grid (2025 - Present)</li>
-    <li>Youth Editor, Energy Conversion and Economics (2025 - Present)</li>
+    <li>Early-career Associate Editor, IET Smart Grid (2025 - Present)</li>
+    <li>Early-career Associate Editor, Energy Conversion and Economics (2025 - Present)</li>
   </ul>
 </div>
 
