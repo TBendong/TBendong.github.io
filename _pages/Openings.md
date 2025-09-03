@@ -75,9 +75,9 @@ I received my Ph.D. degree in Electrical Engineering from the University of Conn
 
 <div class="faculty-profile">
     <h4 class="section-title">Application Requirements</h4>
-    <p>We are looking for highly motivated candidates with a strong passion for research and well-developed analytical and problem-solving skills. Ideal candidates have some or all of the following qualities:</p>
+    <p>We are looking for talented candidates who have some or all of the following qualities:</p>
     <ul>
-        <li>Self-motivated applicants with strong research curiosity and a passion for learning</li>
+        <li>Self-motivated applicants with strong research curiosity and passion, and strong analytical and problem-solving skills.</li> 
         <li>Background in electrical engineering, optimization and control, signal processing, statistics, artificial intelligence, or related fields</li>
         <li>Proficiency in programming (Python/Matlab), with experience in professional power system software such as PowerFactory, PSSE, or PowerWorld</li>
         <li>Strong English writing and communication skills (PolyU application requires IELTS ≥6.5 or TOEFL ≥80)</li>
