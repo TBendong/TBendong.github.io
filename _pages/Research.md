@@ -12,7 +12,8 @@ nav_order: 3
     <li><b>Forward Problem:  Risk Assessment</b>: Built upon the modeled power system, this module quantifies the probability of key operational metrics, such as voltage magnitudes, exceeding normal ranges due to stochastic variations in renewable generation, load demands, and contingencies.</li>
  </ul>
 Through broad collaborations with industry and national laboratories, including <b>NREL, LLNL, PNNL, ANL, and ISO New England</b>, my research bridges theory and real-world applications. Some of these modules have been validated in practice, such as the load modeling technique, successfully applied to fault measurements from a utility company in the southern United States.</p>
-
+<ul> </ul>
+    
   <h4>Research Topic I: High-Dimension WECC Composite Load Modeling</h4>
   <p>
     The Western Electricity Coordinating Council (WECC) composite load model comprises various load components, such as different types of motors, distributed energy resources, and electric loads. This structure provides it with the capacity to emulate the dynamic characteristics of loads. Accurate dynamic load modeling is therefore essential for power system dynamic stability analysis, particularly for voltage stability. The goal of load modeling is to estimate the parameters of the WECC composite load model to replicate the measured dynamic response of actual loads. However, with over 100 parameters involved, this high-dimensional estimation task poses a significant challenge. My contributions to this topic are:
