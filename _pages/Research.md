@@ -5,12 +5,6 @@ title: Research
 nav: true
 nav_order: 3
 ---
-
-<div style="float:right; width:55%; text-align:center; margin:10px;">
-  <img src="/assets/img/framework.png" alt="Power system uncertainty quantification framework" style="width:100%;">
-  <p style="font-size:small;">Power system uncertainty quantification framework.</p>
-</div>
-
 <div>
     Modern power systems are experiencing unprecedented levels of uncertainty, arising from several sources: incomplete knowledge of power system physics and sensor measurement errors, as well as the increasing integration of renewable energy resources and flexible loads such as electric vehicles. As these uncertainties propagate through the grid, they affect both steady-state operations and dynamic performance, posing significant challenges to system reliability and security. My long-term goal is to advance power system resilience against uncertainties. My research has developed an efficient, scalable, and high-fidelity uncertainty quantification framework for power system modeling and risk analysis. The developed power system uncertainty quantification framework consists of two main modules: 
 <ul>
@@ -18,7 +12,7 @@ nav_order: 3
     <li><b>Forward Problem:  Risk Assessment</b>: Built upon the modeled power system, this module quantifies the probability of key operational metrics, such as voltage magnitudes, exceeding normal ranges due to stochastic variations in renewable generation, load demands, and contingencies.</li>
   </ul>
   <p>
-Through <b>broad collaborations with industry and national laboratories</b>, including <b>NREL, LLNL, PNNL, ANL, and ISO New England</b>, my research bridges theory and real-world applications. Some of these modules have been validated in practice, such as the composite load modeling technique, successfully applied to fault measurements from a utility company in the southern United States.
+Through <b>broad collaborations with industry and national laboratories</b>, including <b>NREL, LLNL, PNNL, ANL, and ISO New England</b>, my research bridges theory and real-world applications. Some of these modules have been validated in practice, such as the load modeling technique, successfully applied to fault measurements from a utility company in the southern United States.
   </p>
 
   <h4>Research Theme I: High-Dimension WECC Composite Load Modeling</h4>
