@@ -6,124 +6,83 @@ nav: true
 nav_order: 5
 ---
 
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Bendong Tan - CV</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      max-width: 900px;
-      margin: 20px auto;
-      padding: 0 15px;
-    }
-    h2 {
-      color: #333;
-      border-bottom: 2px solid #4F81BD;
-      padding-bottom: 5px;
-      margin-top: 30px;
-    }
-    .timeline-year {
-      color: #4F81BD;
-      font-weight: bold;
-      margin-top: 20px;
-    }
-    .timeline-entry {
-      margin-left: 130px;
-      margin-bottom: 8px;
-    }
-    .award {
-      color: red;
-      font-weight: bold;
-    }
-  </style>
-</head>
-<body>
+<div class="cv">
 
-<h2>Education</h2>
-<div class="timeline-year">2024</div>
-<div class="timeline-entry">Ph.D. in Electrical Engineering, University of Connecticut (UConn)</div>
-<div class="timeline-year">2020</div>
-<div class="timeline-entry">M.S. in Electrical Engineering, Wuhan University</div>
-<div class="timeline-year">2017</div>
-<div class="timeline-entry">B.E. in Electrical Engineering, Wuhan University</div>
+  <!-- Education -->
+  <section>
+    <h2>Education</h2>
+    <ul>
+      <li><strong>Ph.D. in Electrical Engineering</strong>, University of Connecticut (UConn), 2024</li>
+      <li><strong>M.S. in Electrical Engineering</strong>, Wuhan University, 2020</li>
+      <li><strong>B.E. in Electrical Engineering</strong>, Wuhan University, 2017</li>
+    </ul>
+  </section>
 
-<h2>Experience</h2>
-<div class="timeline-year">Now</div>
-<div class="timeline-entry">Assistant Professor, The Hong Kong Polytechnic University (PolyU)</div>
-<div class="timeline-year">2024-09 – 2025-09</div>
-<div class="timeline-entry">Visiting Scientist, University of Connecticut (UConn)</div>
-<div class="timeline-year">2025-07 – 2025-09</div>
-<div class="timeline-entry">Postdoctoral Research Associate, Massachusetts Institute of Technology</div>
-<div class="timeline-year">2023-05 – 2023-08</div>
-<div class="timeline-entry">Summer Intern, National Renewable Energy Laboratory (NREL)</div>
-<div class="timeline-year">2022 – 2024</div>
-<div class="timeline-entry">Research Assistant, University of Connecticut (UConn)</div>
-<div class="timeline-year">Sept. 2023 – Dec. 2023</div>
-<div class="timeline-entry">Teaching Assistant, University of Connecticut (UConn)</div>
-<div class="timeline-year">-</div>
-<div class="timeline-entry">Research Intern</div>
+  <!-- Experience -->
+  <section>
+    <h2>Experience</h2>
+    <ul>
+    <li><strong>Assistant Professor</strong>, The Hong Kong Polytechnic University (PolyU), Now</li>
+    <li><strong>Visiting Scientist</strong>, University of Connecticut (UConn), Sep. 2024 – Sep. 2025</li>
+    <li><strong>Postdoctoral Research Associate</strong>, Massachusetts Institute of Technology, Jul. 2025 – Sep. 2025</li>
+    <li><strong>Summer Intern</strong>, National Renewable Energy Laboratory (NREL), May 2023 – Aug. 2023</li>
+    <li><strong>Research Assistant</strong>, University of Connecticut (UConn), Jan. 2022 – Aug. 2024</li>
+    <li><strong>Teaching Assistant</strong>, University of Connecticut (UConn), Sep. 2023 – Dec. 2023</li>
+    </ul>
+  </section>
 
-<h2>Honors and Awards</h2>
-<div class="timeline-year">2024</div>
-<div class="timeline-entry">2023 Chinese Government Award for Outstanding Self-financed Students Abroad</div>
-<div class="timeline-entry">Ezra Postdoctoral Associate Fellowship of Cornell University</div>
-<div class="timeline-entry">2024 Summer Pre-Doctoral Fellowship, University of Connecticut</div>
-<div class="timeline-entry">2024 Summer Doctoral Dissertation Fellowship, University of Connecticut</div>
-<div class="timeline-entry">2023 Excellent Reviewer Award, Journal of Modern Power Systems and Clean Energy</div>
-<div class="timeline-entry">IEEE PES Connecticut Chapter Outstanding Young Engineer Award</div>
+  <!-- Honors and Awards -->
+  <section>
+    <h2>Honors and Awards</h2>
+    <ul>
+    <li>2023 Chinese Government Award for Outstanding Self-financed Students Abroad, July 2024</li>
+    <li>Ezra Postdoctoral Associate Fellowship, Cornell University, July 2024</li>
+    <li>2024 Summer Pre-Doctoral Fellowship, University of Connecticut, May 2024</li>
+    <li>2024 Summer Doctoral Dissertation Fellowship, University of Connecticut, Apr. 2024</li>
+    <li>2023 Excellent Reviewer Award, Journal of Modern Power Systems and Clean Energy, Jan. 2024</li>
+    <li>2023 IEEE PES Connecticut Chapter Outstanding Young Engineer Award, Jan. 2024</li>
+    <li>IEEE Transactions on Power Systems Outstanding Reviewer, Dec. 2023</li>
+    <li>Conference Participation Award, University of Connecticut, July 2023</li>
+    <li>GE Fellowship for Excellence, University of Connecticut, May 2023</li>
+    <li>IEEE Transactions on Power Systems Outstanding Reviewer, Mar. 2023</li>
+    <li>Best Conference Paper Award, IEEE ISGT Asia, Aug. 2022</li>
+    <li>Best Conference Paper Award, IEEE PES General Meeting, July 2022</li>
+    <li>Best Journal Paper Award, International Journal of Electrical Power & Energy Systems, June 2022</li>
+    <li>IEEE Transactions on Power Systems Outstanding Reviewer, Jan. 2022</li>
+    <li>Power Exploration Scholarship (Top 1%), Wuhan University, Sept. 2019</li>
+    <li>First-class Undergraduate Scholarship (Top 5%), Wuhan University, Sept. 2016</li>
+    <li>First-class Undergraduate Scholarship (Top 5%), Wuhan University, Sept. 2015</li>
+    </ul>
+  </section>
 
-<div class="timeline-year">2023</div>
-<div class="timeline-entry">IEEE Transactions on Power Systems Outstanding Reviewer</div>
-<div class="timeline-entry">Conference Participation Award, University of Connecticut</div>
-<div class="timeline-entry">GE Fellowship for Excellence, University of Connecticut</div>
+  <!-- Technical Talks -->
+  <section>
+    <h2>Technical Talks</h2>
+    <ul>
+  <li>Data-driven dynamic modeling and risk assessment for inverter-penetrated power system, EECS/INEF Power Systems Faculty Candidate Seminar, Washington State University, Pullman, WA, USA, April 2025</li>
+  <li>Data-Driven Dynamic Modeling and Risk Assessment for Inverter-Penetrated Power System, EEE Power Systems Faculty Candidate Seminar, The Hong Kong Polytechnic University, HK, China, April 2025</li>
+  <li>Data-Driven Dynamic Modeling and Risk Assessment for Inverter-Penetrated Power System, ECE Power Systems Faculty Candidate Seminar, Kansas State University, Manhattan, KS, USA, April 2025</li>
 
-<div class="timeline-year">2022</div>
-<div class="timeline-entry">Best Conference Paper Award, IEEE ISGT Asia</div>
-<div class="timeline-entry">Best Conference Paper Award, IEEE PES General Meeting</div>
-<div class="timeline-entry">Best Journal Paper Award, International Journal of Electrical Power & Energy Systems</div>
-<div class="timeline-entry">IEEE Transactions on Power Systems Outstanding Reviewer</div>
+  <li>Data-driven uncertainty quantification for stochastic power system: dynamic system modeling and risk assessment, Overseas Outstanding Young Scholars Forum, South China University of Technology, Guangzhou, China, Dec. 2024</li>
+  <li>Data analytics for stochastic power system parameter estimation, risk and stability assessment with inverter-based resources, Power and Energy Group Seminar, University of Connecticut, Storrs, CT, USA, Sept. 2024</li>
+  <li>Data-driven uncertainty quantification for stochastic power system: risk assessment and parameter estimation, The Young Scholars Forum, Chongqing University, Chengdu, Chongqing, China, June 2024 (Virtual)</li>
+  <li>Data-driven uncertainty quantification for stochastic power system: parameter estimation, risk and stability assessment, PEESE Lab Seminar, Cornell University, Ithaca, NY, USA, May 2024 (Virtual)</li>
+  <li>Power grid time-varying inertia estimation with inverter-based resources, 2024 G-PST Future of Inertia Summit, USA, Mar. 2024 (Virtual)</li>
 
-<div class="timeline-year">2019</div>
-<div class="timeline-entry">Power Exploration Scholarship (top 1%), Wuhan University</div>
+  <li>High-dimension Bayesian parameter estimation approach for WECC composite load model, Yuelu Forum, Hunan University, Changsha, Hunan, China, Dec. 2023</li>
+  <li>Amortized Bayesian parameter estimation approach for WECC composite load model, UCONN Power/Electronics Joint Seminar, Storrs, CT, USA, Sept. 2023</li>
+  <li>Time-varying inertia estimation for inverter-based resources, IEEE PES General Meeting (PESGM), Orlando, FL, USA, July 2023</li>
 
-<div class="timeline-year">2016</div>
-<div class="timeline-entry">First-class Undergraduate Scholarship (top 5%), Wuhan University</div>
+  <li>Interpretable data-driven probabilistic power system load margin assessment with uncertain renewable energy and loads, IEEE ISGT Asia, Nov. 2022 (Virtual)</li>
+  <li>Explainable Bayesian neural network for probabilistic transient stability analysis considering wind energy, IEEE PES General Meeting (PESGM), Denver, CO, USA, July 2022</li>
 
-<div class="timeline-year">2015</div>
-<div class="timeline-entry">First-class Undergraduate Scholarship (top 5%), Wuhan University</div>
+  <li>Extended frequency divider for bus frequency estimation considering virtual inertia from DFIGs, IEEE PES ISGT Latin America, Sept. 2021 (Virtual)</li>
 
-<h2>Technical Talks</h2>
-<div class="timeline-year">2025</div>
-<div class="timeline-entry">EEE Power Systems Faculty Candidate Seminar, The Hong Kong Polytechnic University, HK, China (Hosted by Dr. Siqi Bu)</div>
-<div class="timeline-entry">ECE Power Systems Faculty Candidate Seminar, Kansas State University, Manhattan, KS, USA (Hosted by Dr. Anil Pahwa)</div>
-<div class="timeline-entry">EECS/INEF Power Systems Faculty Candidate Seminar, Washington State University, Pullman, WA, USA (Hosted by Dr. Anamika Dubey)</div>
+  <li>A novel temporal feature selection for time-adaptive transient stability assessment, IEEE PES ISGT Europe, Sept. 2019 (Virtual)</li>
 
-<div class="timeline-year">2024</div>
-<div class="timeline-entry">Overseas Outstanding Young Scholars Forum, South China University of Technology, Guangzhou, China</div>
-<div class="timeline-entry">Power and Energy Group Seminar, University of Connecticut, Storrs, CT, USA</div>
-<div class="timeline-entry">Young Scholars Forum, Chongqing University, Chongqing</div>
-<div class="timeline-entry">PEESE Lab Seminar, Cornell University, Ithaca, NY, USA (Hosted by Dr. Fengqi You)</div>
-<div class="timeline-entry">G-PST Future of Inertia Summit, USA (Hosted by Dr. Jin Tan)</div>
+  <li>Representational learning approach for power system transient stability assessment based on convolutional neural network, Renewable Power Generation Conference (RPG 2017), Wuhan, Hubei, China, Oct. 2017</li>
 
-<div class="timeline-year">2023</div>
-<div class="timeline-entry">Yuelu Forum, Hunan University, Changsha, China</div>
-<div class="timeline-entry">UCONN Power/Electronics Joint Seminar, Storrs, CT, USA</div>
-<div class="timeline-entry">IEEE PES General Meeting (PESGM), Orlando, FL, USA</div>
+    </ul>
+  </section>
 
-<div class="timeline-year">2022</div>
-<div class="timeline-entry">IEEE ISGT Asia (Virtual)</div>
-<div class="timeline-entry">IEEE PES General Meeting (PESGM), Denver, CO, USA</div>
-
-<div class="timeline-year">2021</div>
-<div class="timeline-entry">IEEE PES ISGT Latin America (Virtual)</div>
-
-<div class="timeline-year">2019</div>
-<div class="timeline-entry">IEEE PES ISGT Europe (Virtual)</div>
-
-<div class="timeline-year">2017</div>
-<div class="timeline-entry">Renewable Power Generation Conference (RPG 2017), Wuhan, China</div>
-
-</body>
-</html>
+</div>
