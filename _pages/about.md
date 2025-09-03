@@ -5,6 +5,7 @@ permalink: /
 subtitle: <p> Incoming Assistant Professor@PolyU</p>
 
 profile:
+
   align: right
   image: photo.jpg
   image_circular: false # crops the image to make it circular
@@ -16,6 +17,11 @@ profile:
       <a href="https://orcid.org/my-orcid?orcid=0000-0003-1701-1577"><i class="fa-brands fa-orcid fa-2x"></i></a>
       <a href="https://github.com/TBendong"><i class="fa-brands fa-square-github fa-2x"></i></a>
       <p> Email: bendong.tan@uconn.edu</p>
+      <div style="margin-top:10px;">
+      <a href="https://mapmyvisitors.com/web/1bz2g" title="Visit tracker">
+      <img src="https://mapmyvisitors.com/map.png?d=LzM2_y-6dBBpj_Tp08c-Y5K1nnboQvmXt9zOQ4Amhxc&cl=ffffff" />
+      </a>
+      </div>
       
 news: true # includes a list of news items
 ---
@@ -51,11 +57,7 @@ My long-term vision is to advance power system resilience against uncertainties.
 </p>
 
 
-<div style="margin-top:10px;">
-      <a href="https://mapmyvisitors.com/web/1bz2g" title="Visit tracker">
-      <img src="https://mapmyvisitors.com/map.png?d=LzM2_y-6dBBpj_Tp08c-Y5K1nnboQvmXt9zOQ4Amhxc&cl=ffffff" />
-      </a>
-      </div>
+
 
 
 
