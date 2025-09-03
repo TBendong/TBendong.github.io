@@ -50,11 +50,9 @@ My long-term vision is to advance power system resilience against uncertainties.
 
 <p>
     <span style="color: red; font-weight: bold;">Openings for 26 Spring/Fall</span>: I'm actively looking for Postdoc and Ph.D. students to work with me. 
-    Feel free to drop me an email (bendong.tan@uconn.edu) with the subject "{Postdoc|PhD Application}-{Your Name}" (e.g., PhD Application-San Zhang) with your CV, transcripts, and representative publications (if any) attached, if you are interested. Please include a brief statement of motivation for joining the research group in the email.
+    Feel free to drop me an email (<a href="mailto:bendong.tan@uconn.edu">bendong.tan@uconn.edu</a>) with the subject "<code>{Postdoc|PhD Application}-{Your Name}</code>" (e.g., PhD Application-San Zhang) with your CV, transcripts, and representative publications (if any) attached, if you are interested. Please include a brief statement of motivation for joining the research group in the email.
     Check <a href="https://tbendong.github.io/Openings/">openings</a> for more details.
 </p>
-
-
 
 
 <html>
