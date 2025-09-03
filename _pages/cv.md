@@ -6,17 +6,6 @@ nav: true
 nav_order: 5
 ---
 <div class="cv">
-
-  <!-- General Information -->
-  <section>
-    <h2>General Information</h2>
-    <ul>
-      <li><strong>Full Name:</strong> Bendong Tan</li>
-      <li><strong>Occupancy:</strong> Assistant Professor</li>
-      <li><strong>Languages:</strong> Chinese, English</li>
-    </ul>
-  </section>
-
   <!-- Education -->
   <section>
     <h2>Education</h2>
