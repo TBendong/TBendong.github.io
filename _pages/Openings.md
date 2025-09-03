@@ -81,8 +81,7 @@ I received my Ph.D. degree in Electrical Engineering from the University of Conn
     </ul>
     <p style="color: red;">
     To apply, please email your CV and transcripts to 
-    <a href="mailto:bendong.tan@uconn.edu">bendong.tan@uconn.edu</a> with the subject line:<br>
-    <code>{Postdoc|PhD Application}-{Your Name}</code> (e.g., PhD Application-San Zhang).
+    <a href="mailto:bendong.tan@uconn.edu">bendong.tan@uconn.edu</a> with the subject line: <code>{Postdoc|PhD Application}-{Your Name}</code> (e.g., PhD Application-San Zhang).
 </p>
 
 </div>
