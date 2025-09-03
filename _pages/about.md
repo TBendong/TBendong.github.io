@@ -30,7 +30,14 @@ Before my Ph.D. studies at UConn, I received my M.S. degree in Electrical Engine
 </p>
 
 <p>
-My research interests lie in dynamic modeling/monitoring, stability assessment and control for inverter-integrated power systems, with a focus on dynamic load/inverter-based resource modeling, inertia estimation, static/dynamic risk assessment, uncertainty quantification and management, and machine learning applications. 
+My long-term vision is to architect uncertainty-resilient power systems. Currently, I focus on modeling/monitoring, stability assessment and control for stochastic inverter-penetrated power systems. My research interests include but are not limited to:
+<ul>
+    <li>Dynamic power system modeling, including dynamic load and inverter-based resource </li>
+    <li>Inverter-penetrated power system inertia estimation and tracking</li>
+    <li>Static/dynamic power system risk assessment with high penetration of inverter-based resources</li>
+    <li>Stochatic power system decision-making and control</li>
+    <li>Artificial intellegence and machine learning applications in power systems</li>
+</ul>
 In the past five years, I have published over 30 research papers at prestigious journals and conferences, such as TPWRS.
 </p>
 
