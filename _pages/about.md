@@ -18,9 +18,7 @@ profile:
       <a href="https://github.com/TBendong"><i class="fa-brands fa-square-github fa-2x"></i></a>
       <p> Email: bendong.tan@uconn.edu</p>
       <div style="margin-top:10px;">
-      <a href="https://mapmyvisitors.com/web/1bz2g" title="Visit tracker">
-      <img src="https://mapmyvisitors.com/map.png?d=LzM2_y-6dBBpj_Tp08c-Y5K1nnboQvmXt9zOQ4Amhxc&cl=ffffff" />
-      </a>
+      <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=n&d=erqVDkrOS1imD1t9uueJnnhGfh6VqiBV_gVt0UpR-GU'></script>
       </div>
       
 news: true # includes a list of news items
