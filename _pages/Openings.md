@@ -67,13 +67,13 @@ nav_order: 8
 
 
 <section>
-    <h2>About Me</h2>
-    <p>I am Xingyi Yang. I will be joining The Hong Kong Polytechnic University (PolyU) as an Assistant Professor in the Department of Data Science and Artificial Intelligence (DSAI) in Fall 2025, supported by the Presidential Young Scholar Scheme. I recently obtained my Ph.D. from the National University of Singapore (NUS).</p>
+    <h4>About Me</h4>
+    <p>I am Bendong Tan. I will be joining The Hong Kong Polytechnic University (PolyU) as an Assistant Professor in the Department of Electrical and Electronic Engineering (EEE) in Fall 2025.</p>
     <p>I am establishing a new research group dedicated to cutting-edge AI, with a focus on Generative AI, Multimodal Learning, Efficient AI, and Agentic AI. I am looking for passionate Ph.D. students for Spring/Fall 2026 admission, as well as visiting students, RAs, and Postdocs.</p>
 </section>
 
 <section>
-    <h2>Educational Background</h2>
+    <h4>Educational Background</h4>
     <ul>
         <li>Ph.D., National University of Singapore (Advisor: Prof. Xinchao Wang). Visiting researcher at University of Oxford (Prof. Philip Torr).</li>
         <li>M.S., University of California San Diego</li>
@@ -82,7 +82,7 @@ nav_order: 8
 </section>
 
 <section>
-    <h2>Research & Honors</h2>
+    <h4>Research & Honors</h4>
     <p>My research focuses on Generative AI, Multimodal Learning, and Efficient AI, particularly their application to 3D/4D vision and physical world modeling. My work has been published in top-tier venues, including NeurIPS, ICML, ICLR, CVPR, ICCV, and ECCV, and has received honors such as the NeurIPS 2022 Best Paper Honorable Mention and the 2023 Chinese Government Award for Outstanding Self-Financed Students Abroad.</p>
 </section>
 
@@ -99,7 +99,7 @@ nav_order: 8
 </section>
 
 <section>
-    <h2>What We Offer</h2>
+    <h4>What We Offer</h4>
     <ul>
         <li><strong>Close and Consistent Mentorship:</strong> Guidance to help students become independent researchers.</li>
         <li><strong>Full Financial and Resource Support:</strong> Stable funding, computational resources, and conference support.</li>
@@ -108,7 +108,7 @@ nav_order: 8
 </section>
 
 <section>
-    <h2>Who We Are Looking For</h2>
+    <h4>Who We Are Looking For</h4>
     <p>We are looking for highly motivated candidates passionate about research with strong analytical skills. Ideal candidates have:</p>
     <ul>
         <li>Strong interest in our research areas and desire to tackle challenging problems.</li>
@@ -120,14 +120,14 @@ nav_order: 8
 </section>
 
 <section>
-    <h2>Timelines & How to Apply</h2>
+    <h4>Timelines & How to Apply</h4>
     <p>We plan to recruit 2–3 Ph.D. students for Spring/Fall 2026 admission. Spring deadline: September 30th. Outstanding candidates are encouraged to apply for the Hong Kong PhD Fellowship Scheme (HKPFS), with full support.</p>
     <p>We are also looking for 1–2 Postdocs and RAs year-round. Research internships for undergraduate and master's students are available for Spring/Summer 2026.</p>
     <p>To apply, send CV and relevant materials to <a href="mailto:x3yang@outlook.com">x3yang@outlook.com</a> with the subject line: "[Position] Application - [Your Name]". Include a brief statement of interest.</p>
 </section>
 
 <section>
-    <h2>✍️ A Final Word</h2>
+    <h4>✍️ A Final Word</h4>
     <p>Thank you for your interest. Choosing a supervisor is a significant decision, and building this team is an exciting journey. I aim to foster an open, collaborative, and supportive environment where we can explore new ideas and grow together.</p>
     <p>As the group is in its early stage, responses may take time. Every application will be carefully reviewed. I look forward to turning exciting ideas into reality together.</p>
 </section>
