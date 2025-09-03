@@ -36,18 +36,13 @@ Through broad collaborations with industry and national laboratories, including 
 
   <h4>Research Topic III: Scalable Power System Risk Assessment</h4>
   <p>
-    Due to the penetration of various uncertain sources, such as flexible loads, solar, and wind generation, power system operations exhibit stochastic behavior, making it challenging to maintain the system within its normal operating range. Additionally, the power system is subject to contingencies, such as scheduled branch maintenance or unexpected branch outages caused by extreme weather. These uncertainties propagate through the system, increasing the likelihood that operational metrics may exceed safe thresholds. This necessitates accurate quantification of the risks posed by these uncertainties to prevent power system failures.
+    Due to the penetration of various uncertain sources, such as flexible loads, solar, and wind generation, power system operations exhibit stochastic behavior, making it challenging to maintain the system within its normal operating range. Additionally, the power system is subject to contingencies, such as scheduled branch maintenance or unexpected branch outages caused by extreme weather. These uncertainties propagate through the system, increasing the likelihood that operational metrics may exceed safe thresholds. This necessitates accurate quantification of the risks posed by these uncertainties to prevent power system failures. However, existing data-driven methods either cannot handle a large number of contingencies simultaneously, fail to address the high-dimensional inputs caused by numerous uncertain sources, or struggle with the high-dimensional outputs required to model power system operational metrics. My contributions to this topic are: 
   </p>
-  <p>
-    However, existing data-driven methods either cannot handle a large number of contingencies simultaneously, fail to address the high-dimensional inputs caused by numerous uncertain sources, or struggle with the high-dimensional outputs required to model power system operational metrics. To tackle these long-standing challenges, I have developed various surrogate models to address these issues effectively in two ways: 
-  </p>
-  <ol>
-    <li>For pre-contingency load margin (static voltage stability) risk assessment, I leverage transfer learning to rapidly update the surrogate models, enabling efficient adaptation to changes in network topology due to scheduled branch maintenance <i>(Tan, 2023, Transferable)</i>. Regarding massive possible unexpected branch outages caused by extreme weather, I utilize topology embeddings to assess multiple contingencies simultaneously for voltage risk assessment <i>(Tan, 2024, Scalable)</i>.</li>
-    <li>Once a contingency occurs, the surrogate model is extended to handle high-dimensional outputs, allowing for the immediate prediction of uncertainty-quantified post-contingency dynamic trajectories using a few real-time measurements <i>(Tan, 2024, Bayesian)</i>.</li>
-  </ol>
-  <p>
-    These approaches significantly accelerate the speed of risk assessment, thereby enhancing the reliability and resilience of power system planning and operation.
-  </p>
+    <ul>
+    <li>Developed transfer learning-based surrogate models for pre-contingency load margin (static voltage stability) risk assessment, enabling rapid adaptation to network topology changes caused by scheduled branch maintenance.</li>
+    <li>Proposed topology embeddings and multi-fidelity surrogate modeling techniques to evaluate large numbers of potential contingencies caused by rare events, improving the accuracy and efficiency of pre-contingency voltage risk assessment.</li>
+    <li>Designed instability-aware surrogate models to handle high-dimensional outputs for post-contingency scenarios, enabling immediate prediction of dynamic trajectories with quantified uncertainties using only a few real-time measurements.</li>
+</ul>
 
 
 </div>
