@@ -12,7 +12,7 @@ nav_order: 5
   <section>
     <h4>Education</h4>
     <ul>
-      <li><strong>Ph.D. in Electrical Engineering</strong>, University of Connecticut (UConn), 2024</li>
+      <li><strong>Ph.D. in Electrical Engineering</strong>, University of Connecticut, 2024</li>
       <li><strong>M.S. in Electrical Engineering</strong>, Wuhan University, 2020</li>
       <li><strong>B.E. in Electrical Engineering</strong>, Wuhan University, 2017</li>
     </ul>
@@ -22,12 +22,12 @@ nav_order: 5
   <section>
     <h4>Experience</h4>
     <ul>
-    <li><strong>Assistant Professor</strong>, The Hong Kong Polytechnic University (PolyU), Now</li>
-    <li><strong>Visiting Scientist</strong>, University of Connecticut (UConn), Sep. 2024 – Sep. 2025</li>
-    <li><strong>Postdoctoral Research Associate</strong>, Massachusetts Institute of Technology, Jul. 2025 – Sep. 2025</li>
-    <li><strong>Summer Intern</strong>, National Renewable Energy Laboratory (NREL), May 2023 – Aug. 2023</li>
-    <li><strong>Research Assistant</strong>, University of Connecticut (UConn), Jan. 2022 – Aug. 2024</li>
-    <li><strong>Teaching Assistant</strong>, University of Connecticut (UConn), Sep. 2023 – Dec. 2023</li>
+    <li><strong>Assistant Professor</strong>, The Hong Kong Polytechnic University, Now</li>
+    <li><strong>Visiting Scientist</strong>, Massachusetts Institute of Technology, July 2025 – Sep. 2025</li>
+    <li><strong>Postdoctoral Research Associate</strong>, University of Connecticut, Sep. 2024 – Sep. 2025</li>
+    <li><strong>Summer Intern</strong>, National Renewable Energy Laboratory, May 2023 – Aug. 2023</li>
+    <li><strong>Research Assistant</strong>, University of Connecticut, Jan. 2022 – Aug. 2024</li>
+    <li><strong>Teaching Assistant</strong>, University of Connecticut, Sep. 2023 – Dec. 2023</li>
     </ul>
   </section>
 
