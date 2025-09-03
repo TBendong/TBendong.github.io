@@ -44,7 +44,7 @@ Through broad collaborations with industry and national laboratories, including 
 
   <!-- Right: Publications list -->
   <div style="flex: 1;">
-    <h3>Selected Publications</h3>
+    <b>Selected Publications</b>
     <ul>
       <li>
         <span class="author-highlight">Bendong Tan</span>, Junbo Zhao, Naiyuan Chiang, and Nan Duan, 
