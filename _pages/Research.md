@@ -5,6 +5,17 @@ title: Research
 nav: true
 nav_order: 3
 ---
+
+<style>
+/* -------------------- Highlight author's name -------------------- */
+.author-highlight {
+    font-weight: normal; /* Remove bold */
+    text-decoration: underline; /* Underline the name */
+}
+
+
+</style>
+
 <div>
     <p>Modern power systems are experiencing unprecedented levels of uncertainty, arising from several sources: incomplete knowledge of power system physics, sensor measurement errors, as well as the increasing integration of renewable energy resources and flexible loads. As these uncertainties propagate through the grid, they affect both steady-state operations and dynamic performance, posing significant challenges to system reliability and security. My long-term goal is to advance power system resilience against uncertainties. My research has developed an efficient, scalable, and high-fidelity uncertainty quantification framework for power system modeling and risk analysis. The developed power system uncertainty quantification framework consists of two main modules: 
 <ul>
@@ -28,7 +39,7 @@ Through broad collaborations with industry and national laboratories, including 
 
   <!-- Left: Image -->
   <div style="flex: 0 0 auto;">
-    <img src="/assets/img/corner_comparison_noise.png" alt="" width="250">
+    <img src="/assets/img/corner_comparison_noise.png" alt="" width="300">
   </div>
 
   <!-- Right: Publications list -->
