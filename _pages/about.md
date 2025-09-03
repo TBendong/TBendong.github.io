@@ -86,7 +86,7 @@ In the past five years, I have published over 30 research papers at prestigious 
 <body>
 
 
-<h4 style="text-align: center; font-weight: bold; line-height: 1.5; margin-top: 1.5em;">🔥 News</h4>
+<h4 style="text-align: center; font-weight: bold;">🔥 News</h4>
 
 
 
