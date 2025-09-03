@@ -16,9 +16,6 @@ Through broad collaborations with industry and national laboratories, including 
     
   <h4>Research Topic I: High-Dimension WECC Composite Load Modeling</h4>
   <p>
-<div style="text-align: center;">
-  <img src="/assets/img/corner_comparison_noise.png" alt="" width="300">
-</div>
     The Western Electricity Coordinating Council (WECC) composite load model comprises various load components, such as different types of motors, distributed energy resources, and electric loads. This structure provides it with the capacity to emulate the dynamic characteristics of loads. Accurate dynamic load modeling is therefore essential for power system dynamic stability analysis, particularly for voltage stability. The goal of load modeling is to estimate the parameters of the WECC composite load model to replicate the measured dynamic response of actual loads. However, with over 100 parameters involved, this high-dimensional estimation task poses a significant challenge. My contributions to this topic are:
  <ul>
     <li> Proposed a global sensitivity analysis method based on sparse polynomial chaos expansion for identifying critical parameters. This mitigates the issue of "curse of high dimensionality". </li>
@@ -26,7 +23,32 @@ Through broad collaborations with industry and national laboratories, including 
     <li> My research was the first in the dynamic load modeling field to provide both point estimates and confidence intervals for load parameters, enabling the quantification of uncertainties from learning or measurement errors and improving the reliability of power system models. </li>
  </ul>
   </p>
+<!-- Use flexbox to arrange the image (left) and publications list (right) -->
+<div style="display: flex; align-items: flex-start; gap: 20px;">
 
+  <!-- Left: Image -->
+  <div style="flex: 0 0 auto;">
+    <img src="/assets/img/corner_comparison_noise.png" alt="" width="250">
+  </div>
+
+  <!-- Right: Publications list -->
+  <div style="flex: 1;">
+    <h3>Selected Publications</h3>
+    <ul>
+      <li>
+        <span class="author-highlight">Bendong Tan</span>, Junbo Zhao, Naiyuan Chiang, and Nan Duan, 
+        "<a href="https://ieeexplore.ieee.org/document/10892022">High-dimension Bayesian parameter estimation for WECC composite load model using realistic event measurements</a>", 
+        <span class="journal-name">IEEE Transactions on Power Systems</span>, vol. 40, no. 5, pp. 3979-3992, Sept. 2025.
+      </li>
+      <li>
+        <span class="author-highlight">Bendong Tan</span>, Junbo Zhao, and Nan Duan, 
+        "<a href="https://ieeexplore.ieee.org/document/10056325">Amortized Bayesian parameter estimation approach for WECC composite load model</a>", 
+        <span class="journal-name">IEEE Transactions on Power Systems</span>, vol. 39, no. 1, pp. 1517-1529, Jan. 2024.
+      </li>
+    </ul>
+  </div>
+
+</div>
   <h4>Research Topic II: Time-Varying Inertia Estimation for IBRs</h4>
   <p>
     Inertia is an index that quantifies a power system's capability to mitigate frequency deviations. Accurate inertia estimation is therefore crucial for assessing power system frequency stability. However, certain devices in the power system, particularly IBRs such as renewable energies, are equipped with time-adaptive virtual inertia control strategies to enhance frequency deviation mitigation. While these strategies are beneficial for maintaining frequency stability, they pose significant challenges for parameter estimation. The difficulty arises because this time-varying inertia can undergo rapid and substantial changes within a matter of seconds, making it challenging for existing methods to track accurately. My contributions to this topic are:
