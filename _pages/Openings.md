@@ -80,7 +80,7 @@ I received my Ph.D. degree in Electrical Engineering from the University of Conn
         <li>Self-motivated applicants with strong research curiosity and passion, and strong analytical and problem-solving skills.</li> 
         <li>Background in electrical engineering, optimization and control, signal processing, statistics, artificial intelligence, or related fields</li>
         <li>Proficiency in programming (Python/Matlab), with experience in professional power system software such as PowerFactory, PSSE, or PowerWorld</li>
-        <li>Strong English writing and communication skills (PolyU application requires IELTS ≥6.5 or TOEFL ≥80)</li>
+        <li>Strong English writing and communication skills (Applicants to PolyU are required to have an IELTS score of 6.5 or higher, or a TOEFL score of 80 or higher)</li>
     </ul>
 </div>
 
