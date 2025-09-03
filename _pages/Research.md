@@ -39,7 +39,7 @@ Through broad collaborations with industry and national laboratories, including 
 
   <!-- Left: Image -->
   <div style="flex: 0 0 auto;">
-    <img src="/assets/img/corner_comparison_noise.png" alt="" width="300">
+    <img src="/assets/img/corner_comparison_noise.png" alt="" width="450">
   </div>
 
   <!-- Right: Publications list -->
