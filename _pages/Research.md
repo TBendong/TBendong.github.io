@@ -16,8 +16,11 @@ Through broad collaborations with industry and national laboratories, including 
   <h4>Research Topic I: High-Dimension WECC Composite Load Modeling</h4>
   <p>
     The Western Electricity Coordinating Council (WECC) composite load model comprises various load components, such as different types of motors, distributed energy resources, and electric loads. This structure provides it with the capacity to emulate the dynamic characteristics of loads. Accurate dynamic load modeling is therefore essential for power system dynamic stability analysis, particularly for voltage stability. The goal of load modeling is to estimate the parameters of the WECC composite load model to replicate the measured dynamic response of actual loads. However, with over 100 parameters involved, this high-dimensional estimation task poses a significant challenge. My contributions to this topic are:
-  </p>
-  <p>
+ <ul>
+    <li> A Global sensitivity analysis method based on sparse polynomial chaos expansion is proposed for identifying critical parameters. This mitigates the issue of "curse of high dimensionality". </li>
+    <li> Achieved significant improvements in modeling efficiency by developing differentiable surrogate models, which eliminate the need for time-consuming load model simulations and prevent unconverged results.</li>
+    <li> My research was the first in the dynamic load modeling field to provide both point estimates and confidence intervals for load parameters, enabling the quantification of uncertainties from learning or measurement errors and improving the reliability of power system models. </li>
+ </ul>
     To address this challenge, I propose an amortized Bayesian inference learning method to identify a subset of critical parameters that significantly influence the dynamic load response <i>(Tan, 2024, Amortized)</i>. To further mitigate the impact of measurement errors, a differentiable surrogate model of the composite load is integrated into the Hamiltonian Monte Carlo framework. This approach enables accurate Bayesian parameter estimation under noisy measurements and outliers <i>(Tan, 2024, High-Dimension)</i>. These are the first works in the dynamic load modeling field to simultaneously provide both point estimates and estimation confidence for load parameters, thus quantifying uncertainties due to learning or measurement errors and enhancing the reliability of power system models.
   </p>
 
