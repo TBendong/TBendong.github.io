@@ -38,7 +38,7 @@ h4 {
 Through broad collaborations with industry and national laboratories, including <b>NREL, LLNL, PNNL, ANL, and ISO New England</b>, my research bridges theory and real-world applications. Some of these modules have been validated in practice, such as the load modeling technique, successfully applied to fault measurements from a utility company in the southern United States.</p>
 <ul> </ul>
     
-  <h4 class="section-title"> Research Topic I: High-Dimension WECC Composite Load Modeling</h4>
+  <h4> Research Topic I: High-Dimension WECC Composite Load Modeling</h4>
    <div style="flex: 0 0 auto;">
     <img src="/assets/img/corner_comparison_noise.png" alt="" width="450">
   </div>
