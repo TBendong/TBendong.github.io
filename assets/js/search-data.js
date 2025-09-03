@@ -31,11 +31,11 @@ ninja.data = [{
             window.location.href = "/Teaching/";
           },
         },{id: "nav-cv",
-          title: "CV",
+          title: "cv",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/CV/";
+            window.location.href = "/cv/";
           },
         },{id: "nav-services",
           title: "Services",
