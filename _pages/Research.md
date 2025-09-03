@@ -17,7 +17,7 @@ Through broad collaborations with industry and national laboratories, including 
   <p>
     The Western Electricity Coordinating Council (WECC) composite load model comprises various load components, such as different types of motors, distributed energy resources, and electric loads. This structure provides it with the capacity to emulate the dynamic characteristics of loads. Accurate dynamic load modeling is therefore essential for power system dynamic stability analysis, particularly for voltage stability. The goal of load modeling is to estimate the parameters of the WECC composite load model to replicate the measured dynamic response of actual loads. However, with over 100 parameters involved, this high-dimensional estimation task poses a significant challenge. My contributions to this topic are:
  <ul>
-    <li> A Global sensitivity analysis method based on sparse polynomial chaos expansion is proposed for identifying critical parameters. This mitigates the issue of "curse of high dimensionality". </li>
+    <li> Proposed a global sensitivity analysis method based on sparse polynomial chaos expansion for identifying critical parameters. This mitigates the issue of "curse of high dimensionality". </li>
     <li> Achieved significant improvements in modeling efficiency by developing differentiable surrogate models, which eliminate the need for time-consuming load model simulations and prevent unconverged results.</li>
     <li> My research was the first in the dynamic load modeling field to provide both point estimates and confidence intervals for load parameters, enabling the quantification of uncertainties from learning or measurement errors and improving the reliability of power system models. </li>
  </ul>
