@@ -5,7 +5,7 @@ permalink: /
 subtitle: <p> Incoming Assistant Professor@PolyU</p>
 
 profile:
-  align: left
+  align: right
   image: photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
@@ -31,42 +31,20 @@ Before my Ph.D. studies at UConn, I received my M.S. degree in Electrical Engine
 
 <p>
 My long-term vision is to architect uncertainty-resilient power systems. Currently, I focus on modeling/monitoring, stability assessment and control for stochastic inverter-penetrated power systems. My research interests include but are not limited to:
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Research Interests</title>
-<style>
-    /* Indented unordered list for research directions */
-    ul.indented {
-        padding-left: 30px;   /* Indent the list */
-        list-style-type: disc; /* Default bullet points */
-    }
-
-    /* Paragraph styling (optional) */
-    p {
-        line-height: 1.6;
-        margin-bottom: 10px;
-    }
-</style>
-</head>
+<html>
 <body>
-
-<p>My research focuses on the following areas:</p>
-
-<!-- Unordered list of research directions -->
-<ul class="indented">
+    <ul>
     <li>Dynamic power system modeling, including dynamic load and inverter-based resource</li>
     <li>Inverter-penetrated power system inertia estimation and tracking</li>
     <li>Static/dynamic power system risk assessment with high penetration of inverter-based resources</li>
     <li>Stochastic power system decision-making and control</li>
     <li>Artificial intelligence and machine learning applications in power systems</li>
-</ul>
-
+    </ul>
 </body>
 </html>
-In the past five years, I have published over 30 research papers at prestigious journals and conferences, such as TPWRS.
-</p>
+<p>In the past five years, I have published over 30 research papers at prestigious journals and conferences, such as TPWRS.</p>
+
+
 
 
 <strong>I am open to research discussions and collaborations. Feel free to reach out to me via email!</strong>
