@@ -28,7 +28,7 @@ news: true # includes a list of news items
 Currently, I am a postdoctoral research fellow at the University of Connecticut and a visiting scientist at Massachusetts Institute of Technology, working with <a href="https://engineering.dartmouth.edu/community/faculty/junbo-zhao">Dr. Junbo Zhao</a> 
 and 
 <a href="https://energy.mit.edu/profile/deepjyoti-deka/">Dr. Deepjyoti Deka</a>. 
-I received my Ph.D. degree in Electrical Engineering from the University of Connecticut, advised by 
+I received my Ph.D. degree in Electrical Engineering from the University of Connecticut in 2024, advised by 
 <a href="https://engineering.dartmouth.edu/community/faculty/junbo-zhao">Dr. Junbo Zhao</a>. 
 Before my Ph.D. studies at UConn, I received my M.S. degree in Electrical Engineering from Wuhan University in 2020 and my B.Eng. degree in Electrical Engineering from Wuhan University in 2017.
 </p>
