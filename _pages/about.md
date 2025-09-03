@@ -42,7 +42,7 @@ My long-term vision is to advance power system resilience against uncertainties.
     </ul>
 </body>
 </html>
-<p>In the past five years, I have published over 30 research papers at prestigious journals and conferences, such as TPWRS.<strong> I am open to research discussions and collaborations. Feel free to reach out to me via email!</strong> </p> 
+<p><strong> I am open to research discussions and collaborations. Feel free to reach out to me via email!</strong> </p> 
 
 <p>
     <span style="color: red; font-weight: bold;">Openings for 26 Spring/Fall</span>: I'm actively looking for Postdoc and Ph.D. students to work with me. 
