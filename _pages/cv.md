@@ -23,11 +23,11 @@ nav_order: 5
     <h4>Experience</h4>
     <ul>
     <li><strong>Assistant Professor</strong>, The Hong Kong Polytechnic University, Now</li>
-    <li><strong>Visiting Scientist</strong>, Massachusetts Institute of Technology, July 2025 – Sep. 2025</li>
-    <li><strong>Postdoctoral Research Associate</strong>, University of Connecticut, Sep. 2024 – Sep. 2025</li>
+    <li><strong>Visiting Scientist</strong>, Massachusetts Institute of Technology, July 2025 – Sept. 2025</li>
+    <li><strong>Postdoctoral Research Associate</strong>, University of Connecticut, Sept. 2024 – Sept. 2025</li>
     <li><strong>Summer Intern</strong>, National Renewable Energy Laboratory, May 2023 – Aug. 2023</li>
     <li><strong>Research Assistant</strong>, University of Connecticut, Jan. 2022 – Aug. 2024</li>
-    <li><strong>Teaching Assistant</strong>, University of Connecticut, Sep. 2023 – Dec. 2023</li>
+    <li><strong>Teaching Assistant</strong>, University of Connecticut, Sept. 2023 – Dec. 2023</li>
     </ul>
   </section>
 
