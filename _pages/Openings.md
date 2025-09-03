@@ -2,7 +2,6 @@
 layout: page
 permalink: /Openings/
 title: Openings
-description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 8
 ---
@@ -26,14 +25,14 @@ h4 {
     display: block; 
 }
 
-/* -------------------- General list styling -------------------- */
-ul {
-    list-style: none;
-    padding-left: 0;
+/* -------------------- List styling for faculty profile -------------------- */
+.faculty-profile ul {
+    list-style: disc;       /* 显示黑点 */
+    padding-left: 20px;     /* 缩进 */
     margin-bottom: 1.5em;
 }
 
-li {
+.faculty-profile li {
     margin-bottom: 0.8em;
 }
 
@@ -49,27 +48,12 @@ li {
 
 <!-- ==================== HTML ==================== -->
 
-<div class="faculty-profile">
-    <h4 class="section-title">About Dr. Bendong Tan</h4>
-    <p>Dr. Bendong Tan will join the Department of Electrical and Electronic Engineering (EEE) at The Hong Kong Polytechnic University (PolyU) as an Assistant Professor in Fall 2025. He is now recruiting fully funded Ph.D. students (Spring/Fall 2026), visiting students, and postdoctoral researchers, with research focusing on the modeling, stability assessment, and control of next-generation power systems. Undergraduate and Master’s students are also welcome to join the group for research internships.</p>
-</div>
+<p><strong>Dr. Bendong Tan will join the Department of Electrical and Electronic Engineering (EEE) at The Hong Kong Polytechnic University (PolyU) as an Assistant Professor in Fall 2025. He is now recruiting fully funded Ph.D. students (Spring/Fall 2026), visiting students, and postdoctoral researchers, with research focusing on the modeling, stability assessment, and control of next-generation power systems. Undergraduate and Master’s students are also welcome to join the group for research internships.</strong></p>
 
 <div class="faculty-profile">
     <h4 class="section-title">About the Advisor</h4>
     <p>Before joining PolyU, Dr. Tan was a Postdoctoral Research Fellow at the University of Connecticut and a Visiting Scientist at the Massachusetts Institute of Technology (MIT), working with Dr. Junbo Zhao and Dr. Deepjyoti Deka. He received his Ph.D. degree in Electrical Engineering from the University of Connecticut in 2024, advised by Dr. Junbo Zhao. Prior to that, he earned an M.S. (2020) and a B.Eng. (2017) in Electrical Engineering from Wuhan University.</p>
     <p>Dr. Tan’s research focuses on the modeling, stability assessment, and control of next-generation power systems, with related work published in leading journals such as IEEE Transactions on Power Systems. He has received the 2023 Chinese Government Award for Outstanding Self-financed Students Abroad, the GE Fellowship for Excellence at the University of Connecticut, and the Ezra Postdoctoral Associate Fellowship at Cornell University. He is also a recipient of multiple awards, including Best Paper Awards at the IEEE PES General Meetings in 2021, 2022, and 2024, the Best Journal Paper Award from the International Journal of Electrical Power & Energy Systems in 2022, and the Outstanding Reviewer Award from IEEE Transactions on Power Systems (2021–2023).</p>
-</div>
-
-<div class="faculty-profile">
-    <h4 class="section-title">Research Interests</h4>
-    <ul>
-        <li>Dynamic power system modeling, including dynamic load and inverter-based resources</li>
-        <li>Inertia estimation and tracking in inverter-penetrated power systems</li>
-        <li>Static and dynamic power system risk assessment with high penetration of inverter-based resources</li>
-        <li>Stochastic power system decision-making and control</li>
-        <li>Applications of artificial intelligence and machine learning in power system analysis and control</li>
-    </ul>
-    <p>If you are interested in other promising new directions, you are very welcome to bring them up, and we can explore and develop them together.</p>
 </div>
 
 <div class="faculty-profile">
@@ -94,4 +78,5 @@ li {
     <p>Interested candidates should email their CV and transcripts to <a href="mailto:bendong.tan@uconn.edu">bendong.tan@uconn.edu</a> with the subject line:<br>
     <code>{Postdoc|PhD Application}-{Your Name}</code> (e.g., PhD Application-San Zhang).</p>
 </div>
+
 
