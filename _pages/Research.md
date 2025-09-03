@@ -70,6 +70,7 @@ Through broad collaborations with industry and national laboratories, including 
 </ul>
 
   </p>
+   <ul></ul>
 
   <h4>Research Topic III: Scalable Power System Risk Assessment</h4>
   <p>
