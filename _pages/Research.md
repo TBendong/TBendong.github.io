@@ -12,7 +12,7 @@ nav_order: 3
     <li><b>Forward Problem:  Risk Assessment</b>: Built upon the modeled power system, this module quantifies the probability of key operational metrics, such as voltage magnitudes, exceeding normal ranges due to stochastic variations in renewable generation, load demands, and contingencies.</li>
   </ul>
   <p>
-Through <b>broad collaborations with industry and national laboratories</b>, including <b>NREL, LLNL, PNNL, ANL, and ISO New England</b>, my research bridges theory and real-world applications. Some of these modules have been validated in practice, such as the load modeling technique, successfully applied to fault measurements from a utility company in the southern United States.
+Through broad collaborations with industry and national laboratories, including <b>NREL, LLNL, PNNL, ANL, and ISO New England</b>, my research bridges theory and real-world applications. Some of these modules have been validated in practice, such as the load modeling technique, successfully applied to fault measurements from a utility company in the southern United States.
   </p>
 
   <h4>Research Theme I: High-Dimension WECC Composite Load Modeling</h4>
