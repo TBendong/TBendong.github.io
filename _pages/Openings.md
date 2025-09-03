@@ -65,11 +65,6 @@ nav_order: 8
 </head>
 <body>
 
-<header>
-    <h1>Xingyi Yang</h1>
-    <p>Assistant Professor (Fall 2025), Department of Data Science and AI, PolyU</p>
-    <p>Supported by Presidential Young Scholar Scheme</p>
-</header>
 
 <section>
     <h2>About Me</h2>
