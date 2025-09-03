@@ -65,7 +65,7 @@ I received my Ph.D. degree in Electrical Engineering from the University of Conn
     <p>The group focuses on <strong>modeling/monitoring, stability assessment, and control of stochastic inverter-penetrated power systems</strong>. Research interests include but are not limited to:</p>
     <ul>
         <li>Dynamic power system modeling, including dynamic load and inverter-based resources</li>
-        <li>Inertia estimation and tracking in inverter-penetrated power systems</li>
+        <li>Inverter-penetrated power system inertia estimation and tracking</li>
         <li>Static and dynamic power system risk assessment with high penetration of inverter-based resources</li>
         <li>Stochastic power system decision-making and control</li>
         <li>Applications of artificial intelligence and machine learning in power system analysis and control</li>
