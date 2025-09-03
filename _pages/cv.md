@@ -32,26 +32,24 @@ nav_order: 5
   </section>
 
   <!-- Honors and Awards -->
-  <section>
-    <h4>Honors and Awards</h4>
-    <ul>
+<section>
+  <h4>Honors and Awards</h4>
+  <ul>
     <li>2023 Chinese Government Award for Outstanding Self-financed Students Abroad, July 2024</li>
     <li>Ezra Postdoctoral Associate Fellowship, Cornell University, July 2024</li>
     <li>2024 Summer Pre-Doctoral Fellowship, University of Connecticut, May 2024</li>
     <li>2024 Summer Doctoral Dissertation Fellowship, University of Connecticut, Apr. 2024</li>
     <li>2023 Excellent Reviewer Award, Journal of Modern Power Systems and Clean Energy, Jan. 2024</li>
     <li>2023 IEEE PES Connecticut Chapter Outstanding Young Engineer Award, Jan. 2024</li>
-    <li>IEEE Transactions on Power Systems Outstanding Reviewer, Dec. 2023</li>
+    <li>IEEE Transactions on Power Systems Outstanding Reviewer, Dec. 2023 & Mar. 2023 & Jan. 2022</li>
     <li>Conference Participation Award, University of Connecticut, July 2023</li>
     <li>GE Fellowship for Excellence, University of Connecticut, May 2023</li>
-    <li>IEEE Transactions on Power Systems Outstanding Reviewer, Mar. 2023</li>
     <li>Best Conference Paper Award, IEEE ISGT Asia, Aug. 2022</li>
     <li>Best Conference Paper Award, IEEE PES General Meeting, July 2022</li>
     <li>Best Journal Paper Award, International Journal of Electrical Power & Energy Systems, June 2022</li>
-    <li>IEEE Transactions on Power Systems Outstanding Reviewer, Jan. 2022</li>
     <li>Power Exploration Scholarship (Top 1%), Wuhan University, Sept. 2019</li>
-    <li>First-class Undergraduate Scholarship (Top 5%), Wuhan University, Sept. 2016</li>
-    <li>First-class Undergraduate Scholarship (Top 5%), Wuhan University, Sept. 2015</li>
-    </ul>
-  </section>
+    <li>First-class Undergraduate Scholarship (Top 5%), Wuhan University, Sept. 2016 & Sept. 2015</li>
+  </ul>
+</section>
+
 
