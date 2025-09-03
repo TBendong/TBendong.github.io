@@ -5,10 +5,11 @@ title: CV
 nav: true
 nav_order: 5
 ---
-<div class="cv">
-  <!-- Education -->
-  <section>
-    <h2>Education</h2>
+
+
+<!-- ===== Education ===== -->
+ <section>
+    <h4>Education</h4>
     <ul>
       <li><strong>Ph.D. in Electrical Engineering</strong>, University of Connecticut (UConn), 2024</li>
       <li><strong>M.S. in Electrical Engineering</strong>, Wuhan University, 2020</li>
@@ -16,7 +17,7 @@ nav_order: 5
     </ul>
   </section>
 
-  <!-- Experience -->
+<!-- Experience -->
   <section>
     <h2>Experience</h2>
     <ul>
@@ -29,31 +30,74 @@ nav_order: 5
     </ul>
   </section>
 
-  <!-- Honors and Awards -->
-  <section>
-    <h2>Honors and Awards</h2>
-    <ul>
-      <li><strong>2024</strong> – 2023 Chinese Government Award for Outstanding Self-financed Students Abroad; Ezra Postdoctoral Associate Fellowship, Cornell University; Summer Pre-Doctoral Fellowship, UConn; Summer Doctoral Dissertation Fellowship, UConn; Excellent Reviewer Award, MPCE; IEEE PES Connecticut Chapter Outstanding Young Engineer Award</li>
-      <li><strong>2023</strong> – IEEE T-PWRS Outstanding Reviewer; Conference Participation Award, UConn; GE Fellowship for Excellence, UConn</li>
-      <li><strong>2022</strong> – Best Conference Paper Award (IEEE ISGT Asia, IEEE PESGM); Best Journal Paper Award (IJEPES); IEEE T-PWRS Outstanding Reviewer</li>
-      <li><strong>2019</strong> – Power Exploration Scholarship (Top 1%), Wuhan University</li>
-      <li><strong>2016</strong> – First-class Undergraduate Scholarship (Top 5%), Wuhan University</li>
-      <li><strong>2015</strong> – First-class Undergraduate Scholarship (Top 5%), Wuhan University</li>
-    </ul>
-  </section>
+<!-- ===== Honors and Awards ===== -->
+<section id="honors-awards">
+  <h4>Honors and Awards</h4>
+  <div class="timeline">
+    <h4>2024</h4>
+    <div class="timeline-entry"><span class="content">2023 Chinese Government Award for Outstanding Self-financed Students Abroad</span></div>
+    <div class="timeline-entry"><span class="content">Ezra Postdoctoral Associate Fellowship of Cornell University</span></div>
+    <div class="timeline-entry"><span class="content">2024 Summer Pre-Doctoral Fellowship, University of Connecticut</span></div>
+    <div class="timeline-entry"><span class="content">2024 Summer Doctoral Dissertation Fellowship, University of Connecticut</span></div>
+    <div class="timeline-entry"><span class="content">2023 Excellent Reviewer Award, Journal of Modern Power Systems and Clean Energy</span></div>
+    <div class="timeline-entry"><span class="content">IEEE PES Connecticut Chapter Outstanding Young Engineer Award</span></div>
 
-  <!-- Technical Talks -->
-  <section>
-    <h2>Technical Talks</h2>
-    <ul>
-      <li><strong>2025</strong> – EEE Power Systems Faculty Candidate Seminar (PolyU); ECE Power Systems Faculty Candidate Seminar (Kansas State Univ.); EECS/INEF Power Systems Faculty Candidate Seminar (WSU)</li>
-      <li><strong>2024</strong> – Overseas Outstanding Young Scholars Forum (SCUT); Power and Energy Group Seminar (UConn); Young Scholars Forum (CQU); PEESE Lab Seminar (Cornell); G-PST Future of Inertia Summit (USA)</li>
-      <li><strong>2023</strong> – Yuelu Forum (HNU); UConn Power/Electronics Joint Seminar; IEEE PESGM (Orlando, FL)</li>
-      <li><strong>2022</strong> – IEEE ISGT Asia (Virtual); IEEE PESGM (Denver, CO)</li>
-      <li><strong>2021</strong> – IEEE PES ISGT Latin America (Virtual)</li>
-      <li><strong>2019</strong> – IEEE PES ISGT Europe (Virtual)</li>
-      <li><strong>2017</strong> – Renewable Power Generation Conference (RPG 2017), Wuhan, China</li>
-    </ul>
-  </section>
+    <h4>2023</h4>
+    <div class="timeline-entry"><span class="content">IEEE Transactions on Power Systems Outstanding Reviewer</span></div>
+    <div class="timeline-entry"><span class="content">Conference Participation Award, University of Connecticut</span></div>
+    <div class="timeline-entry"><span class="content">GE Fellowship for Excellence, University of Connecticut</span></div>
+    <div class="timeline-entry"><span class="content">IEEE Transactions on Power Systems Outstanding Reviewer</span></div>
 
-</div>
+    <h4>2022</h4>
+    <div class="timeline-entry"><span class="content">Best Conference Paper Award, IEEE ISGT Asia</span></div>
+    <div class="timeline-entry"><span class="content">Best Conference Paper Award, IEEE PES General Meeting</span></div>
+    <div class="timeline-entry"><span class="content">Best Journal Paper Award, International Journal of Electrical Power & Energy Systems</span></div>
+    <div class="timeline-entry"><span class="content">IEEE Transactions on Power Systems Outstanding Reviewer</span></div>
+
+    <h4>2019</h4>
+    <div class="timeline-entry"><span class="content">Power Exploration Scholarship (top 1%), Wuhan University</span></div>
+
+    <h4>2016</h4>
+    <div class="timeline-entry"><span class="content">First-class Undergraduate Scholarship (top 5%), Wuhan University</span></div>
+
+    <h4>2015</h4>
+    <div class="timeline-entry"><span class="content">First-class Undergraduate Scholarship (top 5%), Wuhan University</span></div>
+  </div>
+</section>
+
+<!-- ===== Technical Talks ===== -->
+<section id="technical-talks">
+  <h3>Technical Talks</h3>
+  <div class="timeline">
+    <h4>2025</h4>
+    <div class="timeline-entry"><span class="content">EEE Power Systems Faculty Candidate Seminar, The Hong Kong Polytechnic University, HK, China (Hosted by Dr. Siqi Bu)</span></div>
+    <div class="timeline-entry"><span class="content">ECE Power Systems Faculty Candidate Seminar, Kansas State University, Manhattan, KS, USA (Hosted by Dr. Anil Pahwa)</span></div>
+    <div class="timeline-entry"><span class="content">EECS/INEF Power Systems Faculty Candidate Seminar, Washington State University, Pullman, WA, USA (Hosted by Dr. Anamika Dubey)</span></div>
+
+    <h4>2024</h4>
+    <div class="timeline-entry"><span class="content">Overseas Outstanding Young Scholars Forum, South China University of Technology, Guangzhou, China</span></div>
+    <div class="timeline-entry"><span class="content">Power and Energy Group Seminar, University of Connecticut, Storrs, CT, USA</span></div>
+    <div class="timeline-entry"><span class="content">Young Scholars Forum, Chongqing University, Chongqing</span></div>
+    <div class="timeline-entry"><span class="content">PEESE Lab Seminar, Cornell University, Ithaca, NY, USA (Hosted by Dr. Fengqi You)</span></div>
+    <div class="timeline-entry"><span class="content">G-PST Future of Inertia Summit, USA (Hosted by Dr. Jin Tan)</span></div>
+
+    <h4>2023</h4>
+    <div class="timeline-entry"><span class="content">Yuelu Forum, Hunan University, Changsha, China</span></div>
+    <div class="timeline-entry"><span class="content">UCONN Power/Electronics Joint Seminar, Storrs, CT, USA</span></div>
+    <div class="timeline-entry"><span class="content">IEEE PES General Meeting (PESGM), Orlando, FL, USA</span></div>
+
+    <h4>2022</h4>
+    <div class="timeline-entry"><span class="content">IEEE ISGT Asia (Virtual)</span></div>
+    <div class="timeline-entry"><span class="content">IEEE PES General Meeting (PESGM), Denver, CO, USA</span></div>
+
+    <h4>2021</h4>
+    <div class="timeline-entry"><span class="content">IEEE PES ISGT Latin America (Virtual)</span></div>
+
+    <h4>2019</h4>
+    <div class="timeline-entry"><span class="content">IEEE PES ISGT Europe (Virtual)</span></div>
+
+    <h4>2017</h4>
+    <div class="timeline-entry"><span class="content">Renewable Power Generation Conference (RPG 2017), Wuhan, China</span></div>
+  </div>
+</section>
+
