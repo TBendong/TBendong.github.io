@@ -46,7 +46,6 @@ Through broad collaborations with industry and national laboratories, including 
   <img src="/assets/img/corner_comparison_noise.png" alt="" width="400">
   <!-- Caption under the image -->
   <div style="font-size: 0.9em; color: gray; margin-top: 5px;">
-    Figure: Corner comparison with noise
   </div>
 </div>
 
