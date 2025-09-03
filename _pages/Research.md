@@ -33,9 +33,6 @@ Through broad collaborations with industry and national laboratories, including 
 </ul>
 
   </p>
-  <p>
-    My recent work <i>(Tan, 2023, Inertia; Tan, 2024, Adaptive)</i> bridged this gap by embedding the dynamic equations of inertia into a Bayesian Kalman filter framework. This approach enables real-time tracking of time-varying inertia and its associated uncertainties, even in scenarios where control switches occur <i>(Tan, 2024, Adaptive)</i>. Consequently, it provides a robust method for accurately quantifying inertia from IBRs.
-  </p>
 
   <h4>Research Topic III: Scalable Power System Risk Assessment</h4>
   <p>
