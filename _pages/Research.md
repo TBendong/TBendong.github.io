@@ -41,7 +41,7 @@ Through broad collaborations with industry and national laboratories, including 
   </p>
     <ul>
     <li>Developed transfer learning-based surrogate models for pre-contingency load margin (static voltage stability) risk assessment, enabling rapid adaptation to network topology changes caused by scheduled branch maintenance.</li>
-    <li>Proposed topology embeddings and multi-fidelity surrogate modeling techniques to evaluate large numbers of potential contingencies caused by rare events, improving the accuracy and efficiency of pre-contingency voltage risk assessment.</li>
+    <li>Proposed topology embeddings and multi-fidelity surrogate modeling techniques to evaluate voltage under numerous potential contingencies caused by rare events, significantly enhancing the accuracy and computational efficiency of pre-contingency voltage risk assessment.</li>
     <li>Designed instability-aware surrogate models to handle high-dimensional outputs for post-contingency scenarios, enabling immediate prediction of dynamic trajectories with quantified uncertainties using only a few real-time measurements.</li>
 </ul>
 
