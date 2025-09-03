@@ -81,7 +81,7 @@ For a complete list of publications, please refer to
 <!-- -------------------- In-Progress Papers -------------------- -->
 
 <div class="journal-publications publications">
-    <h4 class="section-title">In-Progress Papers</h4>
+    <h4>In-Progress Papers</h4>
     <li>
         <span class="author-highlight">Bendong Tan</span>, Deepjyoti Deka, and Junbo Zhao, 
         "Spatial-temporal global sensitivity analysis for probabilistic transient stability assessment", 
@@ -113,7 +113,7 @@ For a complete list of publications, please refer to
 <!-- -------------------- Journal Papers -------------------- -->
 
 <div class="journal-publications publications">
-    <h4 class="section-title">Journal Papers</h4>
+    <h4>Journal Papers</h4>
     <li>
         <span class="author-highlight">Bendong Tan</span>, Junbo Zhao, Naiyuan Chiang, and Nan Duan, 
         "<a href="https://ieeexplore.ieee.org/document/10892022">High-dimension Bayesian parameter estimation for WECC composite load model using realistic event measurements</a>", 
@@ -235,7 +235,7 @@ For a complete list of publications, please refer to
 <!-- -------------------- Conference Papers -------------------- -->
 
 <div class="conference-publications publications">
-    <h4 class="section-title">Conference Papers</h4>
+    <h4>Conference Papers</h4>
     <li>
         Ketian Ye, Junbo Zhao, Mingguo Hong and Slava Maslennikov, <span class="author-highlight">Bendong Tan</span>, and Xiaochuan Luo, 
         "<a href="https://ieeexplore.ieee.org/document/10688568">Power system overloading risk assessment considering topology and renewable uncertainties</a>", 
