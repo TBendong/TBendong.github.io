@@ -7,7 +7,7 @@ nav_order: 3
 ---
 
 <div style="float:right; width:55%; text-align:center; margin:10px;">
-  <img src="/assets/img/framework.png" alt="Power system uncertainty quantification framework" style="width:100%;">
+  <img src="/assets/img/framework.svg" alt="Power system uncertainty quantification framework" style="width:100%;">
   <p style="font-size:small;">Power system uncertainty quantification framework.</p>
 </div>
 
