@@ -74,6 +74,18 @@ I received my Ph.D. degree in Electrical Engineering from the University of Conn
 </div>
 
 <div class="faculty-profile">
+    <h4 class="section-title">Application Requirements</h4>
+    <p>We are looking for highly motivated candidates with a strong passion for research and well-developed analytical and problem-solving skills. Ideal candidates have some or all of the following qualities:</p>
+    <ul>
+        <li>Self-motivated applicants with strong research curiosity and a passion for learning</li>
+        <li>Background in electrical engineering, optimization and control, signal processing, statistics, artificial intelligence, or related fields</li>
+        <li>Proficiency in programming (Python/Matlab), with experience in professional power system software such as PowerFactory, PSSE, or PowerWorld</li>
+        <li>Strong English writing and communication skills (PolyU application requires IELTS ≥6.5 or TOEFL ≥80)</li>
+    </ul>
+</div>
+
+
+<div class="faculty-profile">
     <h4 class="section-title">Application Timeline and Procedure</h4>
     <ul>
         <li><strong>Ph.D. Applicants:</strong> Enrollment in Spring or Fall 2026. <strong>The application deadline for Spring 2026 admission is September 30, 2025</strong>. Outstanding candidates are encouraged and supported to apply for the Hong Kong PhD Fellowship Scheme (HKPFS).</li>
