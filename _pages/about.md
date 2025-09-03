@@ -17,7 +17,7 @@ profile:
       <a href="https://orcid.org/my-orcid?orcid=0000-0003-1701-1577"><i class="fa-brands fa-orcid fa-2x"></i></a>
       <a href="https://github.com/TBendong"><i class="fa-brands fa-square-github fa-2x"></i></a>
       <p> Email: bendong.tan@uconn.edu</p>
-      <div style="width: 100px; margin: 0 auto">
+      <div style="margin-top:10px;">
       <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=erqVDkrOS1imD1t9uueJnnhGfh6VqiBV_gVt0UpR-GU'></script>
       </div>
       
