@@ -82,7 +82,7 @@ Through broad collaborations with industry and national laboratories, including 
 <!-- Float image on the right -->
 <div style="float: right; margin-left: 20px; text-align: center;">
   <!-- Image -->
-  <img src="/assets/img/Scenario_4_cropped.png" alt="" width="400">
+  <img src="/assets/img/Scenario_4_cropped.png" alt="" width="300">
   <!-- Caption under the image -->
   <div style="font-size: 0.9em; color: gray; margin-top: 5px;">
   </div>
