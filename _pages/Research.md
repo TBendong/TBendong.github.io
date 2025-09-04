@@ -30,7 +30,7 @@ h4 {
 </style>
 
 <!-- Float image on the right with caption -->
-<figure style="float: right; margin-left: 20px; width: 400px; text-align: center;">
+<figure style="float: right; margin-left: 20px; width: 500px; text-align: center;">
   <img src="/assets/img/framework.png" alt="" width="500">
   <figcaption style="font-size: 0.9em; color: gray; margin-top: 5px;">
     Figure: Framework of power system uncertainty quantification
