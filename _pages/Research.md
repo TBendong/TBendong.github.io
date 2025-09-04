@@ -29,6 +29,17 @@ h4 {
 
 </style>
 
+<!-- Float images on the right -->
+<div style="float: right; margin-left: 20px; display: flex; flex-direction: column; gap: 10px; align-items: center;">
+
+  <!-- First image with caption -->
+  <figure style="width: 300px; margin: 0; text-align: center;">
+    <img src="/assets/img/framework.png" alt="Figure: Dynamic risk assessment" width="300">
+    <figcaption style="font-size: 0.9em; color: gray; margin-top: 5px;">
+      Figure: Dynamic risk assessment
+    </figcaption>
+  </figure>
+  
 <div>
     <p>Modern power systems are experiencing unprecedented levels of uncertainty, arising from several sources: incomplete knowledge of power system physics, sensor measurement errors, as well as the increasing integration of renewable energy resources and flexible loads. As these uncertainties propagate through the grid, they affect both steady-state operations and dynamic performance, posing significant challenges to system reliability and security. My long-term goal is to advance power system resilience against uncertainties. My research has developed an efficient, scalable, and high-fidelity uncertainty quantification framework for power system modeling and risk analysis. The developed power system uncertainty quantification framework consists of two main modules: 
 <ul>
