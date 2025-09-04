@@ -85,7 +85,6 @@ Through broad collaborations with industry and national laboratories, including 
   <img src="/assets/img/Scenario_4_cropped.png" alt="Figure: Time-varying inertia estimation" width="300">
   <!-- Caption under the image -->
   <div style="font-size: 0.9em; color: gray; margin-top: 5px;">
-    Figure: Scenario-based inertia estimation for IBRs
   </div>
 </div>
 
