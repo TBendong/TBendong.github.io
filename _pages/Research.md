@@ -29,25 +29,28 @@ h4 {
 
 </style>
 
-<!-- Float images on the right -->
-<div style="float: right; margin-left: 20px; display: flex; flex-direction: column; gap: 10px; align-items: center;">
+<!-- Float image on the right with caption -->
+<figure style="float: right; margin-left: 20px; width: 400px; text-align: center;">
+  <img src="/assets/img/framework.png" alt="Figure: Framework of power system uncertainty quantification" width="400">
+  <figcaption style="font-size: 0.9em; color: gray; margin-top: 5px;">
+    Figure: Dynamic risk assessment
+  </figcaption>
+</figure>
 
-  <!-- First image with caption -->
-  <figure style="width: 300px; margin: 0; text-align: center;">
-    <img src="/assets/img/framework.png" alt="Figure: Dynamic risk assessment" width="300">
-    <figcaption style="font-size: 0.9em; color: gray; margin-top: 5px;">
-      Figure: Dynamic risk assessment
-    </figcaption>
-  </figure>
-  
+<!-- Text content -->
 <div>
-    <p>Modern power systems are experiencing unprecedented levels of uncertainty, arising from several sources: incomplete knowledge of power system physics, sensor measurement errors, as well as the increasing integration of renewable energy resources and flexible loads. As these uncertainties propagate through the grid, they affect both steady-state operations and dynamic performance, posing significant challenges to system reliability and security. My long-term goal is to advance power system resilience against uncertainties. My research has developed an efficient, scalable, and high-fidelity uncertainty quantification framework for power system modeling and risk analysis. The developed power system uncertainty quantification framework consists of two main modules: 
-<ul>
+  <p>
+    Modern power systems are experiencing unprecedented levels of uncertainty, arising from several sources: incomplete knowledge of power system physics, sensor measurement errors, as well as the increasing integration of renewable energy resources and flexible loads. As these uncertainties propagate through the grid, they affect both steady-state operations and dynamic performance, posing significant challenges to system reliability and security. My long-term goal is to advance power system resilience against uncertainties. My research has developed an efficient, scalable, and high-fidelity uncertainty quantification framework for power system modeling and risk analysis. The developed power system uncertainty quantification framework consists of two main modules:
+  </p>
+  <ul>
     <li><b>Inverse Problem: Dynamic Modeling of System Components</b>: This module models loads and inverter-based resources (IBRs) using sensor measurements. It involves parameter estimation for these components, which is fundamental for operators to conduct accurate power system analysis.</li>
-    <li><b>Forward Problem:  Risk Assessment</b>: Built upon the modeled power system, this module quantifies the probability of key operational metrics, such as voltage magnitudes, exceeding normal ranges due to stochastic variations in renewable generation, load demands, and contingencies.</li>
- </ul>
-Through broad collaborations with industry and national laboratories, including <b>NREL, LLNL, PNNL, ANL, and ISO New England</b>, my research bridges theory and real-world applications. Some of these modules have been validated in practice, such as the load modeling technique, successfully applied to fault measurements from a utility company in the southern United States.</p>
-<ul> </ul>
+    <li><b>Forward Problem: Risk Assessment</b>: Built upon the modeled power system, this module quantifies the probability of key operational metrics, such as voltage magnitudes, exceeding normal ranges due to stochastic variations in renewable generation, load demands, and contingencies.</li>
+  </ul>
+  <p>
+    Through broad collaborations with industry and national laboratories, including <b>NREL, LLNL, PNNL, ANL, and ISO New England</b>, my research bridges theory and real-world applications. Some of these modules have been validated in practice, such as the load modeling technique, successfully applied to fault measurements from a utility company in the southern United States.
+  </p>
+</div>
+
     
  <h4>Research Topic I: High-Dimension WECC Composite Load Modeling</h4>
 
