@@ -81,6 +81,8 @@ Through broad collaborations with industry and national laboratories, including 
 
 <!-- Float image on the right -->
 <div style="float: right; margin-left: 20px; text-align: center; display: flex; flex-direction: column; gap: 10px;">
+    <!-- First image -->
+  <img src="/assets/img/stable_angle_all_predicted.png" alt="" width="300">
   <!-- Second image -->
   <img src="/assets/img/pdf_EU1354_0.4_mixed-cropped.png" alt="" width="300">
   <!-- Caption under the images -->
@@ -89,15 +91,7 @@ Through broad collaborations with industry and national laboratories, including 
   </div>
 </div>
 
-<!-- Float image on the right -->
-<div style="float: right; margin-left: 20px; text-align: center; display: flex; flex-direction: column; gap: 10px;">
-  <!-- First image -->
-  <img src="/assets/img/stable_angle_all_predicted.png" alt="" width="300">
-  <!-- Second image -->
-  <div style="font-size: 0.9em; color: gray; margin-top: 5px;">
 
-  </div>
-</div>
 
 <!-- Text content -->
 <p>
