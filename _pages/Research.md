@@ -43,7 +43,7 @@ Through broad collaborations with industry and national laboratories, including 
 <!-- Float image on the right -->
 <div style="float: right; margin-left: 20px; text-align: center;">
   <!-- Image -->
-  <img src="/assets/img/corner_comparison_noise.png" alt="" width="400">
+  <img src="/assets/img/corner_comparison_noise.png" alt="Figure: Dynamic load modeling" width="400">
   <!-- Caption under the image -->
   <div style="font-size: 0.9em; color: gray; margin-top: 5px;">
   </div>
@@ -82,7 +82,7 @@ Through broad collaborations with industry and national laboratories, including 
 <!-- Float image on the right -->
 <div style="float: right; margin-left: 20px; text-align: center;">
   <!-- Image -->
-  <img src="/assets/img/Scenario_4_cropped.png" alt="" width="300">
+  <img src="/assets/img/Scenario_4_cropped.png" alt="Figure: Time-varying inertia estimation" width="300">
   <!-- Caption under the image -->
   <div style="font-size: 0.9em; color: gray; margin-top: 5px;">
     Figure: Scenario-based inertia estimation for IBRs
@@ -123,9 +123,10 @@ Through broad collaborations with industry and national laboratories, including 
 <!-- Float image on the right -->
 <div style="float: right; margin-left: 20px; text-align: center; display: flex; flex-direction: column; gap: 10px;">
     <!-- First image -->
-  <img src="/assets/img/stable_angle_all_predicted.png" alt="" width="300">
+  <img src="/assets/img/pdf_EU1354_0.4_mixed-cropped.png" alt="Figure: Dynamic risk assessment" width="300">
   <!-- Second image -->
-  <img src="/assets/img/pdf_EU1354_0.4_mixed-cropped.png" alt="" width="300">
+  <img src="/assets/img/stable_angle_all_predicted.png" alt="Figure: Static risk assessment" width="300">
+  
   <!-- Caption under the images -->
   <div style="font-size: 0.9em; color: gray; margin-top: 5px;">
 
