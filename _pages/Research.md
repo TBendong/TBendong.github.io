@@ -119,55 +119,53 @@ Through broad collaborations with industry and national laboratories, including 
 
 <h4>Research Topic III: Scalable Power System Risk Assessment</h4>
 
-<!-- Float image on the right -->
-<div style="float: right; margin-left: 20px; text-align: center; display: flex; flex-direction: column; gap: 10px;">
-  <!-- First image -->
-  <img src="/assets/img/stable_angle_all_predicted.png" alt="" width="300">
-  <!-- Second image -->
-  <img src="/assets/img/pdf_EU1354_0.4_mixed-cropped.png" alt="" width="300">
-  <!-- Caption under the images -->
-  <div style="font-size: 0.9em; color: gray; margin-top: 5px;">
-    Figures: Predicted dynamic trajectories (top) and probabilistic voltage risk (bottom)
+<!-- Flex container: text left, images right -->
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+  <!-- Left: text -->
+  <div style="flex: 1;">
+    <p>
+      Due to the penetration of various uncertain sources, such as flexible loads, solar, and wind generation, power system operations exhibit stochastic behavior, making it challenging to maintain the system within its normal operating range...
+    </p>
+    <ul>
+      <li>Developed transfer learning-based surrogate models...</li>
+      <li>Proposed topology embeddings and multi-fidelity surrogate modeling techniques...</li>
+      <li>Designed instability-aware surrogate models...</li>
+    </ul>
   </div>
+
+  <!-- Right: vertical images -->
+  <div style="flex: 0 0 auto; display: flex; flex-direction: column; gap: 10px; text-align: center;">
+    <img src="/assets/img/stable_angle_all_predicted.png" alt="" width="300">
+    <img src="/assets/img/pdf_EU1354_0.4_mixed-cropped.png" alt="" width="300">
+    <div style="font-size: 0.9em; color: gray; margin-top: 5px;">
+      Figures: Predicted dynamic trajectories (top) and probabilistic voltage risk (bottom)
+    </div>
+  </div>
+
 </div>
-
-<!-- Text content -->
-<p>
-  Due to the penetration of various uncertain sources, such as flexible loads, solar, and wind generation, power system operations exhibit stochastic behavior, making it challenging to maintain the system within its normal operating range. Additionally, the power system is subject to contingencies, such as scheduled branch maintenance or unexpected branch outages caused by extreme weather. These uncertainties propagate through the system, increasing the likelihood that operational metrics may exceed safe thresholds. This necessitates accurate quantification of the risks posed by these uncertainties to prevent power system failures. However, existing data-driven methods either cannot handle a large number of contingencies simultaneously, fail to address the high-dimensional inputs caused by numerous uncertain sources, or struggle with the high-dimensional outputs required to model power system operational metrics. My contributions to this topic are: 
-</p>
-<ul>
-  <li>Developed transfer learning-based surrogate models for pre-contingency load margin (static voltage stability) risk assessment, enabling rapid adaptation to network topology changes caused by scheduled branch maintenance.</li>
-  <li>Proposed topology embeddings and multi-fidelity surrogate modeling techniques to evaluate voltage under numerous potential contingencies caused by rare events, significantly enhancing the accuracy and computational efficiency of pre-contingency voltage risk assessment.</li>
-  <li>Designed instability-aware surrogate models to handle high-dimensional outputs for post-contingency scenarios, enabling immediate prediction of dynamic trajectories with quantified uncertainties using only a few real-time measurements.</li>
-</ul>
-
-<!-- Clear float so that publications start below the images -->
-<div style="clear: both;"></div>
 
 <!-- Publications section -->
 <h5>Selected Publications</h5>
 <ul>
-  <li>
-    <span class="author-highlight">Bendong Tan</span>, Junbo Zhao, 
-    "<a href="https://ieeexplore.ieee.org/document/10854889">Bayesian post-fault power system dynamic trajectory prediction</a>", 
-    <span class="journal-name">IEEE Transactions on Power Systems</span>, vol. 40, no. 6, pp. 4123-4136, Oct. 2025.
+  <li><span class="author-highlight">Bendong Tan</span>, Junbo Zhao, 
+      "<a href="https://ieeexplore.ieee.org/document/10854889">Bayesian post-fault power system dynamic trajectory prediction</a>", 
+      <span class="journal-name">IEEE Transactions on Power Systems</span>, vol. 40, no. 6, pp. 4123-4136, Oct. 2025.
   </li>
-  <li>
-    <span class="author-highlight">Bendong Tan</span>, Junbo Zhao, and Yousu Chen, 
-    "<a href="https://ieeexplore.ieee.org/document/10614750">Scalable risk assessment of rare events in power systems with uncertain wind generation and loads</a>", 
-    <span class="journal-name">IEEE Transactions on Power Systems</span>, vol. 40, no. 2, pp. 1374-1388, Mar. 2025.
+  <li><span class="author-highlight">Bendong Tan</span>, Junbo Zhao, and Yousu Chen, 
+      "<a href="https://ieeexplore.ieee.org/document/10614750">Scalable risk assessment of rare events in power systems with uncertain wind generation and loads</a>", 
+      <span class="journal-name">IEEE Transactions on Power Systems</span>, vol. 40, no. 2, pp. 1374-1388, Mar. 2025.
   </li>
-  <li>
-    <span class="author-highlight">Bendong Tan</span>, Junbo Zhao, 
-    "<a href="https://ieeexplore.ieee.org/document/10124366">Debiased uncertainty quantification approach for probabilistic transient stability assessment</a>", 
-    <span class="journal-name">IEEE Transactions on Power Systems</span>, vol. 38, no. 5, pp. 4954-4957, Sept. 2023.
+  <li><span class="author-highlight">Bendong Tan</span>, Junbo Zhao, 
+      "<a href="https://ieeexplore.ieee.org/document/10124366">Debiased uncertainty quantification approach for probabilistic transient stability assessment</a>", 
+      <span class="journal-name">IEEE Transactions on Power Systems</span>, vol. 38, no. 5, pp. 4954-4957, Sept. 2023.
   </li>
-  <li>
-    <span class="author-highlight">Bendong Tan</span>, Junbo Zhao, and Le Xie, 
-    "<a href="https://ieeexplore.ieee.org/document/9996972">Transferable deep kernel emulator for probabilistic load margin assessment with topology changes, uncertain renewable generations and loads</a>", 
-    <span class="journal-name">IEEE Transactions on Power Systems</span>, vol. 38, no. 6, pp. 5740-5754, Nov. 2023.
+  <li><span class="author-highlight">Bendong Tan</span>, Junbo Zhao, and Le Xie, 
+      "<a href="https://ieeexplore.ieee.org/document/9996972">Transferable deep kernel emulator for probabilistic load margin assessment with topology changes, uncertain renewable generations and loads</a>", 
+      <span class="journal-name">IEEE Transactions on Power Systems</span>, vol. 38, no. 6, pp. 5740-5754, Nov. 2023.
   </li>
 </ul>
+
 
 
 </div>
