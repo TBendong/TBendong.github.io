@@ -85,7 +85,7 @@ Through broad collaborations with industry and national laboratories, including 
   <img src="/assets/img/pdf_EU1354_0.4_mixed-cropped.png" alt="" width="300">
   <!-- Caption under the images -->
   <div style="font-size: 0.9em; color: gray; margin-top: 5px;">
-    Figures: Predicted dynamic trajectories (top) and probabilistic voltage risk (bottom)
+
   </div>
 </div>
 
@@ -95,7 +95,7 @@ Through broad collaborations with industry and national laboratories, including 
   <img src="/assets/img/stable_angle_all_predicted.png" alt="" width="300">
   <!-- Second image -->
   <div style="font-size: 0.9em; color: gray; margin-top: 5px;">
-    Figures: Predicted dynamic trajectories (top) and probabilistic voltage risk (bottom)
+
   </div>
 </div>
 
