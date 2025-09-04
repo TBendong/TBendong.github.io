@@ -77,28 +77,40 @@ Through broad collaborations with industry and national laboratories, including 
   </li>
 </ul>
 
-  <h4>Research Topic II: Time-Varying Inertia Estimation for IBRs</h4>
+<h4>Research Topic III: Scalable Power System Risk Assessment</h4>
 
 <!-- Float image on the right -->
-<div style="float: right; margin-left: 20px; text-align: center;">
-  <!-- Image -->
-  <img src="/assets/img/Scenario_4_cropped.png" alt="" width="300">
-  <!-- Caption under the image -->
+<div style="float: right; margin-left: 20px; text-align: center; display: flex; flex-direction: column; gap: 10px;">
+  <!-- Second image -->
+  <img src="/assets/img/pdf_EU1354_0.4_mixed-cropped.png" alt="" width="300">
+  <!-- Caption under the images -->
   <div style="font-size: 0.9em; color: gray; margin-top: 5px;">
+    Figures: Predicted dynamic trajectories (top) and probabilistic voltage risk (bottom)
   </div>
 </div>
 
-<!-- Text content (will wrap below image if too long) -->
+<!-- Float image on the right -->
+<div style="float: right; margin-left: 20px; text-align: center; display: flex; flex-direction: column; gap: 10px;">
+  <!-- First image -->
+  <img src="/assets/img/stable_angle_all_predicted.png" alt="" width="300">
+  <!-- Second image -->
+  <div style="font-size: 0.9em; color: gray; margin-top: 5px;">
+    Figures: Predicted dynamic trajectories (top) and probabilistic voltage risk (bottom)
+  </div>
+</div>
+
+<!-- Text content -->
 <p>
-  Inertia is an index that quantifies a power system's capability to mitigate frequency deviations. Accurate inertia estimation is therefore crucial for assessing power system frequency stability. However, certain devices in the power system, particularly IBRs such as renewable energies, are equipped with time-adaptive virtual inertia control strategies to enhance frequency deviation mitigation. While these strategies are beneficial for maintaining frequency stability, they pose significant challenges for parameter estimation. The difficulty arises because this time-varying inertia can undergo rapid and substantial changes within a matter of seconds, making it challenging for existing methods to track accurately. My contributions to this topic are:
+  Due to the penetration of various uncertain sources, such as flexible loads, solar, and wind generation, power system operations exhibit stochastic behavior, making it challenging to maintain the system within its normal operating range. Additionally, the power system is subject to contingencies, such as scheduled branch maintenance or unexpected branch outages caused by extreme weather. These uncertainties propagate through the system, increasing the likelihood that operational metrics may exceed safe thresholds. This necessitates accurate quantification of the risks posed by these uncertainties to prevent power system failures. However, existing data-driven methods either cannot handle a large number of contingencies simultaneously, fail to address the high-dimensional inputs caused by numerous uncertain sources, or struggle with the high-dimensional outputs required to model power system operational metrics. My contributions to this topic are:
 </p>
+
 <ul>
-  <li>Formulated the dynamic equations of virtual inertia into a Bayesian Kalman filter framework, enabling real-time estimation of time-varying inertia from IBRs.</li>
-  <li>Designed an adaptive noise covariance update mechanism, allowing the filter to quantify estimation uncertainty and accurately track changes in inertia.</li>
-  <li>Introduced an adaptive model-switching mechanism to maintain robust inertia estimation even when control switches, such as current limiter activation, occur.</li>
+  <li>Developed transfer learning-based surrogate models for pre-contingency load margin (static voltage stability) risk assessment, enabling rapid adaptation to network topology changes caused by scheduled branch maintenance.</li>
+  <li>Proposed topology embeddings and multi-fidelity surrogate modeling techniques to evaluate voltage under numerous potential contingencies caused by rare events, significantly enhancing the accuracy and computational efficiency of pre-contingency voltage risk assessment.</li>
+  <li>Designed instability-aware surrogate models to handle high-dimensional outputs for post-contingency scenarios, enabling immediate prediction of dynamic trajectories with quantified uncertainties using only a few real-time measurements.</li>
 </ul>
 
-<!-- Clear float so that publications start below the image -->
+<!-- Clear float so that publications start below the images -->
 <div style="clear: both;"></div>
 
 <!-- Publications section -->
@@ -106,65 +118,26 @@ Through broad collaborations with industry and national laboratories, including 
 <ul>
   <li>
     <span class="author-highlight">Bendong Tan</span>, Junbo Zhao, 
-    "<a href="https://ieeexplore.ieee.org/document/9990924">Data-driven time-varying inertia estimation of inverter-based resources</a>", 
-    <span class="journal-name">IEEE Transactions on Power Systems</span>, vol. 38, no. 2, pp. 1795-1798, March 2023.
+    "<a href="https://ieeexplore.ieee.org/document/10854889">Bayesian post-fault power system dynamic trajectory prediction</a>", 
+    <span class="journal-name">IEEE Transactions on Power Systems</span>, vol. 40, no. 6, pp. 4123-4136, Oct. 2025.
+  </li>
+  <li>
+    <span class="author-highlight">Bendong Tan</span>, Junbo Zhao, and Yousu Chen, 
+    "<a href="https://ieeexplore.ieee.org/document/10614750">Scalable risk assessment of rare events in power systems with uncertain wind generation and loads</a>", 
+    <span class="journal-name">IEEE Transactions on Power Systems</span>, vol. 40, no. 2, pp. 1374-1388, Mar. 2025.
   </li>
   <li>
     <span class="author-highlight">Bendong Tan</span>, Junbo Zhao, 
-    "<a href="https://ieeexplore.ieee.org/document/10477536">Data-driven adaptive unscented Kalman filter for time-varying inertia and damping estimation of utility-scale IBRs considering current limiter</a>", 
-    <span class="journal-name">IEEE Transactions on Power Systems</span>, vol. 39, no. 6, pp. 7331-7345, Nov. 2024.
+    "<a href="https://ieeexplore.ieee.org/document/10124366">Debiased uncertainty quantification approach for probabilistic transient stability assessment</a>", 
+    <span class="journal-name">IEEE Transactions on Power Systems</span>, vol. 38, no. 5, pp. 4954-4957, Sept. 2023.
+  </li>
+  <li>
+    <span class="author-highlight">Bendong Tan</span>, Junbo Zhao, and Le Xie, 
+    "<a href="https://ieeexplore.ieee.org/document/9996972">Transferable deep kernel emulator for probabilistic load margin assessment with topology changes, uncertain renewable generations and loads</a>", 
+    <span class="journal-name">IEEE Transactions on Power Systems</span>, vol. 38, no. 6, pp. 5740-5754, Nov. 2023.
   </li>
 </ul>
 
-
-<h4>Research Topic III: Scalable Power System Risk Assessment</h4>
-
-<!-- Flex container: text left, images right -->
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-
-  <!-- Left: text -->
-  <div style="flex: 1;">
-    <p>
-      Due to the penetration of various uncertain sources, such as flexible loads, solar, and wind generation, power system operations exhibit stochastic behavior, making it challenging to maintain the system within its normal operating range...
-    </p>
-    <ul>
-      <li>Developed transfer learning-based surrogate models...</li>
-      <li>Proposed topology embeddings and multi-fidelity surrogate modeling techniques...</li>
-      <li>Designed instability-aware surrogate models...</li>
-    </ul>
-  </div>
-
-  <!-- Right: vertical images -->
-  <div style="flex: 0 0 auto; display: flex; flex-direction: column; gap: 10px; text-align: center;">
-    <img src="/assets/img/stable_angle_all_predicted.png" alt="" width="300">
-    <img src="/assets/img/pdf_EU1354_0.4_mixed-cropped.png" alt="" width="300">
-    <div style="font-size: 0.9em; color: gray; margin-top: 5px;">
-      Figures: Predicted dynamic trajectories (top) and probabilistic voltage risk (bottom)
-    </div>
-  </div>
-
-</div>
-
-<!-- Publications section -->
-<h5>Selected Publications</h5>
-<ul>
-  <li><span class="author-highlight">Bendong Tan</span>, Junbo Zhao, 
-      "<a href="https://ieeexplore.ieee.org/document/10854889">Bayesian post-fault power system dynamic trajectory prediction</a>", 
-      <span class="journal-name">IEEE Transactions on Power Systems</span>, vol. 40, no. 6, pp. 4123-4136, Oct. 2025.
-  </li>
-  <li><span class="author-highlight">Bendong Tan</span>, Junbo Zhao, and Yousu Chen, 
-      "<a href="https://ieeexplore.ieee.org/document/10614750">Scalable risk assessment of rare events in power systems with uncertain wind generation and loads</a>", 
-      <span class="journal-name">IEEE Transactions on Power Systems</span>, vol. 40, no. 2, pp. 1374-1388, Mar. 2025.
-  </li>
-  <li><span class="author-highlight">Bendong Tan</span>, Junbo Zhao, 
-      "<a href="https://ieeexplore.ieee.org/document/10124366">Debiased uncertainty quantification approach for probabilistic transient stability assessment</a>", 
-      <span class="journal-name">IEEE Transactions on Power Systems</span>, vol. 38, no. 5, pp. 4954-4957, Sept. 2023.
-  </li>
-  <li><span class="author-highlight">Bendong Tan</span>, Junbo Zhao, and Le Xie, 
-      "<a href="https://ieeexplore.ieee.org/document/9996972">Transferable deep kernel emulator for probabilistic load margin assessment with topology changes, uncertain renewable generations and loads</a>", 
-      <span class="journal-name">IEEE Transactions on Power Systems</span>, vol. 38, no. 6, pp. 5740-5754, Nov. 2023.
-  </li>
-</ul>
 
 
 
