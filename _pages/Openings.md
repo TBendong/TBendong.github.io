@@ -52,7 +52,7 @@ h4 {
 
 <div class="faculty-profile">
     <h4>About Me</h4>
-    <p>Before joining PolyU, Dr. Tan was a postdoctoral research fellow at the University of Connecticut and a visiting scientist at Massachusetts Institute of Technology, working with <a href="https://engineering.dartmouth.edu/community/faculty/junbo-zhao">Dr. Junbo Zhao</a> 
+    <p>Before joining PolyU, Dr. Tan was a postdoctoral research associate at the University of Connecticut and a visiting scientist at Massachusetts Institute of Technology, working with <a href="https://engineering.dartmouth.edu/community/faculty/junbo-zhao">Dr. Junbo Zhao</a> 
 and 
 <a href="https://energy.mit.edu/profile/deepjyoti-deka/">Dr. Deepjyoti Deka</a>. 
 I received my Ph.D. degree in Electrical Engineering from the University of Connecticut in 2024, advised by 
