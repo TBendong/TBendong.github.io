@@ -144,7 +144,7 @@ h4 {
   <figure style="width: 300px; margin: 0; text-align: center;">
     <img src="/assets/img/pdf_EU1354_0.4_mixed-cropped.png" alt="Figure: Dynamic risk assessment" width="300">
     <figcaption style="font-size: 0.9em; color: gray; margin-top: 5px;">
-      Figure: Dynamic risk assessment
+      Figure: Static risk assessment
     </figcaption>
   </figure>
 
@@ -152,7 +152,7 @@ h4 {
   <figure style="width: 300px; margin: 0; text-align: center;">
     <img src="/assets/img/stable_angle_all_predicted.png" alt="Figure: Static risk assessment" width="300">
     <figcaption style="font-size: 0.9em; color: gray; margin-top: 5px;">
-      Figure: Static risk assessment
+      Figure: Dynamic risk assessment
     </figcaption>
   </figure>
 
