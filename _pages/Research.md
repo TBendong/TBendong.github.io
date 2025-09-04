@@ -41,13 +41,15 @@ Through broad collaborations with industry and national laboratories, including 
  <h4>Research Topic I: High-Dimension WECC Composite Load Modeling</h4>
 
 <!-- Float image on the right -->
-<div style="float: right; margin-left: 20px; text-align: center;">
+<figure style="float: right; margin-left: 20px; width: 400px; text-align: center;">
   <!-- Image -->
   <img src="/assets/img/corner_comparison_noise.png" alt="Figure: Dynamic load modeling" width="400">
   <!-- Caption under the image -->
-  <div style="font-size: 0.9em; color: gray; margin-top: 5px;">
-  </div>
-</div>
+  <figcaption style="font-size: 0.9em; color: gray; margin-top: 5px;">
+    Figure: Dynamic load modeling
+  </figcaption>
+</figure>
+
 
 <!-- Text content (will automatically wrap below the image if too long) -->
 <p>
@@ -80,13 +82,15 @@ Through broad collaborations with industry and national laboratories, including 
 <h4>Research Topic II: Time-Varying Inertia Estimation for IBRs</h4>
 
 <!-- Float image on the right -->
-<div style="float: right; margin-left: 20px; text-align: center;">
+<figure style="float: right; margin-left: 20px; width: 300px; text-align: center;">
   <!-- Image -->
   <img src="/assets/img/Scenario_4_cropped.png" alt="Figure: Time-varying inertia estimation" width="300">
   <!-- Caption under the image -->
-  <div style="font-size: 0.9em; color: gray; margin-top: 5px;">
-  </div>
-</div>
+  <figcaption style="font-size: 0.9em; color: gray; margin-top: 5px;">
+    Figure: Time-varying inertia estimation
+  </figcaption>
+</figure>
+
 
 <!-- Text content (will wrap below image if too long) -->
 <p>
@@ -126,7 +130,7 @@ Through broad collaborations with industry and national laboratories, including 
   <figure style="width: 300px; margin: 0; text-align: center;">
     <img src="/assets/img/pdf_EU1354_0.4_mixed-cropped.png" alt="Figure: Dynamic risk assessment" width="300">
     <figcaption style="font-size: 0.9em; color: gray; margin-top: 5px;">
-      Figure 1: Dynamic risk assessment
+      Figure: Dynamic risk assessment
     </figcaption>
   </figure>
 
@@ -134,7 +138,7 @@ Through broad collaborations with industry and national laboratories, including 
   <figure style="width: 300px; margin: 0; text-align: center;">
     <img src="/assets/img/stable_angle_all_predicted.png" alt="Figure: Static risk assessment" width="300">
     <figcaption style="font-size: 0.9em; color: gray; margin-top: 5px;">
-      Figure 2: Static risk assessment
+      Figure: Static risk assessment
     </figcaption>
   </figure>
 
