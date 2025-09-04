@@ -31,9 +31,9 @@ h4 {
 
 <!-- Float image on the right with caption -->
 <figure style="float: right; margin-left: 20px; width: 400px; text-align: center;">
-  <img src="/assets/img/framework.png" alt="Figure: Framework of power system uncertainty quantification" width="400">
+  <img src="/assets/img/framework.png" alt="" width="500">
   <figcaption style="font-size: 0.9em; color: gray; margin-top: 5px;">
-    Figure: Dynamic risk assessment
+    Figure: Framework of power system uncertainty quantification
   </figcaption>
 </figure>
 
