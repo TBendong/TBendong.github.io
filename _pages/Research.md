@@ -119,18 +119,27 @@ Through broad collaborations with industry and national laboratories, including 
 
 <h4>Research Topic III: Scalable Power System Risk Assessment</h4>
 
-<!-- Float image on the right -->
-<div style="float: right; margin-left: 20px; text-align: center; display: flex; flex-direction: column; gap: 10px;">
-    <!-- First image -->
-  <img src="/assets/img/pdf_EU1354_0.4_mixed-cropped.png" alt="Figure: Dynamic risk assessment" width="300">
-  <!-- Second image -->
-  <img src="/assets/img/stable_angle_all_predicted.png" alt="Figure: Static risk assessment" width="300">
-  
-  <!-- Caption under the images -->
-  <div style="font-size: 0.9em; color: gray; margin-top: 5px;">
+<!-- Float images on the right -->
+<div style="float: right; margin-left: 20px; display: flex; flex-direction: column; gap: 10px; align-items: center;">
 
-  </div>
+  <!-- First image with caption -->
+  <figure style="width: 300px; margin: 0; text-align: center;">
+    <img src="/assets/img/pdf_EU1354_0.4_mixed-cropped.png" alt="Figure: Dynamic risk assessment" width="300">
+    <figcaption style="font-size: 0.9em; color: gray; margin-top: 5px;">
+      Figure 1: Dynamic risk assessment
+    </figcaption>
+  </figure>
+
+  <!-- Second image with caption -->
+  <figure style="width: 300px; margin: 0; text-align: center;">
+    <img src="/assets/img/stable_angle_all_predicted.png" alt="Figure: Static risk assessment" width="300">
+    <figcaption style="font-size: 0.9em; color: gray; margin-top: 5px;">
+      Figure 2: Static risk assessment
+    </figcaption>
+  </figure>
+
 </div>
+
 
 
 
