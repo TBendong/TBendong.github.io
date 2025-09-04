@@ -77,6 +77,47 @@ Through broad collaborations with industry and national laboratories, including 
   </li>
 </ul>
 
+<h4>Research Topic II: Time-Varying Inertia Estimation for IBRs</h4>
+
+<!-- Float image on the right -->
+<div style="float: right; margin-left: 20px; text-align: center;">
+  <!-- Image -->
+  <img src="/assets/img/Scenario_4_cropped.png" alt="" width="300">
+  <!-- Caption under the image -->
+  <div style="font-size: 0.9em; color: gray; margin-top: 5px;">
+    Figure: Scenario-based inertia estimation for IBRs
+  </div>
+</div>
+
+<!-- Text content (will wrap below image if too long) -->
+<p>
+  Inertia is an index that quantifies a power system's capability to mitigate frequency deviations. Accurate inertia estimation is therefore crucial for assessing power system frequency stability. However, certain devices in the power system, particularly IBRs such as renewable energies, are equipped with time-adaptive virtual inertia control strategies to enhance frequency deviation mitigation. While these strategies are beneficial for maintaining frequency stability, they pose significant challenges for parameter estimation. The difficulty arises because this time-varying inertia can undergo rapid and substantial changes within a matter of seconds, making it challenging for existing methods to track accurately. My contributions to this topic are:
+</p>
+<ul>
+  <li>Formulated the dynamic equations of virtual inertia into a Bayesian Kalman filter framework, enabling real-time estimation of time-varying inertia from IBRs.</li>
+  <li>Designed an adaptive noise covariance update mechanism, allowing the filter to quantify estimation uncertainty and accurately track changes in inertia.</li>
+  <li>Introduced an adaptive model-switching mechanism to maintain robust inertia estimation even when control switches, such as current limiter activation, occur.</li>
+</ul>
+
+<!-- Clear float so that publications start below the image -->
+<div style="clear: both;"></div>
+
+<!-- Publications section -->
+<h5>Selected Publications</h5>
+<ul>
+  <li>
+    <span class="author-highlight">Bendong Tan</span>, Junbo Zhao, 
+    "<a href="https://ieeexplore.ieee.org/document/9990924">Data-driven time-varying inertia estimation of inverter-based resources</a>", 
+    <span class="journal-name">IEEE Transactions on Power Systems</span>, vol. 38, no. 2, pp. 1795-1798, March 2023.
+  </li>
+  <li>
+    <span class="author-highlight">Bendong Tan</span>, Junbo Zhao, 
+    "<a href="https://ieeexplore.ieee.org/document/10477536">Data-driven adaptive unscented Kalman filter for time-varying inertia and damping estimation of utility-scale IBRs considering current limiter</a>", 
+    <span class="journal-name">IEEE Transactions on Power Systems</span>, vol. 39, no. 6, pp. 7331-7345, Nov. 2024.
+  </li>
+</ul>
+
+
 <h4>Research Topic III: Scalable Power System Risk Assessment</h4>
 
 <!-- Float image on the right -->
