@@ -89,8 +89,8 @@ I received my Ph.D. degree in Electrical Engineering from the University of Conn
     <h4>Application Timeline and Procedure</h4>
     <p>
   Enrollment time is in Spring or Fall 2026. The application deadline for Spring 2026 admission is 
-  <span style="color:red; font-weight:bold;">September 30, 2025</span>. 
-  We encourage and support outstanding candidates to apply for the Hong Kong PhD Fellowship Scheme (HKPFS). 
+  <span style="color:red; font-weight:bold;">September 30, 2025</span>. The full PhD studentship is approximately HKD 19000 per month. 
+  We encourage and support outstanding candidates to apply for the Hong Kong PhD Fellowship Scheme (HKPFS), which offers around HKD 28000 per month. 
   For more information, please refer to:
 </p>
 
