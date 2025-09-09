@@ -34,7 +34,7 @@ Before my Ph.D. studies at UConn, I received my M.S. degree in Electrical Engine
 </p>
 
 <p>
-My long-term vision is to advance power system resilience against uncertainties. Currently, I focus on modeling/monitoring, stability assessment and control for stochastic inverter-penetrated power systems. My research interests include but are not limited to:
+My long-term vision is to advance power system resilience against uncertainties. Currently, I focus on modeling/monitoring, stability assessment and control for inverter-penetrated stochastic power systems. My research interests include but are not limited to:
 <html>
 <body>
     <ul>
