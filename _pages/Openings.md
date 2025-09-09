@@ -87,11 +87,22 @@ I received my Ph.D. degree in Electrical Engineering from the University of Conn
 
 <div class="faculty-profile">
     <h4>Application Timeline and Procedure</h4>
-    <ul>
-        <li><strong>Ph.D. Applicants:</strong> Enrollment in Spring or Fall 2026. <strong>The application deadline for Spring 2026 admission is September 30, 2025</strong>. Outstanding candidates are encouraged and supported to apply for the Hong Kong PhD Fellowship Scheme (HKPFS).</li>
-        <li><strong>Postdoctoral Applicants:</strong> Start date is flexible, with competitive compensation offered.</li>
-    </ul>
-    <p style="color: red;">
+    <p>
+  The application deadline for Spring 2026 admission is 
+  <span style="color:red; font-weight:bold;">September 30, 2025</span>. 
+  We encourage and support outstanding candidates to apply for the Hong Kong PhD Fellowship Scheme (HKPFS). 
+  For more information, please refer to:
+</p>
+
+<ul>
+  <li>
+    <a href="https://www.polyu.edu.hk/gs/prospective-students/how-to-apply/" target="_blank">Application process</a>
+  </li>
+  <li>
+    <a href="https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/?sc_lang=en" target="_blank">Scholarship details</a>
+  </li>
+</ul>
+
     To apply, please email your CV, transcripts, and representative publications (if any) to 
     <a href="mailto:bendong.tan@uconn.edu">bendong.tan@uconn.edu</a> with the subject: <code>{PhD Application}-{Your Name}</code> (e.g., PhD Application-Ming Li). Please include a brief statement of motivation for joining the research group in the email.
 </p>
