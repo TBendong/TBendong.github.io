@@ -48,7 +48,7 @@ h4 {
 
 <!-- ==================== HTML ==================== -->
 
-<p><strong>Dr. Bendong Tan will join the Department of Electrical and Electronic Engineering (EEE) at The Hong Kong Polytechnic University (PolyU) as an Assistant Professor in Fall 2025. He is now recruiting fully funded Ph.D. students (Spring/Fall 2026) and visiting students with research focusing on power systems. Undergraduate and Master’s students are also welcome to join the group for research internships.</strong></p>
+<p><strong>Dr. Bendong Tan will join the Department of Electrical and Electronic Engineering (EEE) at The Hong Kong Polytechnic University (PolyU) as an Assistant Professor in Fall 2025. He is now recruiting fully funded Ph.D. students (Spring/Fall 2026) and visiting students in power systems. Undergraduate and Master’s students are also welcome to join the group for research internships.</strong></p>
 
 <div class="faculty-profile">
     <h4>About Me</h4>
