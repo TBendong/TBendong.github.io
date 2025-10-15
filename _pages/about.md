@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <p> Incoming Assistant Professor@PolyU</p>
+subtitle: <p>Assistant Professor@PolyU</p>
 
 profile:
 
