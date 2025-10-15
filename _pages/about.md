@@ -16,7 +16,7 @@ profile:
       <a href="https://www.researchgate.net/profile/Bendong-Tan?ev=hdr_xprf"><i class="fa-brands fa-researchgate fa-2x"></i></a>
       <a href="https://orcid.org/my-orcid?orcid=0000-0003-1701-1577"><i class="fa-brands fa-orcid fa-2x"></i></a>
       <a href="https://github.com/TBendong"><i class="fa-brands fa-square-github fa-2x"></i></a>
-      <p> Email: bendong.tan@uconn.edu</p>
+      <p> Email: bendong.tan@polyu.edu.hk</p>
       <div style="margin-top:10px;">
       <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=erqVDkrOS1imD1t9uueJnnhGfh6VqiBV_gVt0UpR-GU'></script>
       </div>
@@ -25,7 +25,7 @@ news: true # includes a list of news items
 ---
 
 <p>
-I will join the Department of Electrical and Electronic Engineering (EEE) at The Hong Kong Polytechnic University (PolyU) as an Assistant Professor in Fall 2025. I was a postdoctoral research associate at the University of Connecticut and a visiting scientist at Massachusetts Institute of Technology, working with <a href="https://engineering.dartmouth.edu/community/faculty/junbo-zhao">Dr. Junbo Zhao</a> 
+I am an Assistant Professor in the Department of Electrical and Electronic Engineering (EEE) at The Hong Kong Polytechnic University (PolyU) since Fall 2025. I was a postdoctoral research associate at the University of Connecticut and a visiting scientist at Massachusetts Institute of Technology, working with <a href="https://engineering.dartmouth.edu/community/faculty/junbo-zhao">Dr. Junbo Zhao</a> 
 and 
 <a href="https://energy.mit.edu/profile/deepjyoti-deka/">Dr. Deepjyoti Deka</a>. 
 I received my Ph.D. degree in Electrical Engineering from the University of Connecticut in 2024, advised by 
@@ -50,7 +50,7 @@ My long-term vision is to advance power system resilience against uncertainties.
 
 <p>
 <span style="color:red; font-weight:bold;">Openings for 26 Spring/Fall</span>: I'm actively looking for Ph.D. students to work with me. 
-    Feel free to drop me an email (<a href="mailto:bendong.tan@uconn.edu">bendong.tan@uconn.edu</a>) with the subject "<code>{PhD Application}-{Your Name}</code>" (e.g., PhD Application-Ming Li) with your CV, transcripts, and representative publications (if any) attached, if you are interested. Please include a brief statement of motivation for joining the research group in the email.
+    Feel free to drop me an email (<a href="mailto:bendong.tan@polyu.edu.hk">bendong.tan@polyu.edu.hk</a>) with the subject "<code>{PhD Application}-{Your Name}</code>" (e.g., PhD Application-Ming Li) with your CV, transcripts, and representative publications (if any) attached, if you are interested. Please include a brief statement of motivation for joining the research group in the email.
 </p>
 
 <html>
