@@ -48,14 +48,14 @@ h4 {
 
 <!-- ==================== HTML ==================== -->
 
-<p><strong>Dr. Bendong Tan will join the Department of Electrical and Electronic Engineering (EEE) at The Hong Kong Polytechnic University (PolyU) as an Assistant Professor in Fall 2025. He is now recruiting fully funded Ph.D. students (Spring/Fall 2026) and visiting students in power systems. Undergraduate and Master’s students are also welcome to join the group for research internships.</strong></p>
+<p><strong>Dr. Bendong Tan is now recruiting fully funded Ph.D. students (Spring/Fall 2026) and visiting students in power systems. Undergraduate and Master’s students are also welcome to join the group for research internships.</strong></p>
 
 <div class="faculty-profile">
     <h4>About Me</h4>
     <p>Before joining PolyU, Dr. Tan was a postdoctoral research associate at the University of Connecticut and a visiting scientist at Massachusetts Institute of Technology, working with <a href="https://engineering.dartmouth.edu/community/faculty/junbo-zhao">Dr. Junbo Zhao</a> 
 and 
 <a href="https://energy.mit.edu/profile/deepjyoti-deka/">Dr. Deepjyoti Deka</a>. 
-I received my Ph.D. degree in Electrical Engineering from the University of Connecticut in 2024, advised by 
+He received his Ph.D. degree in Electrical Engineering from the University of Connecticut in 2024, advised by 
 <a href="https://engineering.dartmouth.edu/community/faculty/junbo-zhao">Dr. Junbo Zhao</a>.  Prior to that, he earned an M.S. (2020) and a B.Eng. (2017) in Electrical Engineering from Wuhan University.</p>
     <p>Dr. Tan’s research focuses on the modeling, stability assessment, and control of inverter-penetrated stochastic power systems, with related work published in leading journals such as IEEE Transactions on Power Systems. He has received the 2023 Chinese Government Award for Outstanding Self-financed Students Abroad, the GE Fellowship for Excellence at the University of Connecticut, and the Ezra Postdoctoral Associate Fellowship at Cornell University. He is also a recipient of multiple awards, including Best Paper Awards at the IEEE PES General Meetings in 2021, 2022, and 2024, the Best Journal Paper Award from the International Journal of Electrical Power & Energy Systems in 2022, and the Outstanding Reviewer Award from IEEE Transactions on Power Systems (2021–2023).</p>
 </div>
