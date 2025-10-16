@@ -104,7 +104,7 @@ He received his Ph.D. degree in Electrical Engineering from the University of Co
 </ul>
 <p>
     To apply, please email your CV, transcripts, and representative publications (if any) to 
-    <a href="mailto:bendong.tan@uconn.edu">bendong.tan@uconn.edu</a> with the subject: <code>{PhD Application}-{Your Name}</code> (e.g., PhD Application-Ming Li). Please include a brief statement of motivation for joining the research group in the email.
+    <a href="mailto:bendong.tan@polyu.edu.hk">bendong.tan@polyu.edu.hk</a> with the subject: <code>{PhD Application}-{Your Name}</code> (e.g., PhD Application-Ming Li). Please include a brief statement of motivation for joining the research group in the email.
 </p>
 
 </div>
