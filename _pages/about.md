@@ -96,6 +96,10 @@ My long-term vision is to advance power system resilience against uncertainties.
 
 <h4>2025</h4>
 <div class="timeline-entry">
+  <span class="date">2025-10-31</span>
+  <span class="content">Our paper "Gaussian processes in power systems: Techniques, applications, and future Works" has been accepted to Applied Energy.</span>
+</div>
+<div class="timeline-entry">
   <span class="date">2025-10-13</span>
   <span class="content">Joined EEE at PolyU as an Assistant Professor.</span>
 </div>
