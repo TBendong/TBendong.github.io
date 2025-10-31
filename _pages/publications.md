@@ -88,12 +88,6 @@ For a complete list of publications, please refer to
         <span class="journal-name">IEEE Transactions on Power Systems</span>, 2025. (Under revision)
     </li>
     <li>
-        <span class="author-highlight">Bendong Tan</span>, Tong Su, Yu Weng, Ketian Ye, Parikshit Pareek, 
-        Petr Vorobev, Hung Nguyen, Junbo Zhao, and Deepjyoti Deka, 
-        "<a href="https://arxiv.org/abs/2505.15950">Gaussian processes in power systems: Techniques, applications, and future Works</a>", 
-        <span class="journal-name">Applied Energy</span>, 2025. (Under revision)
-    </li>
-    <li>
         <span class="author-highlight">Bendong Tan</span>, Ketian Ye, Junbo Zhao, Mingguo Hong, Slava Maslennikov, and Xiaochuan Luo, 
         "Tail distribution-aware power system overloading risk assessment", 
         <span class="journal-name">Nature Communications</span>, 2025. (Under revision)
@@ -114,6 +108,12 @@ For a complete list of publications, please refer to
 
 <div class="journal-publications publications">
     <h4>Journal Papers</h4>
+    <li>
+        <span class="author-highlight">Bendong Tan</span>, Tong Su, Yu Weng, Ketian Ye, Parikshit Pareek, 
+        Petr Vorobev, Hung Nguyen, Junbo Zhao, and Deepjyoti Deka, 
+        "<a href="https://arxiv.org/abs/2505.15950">Gaussian processes in power systems: Techniques, applications, and future Works</a>", 
+        <span class="journal-name">Applied Energy</span>, 2025.
+    </li>
     <li>
         <span class="author-highlight">Bendong Tan</span>, Junbo Zhao, Naiyuan Chiang, and Nan Duan, 
         "<a href="https://ieeexplore.ieee.org/document/10892022">High-dimension Bayesian parameter estimation for WECC composite load model using realistic event measurements</a>", 
