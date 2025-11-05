@@ -12,6 +12,7 @@ horizontal: false
 <div class="service-category">
   <h3>Editorial Services</h3>
   <ul>
+    <li>Associate Editor, International Journal of Electrical Power & Energy Systems (2025 - Present)</li>
     <li>Early-career Associate Editor, IET Smart Grid (2025 - Present)</li>
     <li>Early-career Associate Editor, Energy Conversion and Economics (2025 - Present)</li>
   </ul>
@@ -21,6 +22,7 @@ horizontal: false
 <div class="service-category">
   <h3>Professional Membership</h3>
   <ul>
+    <li>Co-Chair, Task Force on Advancing Situational Awareness Through Explainable Artificial Intelligence</li>
     <li>Technical Program Committee Member, IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (Sept. 20 – Oct. 2, 2025)</li>
     <li>Member, IEEE Working Group on Big Data & Analytics for Transmission Systems (2024 - Present)</li>
     <li>Member, IEEE Task Force on Standard Test Cases for Power System State Estimation (2022 - Present)</li>
