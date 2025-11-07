@@ -48,7 +48,7 @@ h4 {
 
 <!-- ==================== HTML ==================== -->
 
-<p><strong>Dr. Bendong Tan is now recruiting fully funded Ph.D. students (Spring/Fall 2026) and visiting students in power systems. Undergraduate and Master’s students are also welcome to join the group for research internships.</strong></p>
+<p><strong>Dr. Bendong Tan is now recruiting fully funded Ph.D. students/Postdocs (Spring/Fall 2026) and visiting students in power systems. Undergraduate and Master’s students are also welcome to join the group for research internships.</strong></p>
 
 <div class="faculty-profile">
     <h4>About Me</h4>
@@ -103,8 +103,8 @@ He received his Ph.D. degree in Electrical Engineering from the University of Co
   </li>
 </ul>
 <p>
-    To apply, please email your CV, transcripts, and representative publications (if any) to 
-    <a href="mailto:bendong.tan@polyu.edu.hk">bendong.tan@polyu.edu.hk</a> with the subject: <code>{PhD Application}-{Your Name}</code> (e.g., PhD Application-Ming Li). Please include a brief statement of motivation for joining the research group in the email.
+    To apply, please email your CV, transcripts (Postdocs don't have to submit), and representative publications (if any) to 
+    <a href="mailto:bendong.tan@polyu.edu.hk">bendong.tan@polyu.edu.hk</a> with the subject: <code>{PhD/Postdoc Application}-{Your Name}</code> (e.g., PhD/Postdoc Application-Ming Li). Please include a brief statement of motivation for joining the research group in the email.
 </p>
 
 </div>
