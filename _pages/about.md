@@ -96,6 +96,10 @@ My long-term vision is to advance power system resilience against uncertainties.
 
 <h4>2025</h4>
 <div class="timeline-entry">
+  <span class="date">2025-11-07</span>
+  <span class="content">Our paper "Stochastic dynamic stability assessment with high penetration of uncertain sources: Uncertainty modeling, solutions and applications" has been accepted to Cyber-Physical Energy Systems.</span>
+</div>
+<div class="timeline-entry">
   <span class="date">2025-10-31</span>
   <span class="content">Our paper "Gaussian processes in power systems: Techniques, applications, and future Works" has been accepted to Applied Energy.</span>
 </div>
