@@ -181,7 +181,7 @@ For a complete list of publications, please refer to
     </li>
     <li>
         Juelin Liu, Zhifang Yang, Junbo Zhao, Juan Yu, <span class="author-highlight">Bendong Tan</span> and Wenyuan Li, 
-        "<a href="https://ieeexplore.ieee.org/document/9652094">Explicit Data-Driven Small-Signal Stability Constrained Optimal Power Flow</a>", 
+        "<a href="https://ieeexplore.ieee.org/document/9652094">Explicit data-driven small-signal stability constrained optimal power flow</a>", 
         <span class="journal-name">IEEE Transactions on Power Systems</span>, vol. 37, no. 5, pp. 3726-3737, Sept. 2022.
     </li>
     <li>
@@ -227,7 +227,7 @@ For a complete list of publications, please refer to
     </li>
     <li>
         <span class="author-highlight">Bendong Tan</span>, Jun Yang, Yufei Tang, Shengbo Jiang, Peiyuan Xie, and Wen Yuan, 
-        "<a href="https://doi.org/10.1109/ACCESS.2019.2923799">A Deep Imbalanced Learning Framework for Transient Stability Assessment of Power System</a>", 
+        "<a href="https://doi.org/10.1109/ACCESS.2019.2923799">A deep imbalanced learning framework for transient stability assessment of power system</a>", 
         <span class="journal-name">IEEE Access</span>, vol. 7, pp. 81759–81769, June 2019.
     </li>
 </div>
