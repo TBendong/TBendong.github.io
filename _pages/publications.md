@@ -100,7 +100,7 @@ For a complete list of publications, please refer to
     <h4>Journal Papers</h4>
     <li>
         <span class="author-highlight">Bendong Tan</span>, Ketian Ye, Junbo Zhao, Mingguo Hong, Slava Maslennikov, and Xiaochuan Luo, 
-        "Tail distribution-aware power system overloading risk assessment", 
+        "Highly computationally efficient tail distribution-aware large-scale power system overloading risk assessment", 
         <span class="journal-name">Nature Communications</span>, 2025.
     </li>
     <li>
