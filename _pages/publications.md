@@ -88,11 +88,6 @@ For a complete list of publications, please refer to
         <span class="journal-name">IEEE Transactions on Power Systems</span>, 2025. (Under revision)
     </li>
     <li>
-        <span class="author-highlight">Bendong Tan</span>, Ketian Ye, Junbo Zhao, Mingguo Hong, Slava Maslennikov, and Xiaochuan Luo, 
-        "Tail distribution-aware power system overloading risk assessment", 
-        <span class="journal-name">Nature Communications</span>, 2025. (Under revision)
-    </li>
-    <li>
         Tong Su, Junbo Zhao, <span class="author-highlight">Bendong Tan</span>, Daniel Adrian Maldonado, Xiaodong Liu, and Xiaochuan Luo, 
         "Analytic input convex neural networks enabled transient stability predictive control with wind generators", 
         <span class="journal-name">IEEE Transactions on Sustainable Energy</span>, 2025. (Under review)
@@ -103,6 +98,11 @@ For a complete list of publications, please refer to
 
 <div class="journal-publications publications">
     <h4>Journal Papers</h4>
+    <li>
+        <span class="author-highlight">Bendong Tan</span>, Ketian Ye, Junbo Zhao, Mingguo Hong, Slava Maslennikov, and Xiaochuan Luo, 
+        "Tail distribution-aware power system overloading risk assessment", 
+        <span class="journal-name">Nature Communications</span>, 2025.
+    </li>
     <li>
         <span class="author-highlight">Bendong Tan</span>, Junbo Zhao, 
         "Stochastic dynamic stability assessment with high penetration of uncertain sources: Uncertainty modeling, solutions and applications", 
