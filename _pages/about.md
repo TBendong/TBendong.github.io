@@ -100,6 +100,10 @@ My long-term vision is to advance power system resilience against uncertainties.
   <span class="content">Our paper "Highly computationally efficient tail distribution-aware large-scale power system overloading risk assessment" has been accepted to Nature Communications.</span>
 </div>
 <div class="timeline-entry">
+  <span class="date">2025-11-13</span>
+  <span class="content">Appointed as an associate editor for International Journal of Electrical Power & Energy Systems.</span>
+</div>
+<div class="timeline-entry">
   <span class="date">2025-11-07</span>
   <span class="content">Our paper "Stochastic dynamic stability assessment with high penetration of uncertain sources: Uncertainty modeling, solutions and applications" has been accepted to Cyber-Physical Energy Systems.</span>
 </div>
