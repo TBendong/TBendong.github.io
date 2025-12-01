@@ -48,7 +48,7 @@ h4 {
 
 <!-- ==================== HTML ==================== -->
 
-<p><strong>Dr. Bendong Tan is now recruiting fully funded Ph.D. students/Postdocs (Spring/Fall 2026) and visiting students in power systems. Undergraduate and Master’s students are also welcome to join the group for research internships.</strong></p>
+<p><strong>Dr. Bendong Tan is now recruiting fully funded Ph.D. students/Postdocs (Fall 2026) and visiting students in power systems. Undergraduate and Master’s students are also welcome to join the group for research internships.</strong></p>
 
 <div class="faculty-profile">
     <h4>About Me</h4>
