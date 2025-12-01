@@ -49,7 +49,7 @@ My long-term vision is to advance power system resilience against uncertainties.
 <p><strong> I am open to research discussions and collaborations. Feel free to reach out to me via email!</strong> </p> 
 
 <p>
-<span style="color:red; font-weight:bold;">Openings for 26 Spring/Fall</span>: I'm actively looking for Ph.D. students/Postdocs to work with me. 
+<span style="color:red; font-weight:bold;">Openings for Fall</span>: I'm actively looking for Ph.D. students/Postdocs to work with me. 
     Feel free to drop me an email (<a href="mailto:bendong.tan@polyu.edu.hk">bendong.tan@polyu.edu.hk</a>) with the subject "<code>{PhD/Postdoc Application}-{Your Name}</code>" (e.g., PhD/Postdoc Application-Ming Li) with your CV, transcripts (Postdocs don't have to submit), and representative publications (if any) attached, if you are interested. Please include a brief statement of motivation for joining the research group in the email.
 </p>
 
@@ -97,7 +97,7 @@ My long-term vision is to advance power system resilience against uncertainties.
 <h4>2025</h4>
 <div class="timeline-entry">
   <span class="date">2025-11-14</span>
-  <span class="content">Our paper "Highly computationally efficient tail distribution-aware large-scale power system overloading risk assessment" has been accepted to Nature Communications.</span>
+  <span class="content">Our paper "Computationally efficient tail distribution-aware large-scale power system overloading risk assessment" has been accepted to Nature Communications.</span>
 </div>
 <div class="timeline-entry">
   <span class="date">2025-11-13</span>
