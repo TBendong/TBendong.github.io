@@ -97,13 +97,13 @@ For a complete list of publications, please refer to
 <!-- -------------------- Journal Papers -------------------- -->
 
 <div class="journal-publications publications">
-    <h4>In-Progress Papers</h4>
+    
+    <h4>Journal Papers</h4>
     <li>
         <span class="author-highlight">Bendong Tan</span>, Deepjyoti Deka, and Junbo Zhao, 
         "Spatial-temporal global sensitivity analysis for probabilistic transient stability assessment", 
         <span class="journal-name">IEEE Transactions on Power Systems</span>, 2025.
     </li>
-    <h4>Journal Papers</h4>
     <li>
         <span class="author-highlight">Bendong Tan</span>, Ketian Ye, Junbo Zhao, Mingguo Hong, Slava Maslennikov, and Xiaochuan Luo, 
         "Computationally efficient tail distribution-aware large-scale power system overloading risk assessment", 
