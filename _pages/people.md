@@ -97,7 +97,6 @@ h4 {
         </div>
     </div>
 
-    </section>
 
 
     <h4>Ph.D. Students</h4>
