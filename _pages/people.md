@@ -82,20 +82,21 @@ h4 {
 </style>
 
 
-
-    <h4>Postdoctoral Fellows</h4>
-    <div class="member-container">
-        <img src="{{ '/assets/img/tao_xue.jpg' | relative_url }}" alt="Tao Xue" class="member-photo">
-        <div class="member-info">
-            <p class="name">Tao Xue</p>
-            <p class="title-date">Postdoc, 12/2025–Present</p>
-            <p class="edu">Ph.D., Electrical Engineering, The Hong Kong Polytechnic University, 2024</p>
-            <div class="interests">
-                <span class="interests-label">Research Interests:</span> 
-                Inverter-penetrated power system stability analysis and control.
-            </div>
+<h4>Postdoctoral Fellows</h4>
+<div class="member-container">
+    <img src="{{ '/assets/img/tao_xue.jpg' | relative_url }}" alt="Tao Xue" class="member-photo">
+    <div class="member-info">
+        <p class="name">Tao Xue</p>
+        <p class="title-date">Postdoc, 12/2025–Present</p>
+        <p class="edu">Ph.D., Electrical Engineering, The Hong Kong Polytechnic University, 2024</p>
+        <div class="interests">
+            <span class="interests-label">Research Interests:</span> 
+            Inverter-penetrated power system stability analysis and control.
         </div>
     </div>
+</div>
+
+<h4>Ph.D. Students</h4>
 
 
 
