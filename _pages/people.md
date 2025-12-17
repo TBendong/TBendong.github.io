@@ -6,21 +6,23 @@ nav: true
 nav_order: 7
 ---
 
+<!-- ==================== CSS ==================== -->
 <style>
-/* -------------------- Section Titles (Same as Publications) -------------------- */
-h2 {
-    padding-bottom: 0.4em;
-    border-bottom: 1.5px solid #007BFF; /* Blue thick underline */
-    margin-bottom: 1em;
-    margin-top: 1.5em;
-    display: block;
-    font-size: 1.5rem;
-    color: #000;
+/* -------------------- Section Titles -------------------- */
+.section-title {
+    padding-bottom: 0.4em; /* Reduce space between title text and underline */
+    border-bottom: 3px solid #007BFF; /* Blue thick underline */
+    margin-bottom: 0.4em; /* Reduce space between underline and content */
+    display: block; 
 }
 
-/* Remove top margin for the first section to align with title */
-section:first-of-type h2 {
-    margin-top: 0;
+/* -------------------- Blue line under h4 -------------------- */
+h4 {
+    border-bottom: 1.5px solid #007BFF; /* Blue thick underline */
+    padding-bottom: 0.4em; /* Reduce space between title text and underline */
+    margin-bottom: 0.4em; /* Reduce space between underline and content */
+    width: 100%; 
+    display: block; 
 }
 
 /* -------------------- Member Container Styling -------------------- */
@@ -80,9 +82,9 @@ section:first-of-type h2 {
 }
 </style>
 
-<section>
-    <h2>Postdoctoral Fellows</h2>
 
+
+    <h4>Postdoctoral Fellows</h4>
     <div class="member-container">
         <img src="{{ '/assets/img/tao_xue.jpg' | relative_url }}" alt="Tao Xue" class="member-photo">
         <div class="member-info">
@@ -98,8 +100,8 @@ section:first-of-type h2 {
 
     </section>
 
-<section>
-    <h2>Ph.D. Students</h2>
+
+    <h4>Ph.D. Students</h4>
 
    
 </section>
