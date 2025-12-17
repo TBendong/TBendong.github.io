@@ -7,20 +7,23 @@ nav_order: 7
 ---
 
 <style>
-/* -------------------- Section Titles (Same as Publications) -------------------- */
-h2 {
+/* -------------------- Section Titles (Optional if used) -------------------- */
+.section-title {
     padding-bottom: 0.4em;
-    border-bottom: 1.5px solid #007BFF; /* Blue thick underline */
-    margin-bottom: 1em;
-    margin-top: 1.5em;
-    display: block;
-    font-size: 1.5rem;
-    color: #000;
+    border-bottom: 3px solid #007BFF;
+    margin-bottom: 0.4em;
+    display: block; 
 }
 
-/* Remove top margin for the first section to align with title */
-section:first-of-type h2 {
-    margin-top: 0;
+/* -------------------- Category Headers (h4) -------------------- */
+h4 {
+    border-bottom: 1.5px solid #007BFF; /* Matches your publication style */
+    padding-bottom: 0.4em;
+    margin-bottom: 1em; /* Increased spacing before the first member */
+    margin-top: 1.5em;  /* Spacing from previous sections */
+    width: 100%; 
+    display: block; 
+    color: #000;
 }
 
 /* -------------------- Member Container Styling -------------------- */
@@ -43,10 +46,10 @@ section:first-of-type h2 {
 
 .member-info {
     flex: 1;
-    color: #000; /* Force all text to black */
+    color: #000; /* Black text */
 }
 
-/* Name: Bold and slightly larger */
+/* Name: Bold and larger */
 .name {
     font-size: 1.25rem;
     font-weight: bold;
@@ -58,50 +61,50 @@ section:first-of-type h2 {
     font-size: 1rem;
     font-weight: normal;
     margin: 2px 0;
+    color: #000;
 }
 
 /* Research Interests styling */
 .interests {
-    font-size: 0.95rem;
+    font-size: 1rem;
     margin-top: 10px;
     font-weight: normal;
 }
 
-/* Bold the specific label */
+/* Bold label only */
 .interests-label {
     font-weight: bold;
 }
 
 /* -------------------- Responsive -------------------- */
 @media (max-width: 600px) {
-    .member-container { flex-direction: column; }
-    .member-photo { margin-bottom: 15px; width: 130px; height: 160px; }
+    .member-container { 
+        flex-direction: column; 
+    }
+    .member-photo { 
+        margin-bottom: 15px; 
+        width: 130px; 
+        height: 160px; 
+    }
 }
 </style>
 
-<section>
-    <h2>Postdoctoral Fellows</h2>
+<h4>Postdoctoral Fellows</h4>
 
-    <div class="member-container">
-        <img src="{{ '/assets/img/tao_xue.jpg' | relative_url }}" alt="Tao Xue" class="member-photo">
-        <div class="member-info">
-            <p class="name">Tao Xue</p>
-            <p class="title-date">Postdoc, 12/2025–Present</p>
-            <p class="edu">Ph.D., Electrical Engineering, The Hong Kong Polytechnic University, 2024</p>
-            <div class="interests">
-                <span class="interests-label">Research Interests:</span> 
-                Inverter-penetrated power system stability analysis and control.
-            </div>
+<div class="member-container">
+    <img src="{{ '/assets/img/tao_xue.jpg' | relative_url }}" alt="Tao Xue" class="member-photo">
+    <div class="member-info">
+        <p class="name">Tao Xue</p>
+        <p class="title-date">Postdoc, 12/2025–Present</p>
+        <p class="edu">Ph.D., Electrical Engineering, The Hong Kong Polytechnic University, 2024</p>
+        <div class="interests">
+            <span class="interests-label">Research Interests:</span> 
+            Inverter-penetrated power system stability analysis and control.
         </div>
     </div>
+</div>
 
-    </section>
-
-<section>
-    <h2>Ph.D. Students</h2>
-
-    
-</section>
+<h4>Ph.D. Students</h4>
 
 
 
