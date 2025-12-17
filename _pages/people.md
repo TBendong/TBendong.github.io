@@ -5,13 +5,6 @@ title: People
 nav: true
 nav_order: 7
 ---
----
-layout: page
-title: Members
-permalink: /Members/
-nav: true
-nav_order: 3
----
 
 <style>
 /* -------------------- Section Titles (Same as Publications) -------------------- */
