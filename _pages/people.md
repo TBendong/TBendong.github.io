@@ -94,7 +94,7 @@ nav_order: 7
         <h2>Postdoctoral Fellows</h2>
 
         <div class="member-container">
-            <img src="tao_xue.jpg" alt="Tao Xue" class="member-photo">
+            <img src="assets/img/tao_xue.jpg" alt="Tao Xue" class="member-photo">
             <div class="member-info">
                 <p class="name">Tao Xue</p>
                 <p class="title-date">Postdoc, 12/2025–Present</p>
