@@ -30,7 +30,6 @@ h4 {
     display: flex;
     margin-bottom: 2em;
     padding-bottom: 1em;
-    border-bottom: 1.5px solid #007BFF; /* Blue thick underline */
     align-items: flex-start;
 }
 
