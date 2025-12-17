@@ -5,7 +5,6 @@ title: People
 nav: true
 nav_order: 7
 ---
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -32,7 +31,6 @@ nav_order: 7
 
         h2 {
             font-size: 1.5rem;
-            color: #004481; /* Academic Blue */
             margin-top: 40px;
             border-bottom: 2px solid #eee;
         }
@@ -60,19 +58,16 @@ nav_order: 7
         .name {
             font-size: 1.25rem;
             font-weight: bold;
-            color: #111;
             margin: 0;
         }
 
         .title-date {
             font-size: 1rem;
-            color: #555;
             margin: 2px 0;
         }
 
         .edu {
             font-size: 0.95rem;
-            color: #666;
             margin: 5px 0;
         }
 
@@ -94,8 +89,6 @@ nav_order: 7
     </style>
 </head>
 <body>
-
-    <h1>Members</h1>
 
     <section>
         <h2>Postdoctoral Fellows</h2>
