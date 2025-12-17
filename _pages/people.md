@@ -30,6 +30,7 @@ nav_order: 7
         }
 
         h2 {
+            border-bottom: 1.5px solid #007BFF; /* Blue thick underline */
             font-size: 1.5rem;
             margin-top: 40px;
             border-bottom: 2px solid #eee;
