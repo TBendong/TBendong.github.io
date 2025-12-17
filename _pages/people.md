@@ -24,7 +24,6 @@ nav_order: 7
         h1 {
             font-size: 2rem;
             color: #000;
-            border-bottom: 1px solid #ddd;
             padding-bottom: 10px;
             margin-bottom: 30px;
         }
@@ -107,8 +106,8 @@ nav_order: 7
             </div>
         </div>
 
-        </section>
-
+    </section>
+    
     <section>
         <h2>Ph.D. Students</h2>
 
