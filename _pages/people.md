@@ -10,7 +10,7 @@ nav_order: 7
 /* -------------------- Section Titles (Same as Publications) -------------------- */
 h2 {
     padding-bottom: 0.4em;
-    border-bottom: 3px solid #007BFF; /* Blue thick underline */
+    border-bottom: 1.5px solid #007BFF; /* Blue thick underline */
     margin-bottom: 1em;
     margin-top: 1.5em;
     display: block;
@@ -28,7 +28,7 @@ section:first-of-type h2 {
     display: flex;
     margin-bottom: 2em;
     padding-bottom: 1em;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1.5px solid #007BFF; /* Blue thick underline */
     align-items: flex-start;
 }
 
@@ -101,16 +101,5 @@ section:first-of-type h2 {
 <section>
     <h2>Ph.D. Students</h2>
 
-    <div class="member-container">
-        <img src="{{ '/assets/img/placeholder.jpg' | relative_url }}" alt="Student Name" class="member-photo">
-        <div class="member-info">
-            <p class="name">Student Name</p>
-            <p class="title-date">Ph.D. Student, 09/2024–Present</p>
-            <p class="edu">B.S., Electrical Engineering, [University Name], 2024</p>
-            <div class="interests">
-                <span class="interests-label">Research Interests:</span> 
-                Power system state estimation and cybersecurity.
-            </div>
-        </div>
-    </div>
+   
 </section>
