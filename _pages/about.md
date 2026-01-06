@@ -96,6 +96,11 @@ My long-term vision is to advance power system resilience against uncertainties.
 
 <h4>2025</h4>
 <div class="timeline-entry">
+  <span class="date">2025-12-27</span>
+  <span class="content">Welcome Dr.Tao Xue to join our group as a postdoc! </span>
+</div>
+
+<div class="timeline-entry">
   <span class="date">2025-12-16</span>
   <span class="content">Our paper "Spatial-temporal global sensitivity analysis for probabilistic transient stability assessment" has been accepted to IEEE Transactions on Power Systems.</span>
 </div>
