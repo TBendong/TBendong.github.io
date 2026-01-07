@@ -85,12 +85,12 @@ For a complete list of publications, please refer to
     <li>
         Caoyang Cheng, <span class="author-highlight">Bendong Tan</span>, and Junbo Zhao, 
         "Nodal frequency security-constrained optimal power system virtual inertia and damping dispatch", 
-        <span class="journal-name">IEEE Transactions on Power Systems</span>, 2025. (Under review)
+        <span class="journal-name">IEEE Transactions on Power Systems</span>, 2026. (Under review)
     </li>
     <li>
         Tong Su, Junbo Zhao, <span class="author-highlight">Bendong Tan</span>, Daniel Adrian Maldonado, Xiaodong Liu, and Xiaochuan Luo, 
         "Analytic input convex neural networks enabled transient stability predictive control with wind generators", 
-        <span class="journal-name">IEEE Transactions on Sustainable Energy</span>, 2025. (Under review)
+        <span class="journal-name">Applied Energy</span>, 2026. (Under review)
     </li>
 </div>
 
@@ -100,14 +100,14 @@ For a complete list of publications, please refer to
     
     <h4>Journal Papers</h4>
     <li>
-        <span class="author-highlight">Bendong Tan</span>, Deepjyoti Deka, and Junbo Zhao, 
-        "Spatial-temporal global sensitivity analysis for probabilistic transient stability assessment", 
+        <span class="author-highlight">Bendong Tan</span>, Deepjyoti Deka, and Junbo Zhao,
+        "<a href="https://ieeexplore.ieee.org/document/11303596">Spatial-temporal global sensitivity analysis for probabilistic transient stability assessment</a>",
         <span class="journal-name">IEEE Transactions on Power Systems</span>, 2025.
     </li>
     <li>
         <span class="author-highlight">Bendong Tan</span>, Ketian Ye, Junbo Zhao, Mingguo Hong, Slava Maslennikov, and Xiaochuan Luo, 
-        "Computationally efficient tail distribution-aware large-scale power system overloading risk assessment", 
-        <span class="journal-name">Nature Communications</span>, 2025.
+        "<a href="https://doi.org/10.1038/s41467-025-68241-y">Computationally efficient tail distribution-aware large-scale power system overloading risk assessment</a>",
+        <span class="journal-name">Nature Communications</span>, 2026.
     </li>
     <li>
         <span class="author-highlight">Bendong Tan</span>, Junbo Zhao, 
