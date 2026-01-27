@@ -22,6 +22,7 @@ horizontal: false
 <div class="service-category">
   <h3>Professional Membership</h3>
   <ul>
+    <li>Chair, PESIM Panel Session on Stochastic Security Assessment with High Penetration of Inverter-Based Resources (Jan. 21st, 2026)</li>
     <li>Co-Chair, Task Force on Advancing Situational Awareness Through Explainable Artificial Intelligence</li>
     <li>Technical Program Committee Member, IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (Sept. 20 – Oct. 2, 2025)</li>
     <li>Member, IEEE Working Group on Big Data & Analytics for Transmission Systems (2024 - Present)</li>
