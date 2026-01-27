@@ -92,13 +92,12 @@ My long-term vision is to advance power system resilience against uncertainties.
 
 <h4 style="text-align: center; font-weight: bold;">🔥 News</h4>
 
-
-
-<h4>2025</h4>
+<h4>2026</h4>
 <div class="timeline-entry">
   <span class="date">2026-01-21</span>
-  <span class="content">Our paper "Computationally efficient tail distribution-aware large-scale power system overloading risk assessment" has been selected as <span class="award">Featured Article-Top 50 best papers in Nature Communications</span>.</span>
+  <span class="content">Our paper "Computationally efficient tail distribution-aware large-scale power system overloading risk assessment" has been selected as <span class="award">Featured Article-Top 50 Best Papers in Nature Communications</span>.</span>
 </div>
+<h4>2025</h4>
 <div class="timeline-entry">
   <span class="date">2025-12-27</span>
   <span class="content">Welcome Dr.Tao Xue to join our group as a postdoc! </span>
