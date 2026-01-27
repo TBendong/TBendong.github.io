@@ -102,7 +102,7 @@ For a complete list of publications, please refer to
     <li>
         <span class="author-highlight">Bendong Tan</span>, Ketian Ye, Junbo Zhao, Mingguo Hong, Slava Maslennikov, and Xiaochuan Luo, 
         "<a href="https://doi.org/10.1038/s41467-025-68241-y">Computationally efficient tail distribution-aware large-scale power system overloading risk assessment</a>",
-        <span class="journal-name">Nature Communications</span>, 2026. <span class="highlight">Featured Article-Top 50 best papers</span>
+        <span class="journal-name">Nature Communications</span>, 2026. <span class="highlight">Featured Article-Top 50 Best Papers</span>
     </li>
     <li>
         <span class="author-highlight">Bendong Tan</span>, Deepjyoti Deka, and Junbo Zhao,
