@@ -95,14 +95,9 @@ My long-term vision is to advance power system resilience against uncertainties.
 
 
 <h4>2025</h4>
-<li>
-        <span class="author-highlight">Bendong Tan</span>, Ketian Ye, Junbo Zhao, Mingguo Hong, Slava Maslennikov, and Xiaochuan Luo, 
-        "<a href="https://doi.org/10.1038/s41467-025-68241-y">Computationally efficient tail distribution-aware large-scale power system overloading risk assessment</a>",
-        <span class="journal-name">Nature Communications</span>, 2026. <span class="highlight"></span>
-    </li>
 <div class="timeline-entry">
   <span class="date">2026-01-21</span>
-  <span class="content">Our paper "Computationally efficient tail distribution-aware large-scale power system overloading risk assessment" has been selected as <span class="award">Featured Article-Top 50 best papers</span> by Nature Communications.</span>
+  <span class="content">Our paper "Computationally efficient tail distribution-aware large-scale power system overloading risk assessment" has been selected as <span class="award">Featured Article-Top 50 best papers in Nature Communications</span>.</span>
 </div>
 <div class="timeline-entry">
   <span class="date">2025-12-27</span>
