@@ -12,6 +12,8 @@ nav_order: 4
 </ul>
 
 <h4>Undergraduate Course</h4>
-
+<ul>
+  <li>EE3004/A Power Transmission and Distribution (PolyU, Spring 2026)</li>
+</ul>
 
 
