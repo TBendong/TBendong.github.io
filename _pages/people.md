@@ -106,6 +106,19 @@ h4 {
 
 <h4>Ph.D. Students</h4>
 
+<h4>Visting Scholars</h4>
+<div class="member-container">
+    <img src="{{ '/assets/img/mohan.jpg' | relative_url }}" alt="mohan" class="member-photo">
+    <div class="member-info">
+        <p class="name">Mohan Lin</p>
+        <p class="title-date">Visiting Ph.D. Student, 02/2026-Present</p>
+        <p class="edu">B.S., Electrical Engineering and Automation, Hangzhou Dianzi University, 2022</p>
+        <div class="interests">
+            <span class="interests-label">Research Interests:</span> 
+            Uncertainty quantification and optimal operation in power system.
+        </div>
+    </div>
+</div>
 
 
 
