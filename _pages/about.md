@@ -94,6 +94,10 @@ My long-term vision is to advance power system resilience against uncertainties.
 
 <h4>2026</h4>
 <div class="timeline-entry">
+  <span class="date">2026-02-27</span>
+  <span class="content">Welcome Mohan to join our group as a visiting PhD student! </span>
+</div>
+<div class="timeline-entry">
   <span class="date">2026-01-21</span>
   <span class="content">Our paper "Computationally efficient tail distribution-aware large-scale power system overloading risk assessment" has been selected as <span class="award">Featured Article-Top 50 Best Papers in Nature Communications</span>.</span>
 </div>
