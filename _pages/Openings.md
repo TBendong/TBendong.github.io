@@ -48,7 +48,7 @@ h4 {
 
 <!-- ==================== HTML ==================== -->
 
-<p><strong>Dr. Bendong Tan is now recruiting fully funded Ph.D. students/Postdocs (Fall 2026) and visiting students in power systems. Undergraduate and Master’s students are also welcome to join the group for research internships.</strong></p>
+<p><strong>Dr. Bendong Tan is actively recruiting fully funded Ph.D. students/Postdocs and visiting students in power systems. Undergraduate and Master’s students are also welcome to join the group for research internships.</strong></p>
 
 <div class="faculty-profile">
     <h4>About Me</h4>
@@ -67,6 +67,7 @@ He received his Ph.D. degree in Electrical Engineering from the University of Co
         <li>Dynamic power system modeling, including dynamic load and inverter-based resources</li>
         <li>Inverter-penetrated power system inertia estimation and tracking</li>
         <li>Static and dynamic power system risk assessment with high penetration of inverter-based resources</li>
+        <li>Power system stability analysis and control with inverter-based resources</li>
         <li>Stochastic power system decision-making and control</li>
         <li>Applications of artificial intelligence and machine learning in power system analysis and control</li>
     </ul>
@@ -88,7 +89,7 @@ He received his Ph.D. degree in Electrical Engineering from the University of Co
 <div class="faculty-profile">
     <h4>Application Timeline and Procedure</h4>
     <p>
-  Enrollment time is in Fall 2026. The full PhD studentship is approximately HKD 19000 per month. 
+  The full PhD studentship is approximately HKD 19000 per month. 
   We encourage and support outstanding candidates to apply for the Hong Kong PhD Fellowship Scheme (HKPFS), which offers around HKD 28000 per month. 
   For more information, please refer to:
 </p>
