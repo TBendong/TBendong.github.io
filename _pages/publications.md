@@ -83,7 +83,7 @@ For a complete list of publications, please refer to
 <div class="journal-publications publications">
     <h4>In-Progress Papers</h4>
     <li>
-        Yunhe Wei, Dawei Qiu, <span class="author-highlight">Bendong Tan</span>, and Junbo Zhao, 
+        Yunhe Wei, Dawei Qiu, <span class="author-highlight">Bendong Tan</span>, and Goran Strbac, 
         "Physics consistent attention-mamba time series predictor for power system transients", 
         <span class="journal-name">IEEE Transactions on Power Systems</span>, 2026. (Under review)
     </li>
