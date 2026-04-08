@@ -88,7 +88,7 @@ For a complete list of publications, please refer to
         <span class="journal-name">IEEE Transactions on Power Systems</span>, 2026. (Under review)
     </li>
     <li>
-        Caoyang Cheng, <span class="author-highlight">Bendong Tan</span>, and Goran Strbac, 
+        Caoyang Cheng, <span class="author-highlight">Bendong Tan</span>, and Junbo Zhao, 
         "Nodal frequency security-constrained optimal power system virtual inertia and damping dispatch", 
         <span class="journal-name">IEEE Transactions on Power Systems</span>, 2026. (Under review)
     </li>
