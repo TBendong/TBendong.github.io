@@ -95,6 +95,14 @@ My long-term vision is to advance power system resilience against uncertainties.
 
 <h4>2026</h4>
 <div class="timeline-entry">
+  <span class="date">2026-04-03</span>
+  <span class="content">Welcome Jiawei to join our group as a visiting PhD student! </span>
+</div>
+<div class="timeline-entry">
+  <span class="date">2026-03-23</span>
+  <span class="content">Appointed as an early-career associate editor for IET Energy Systems Integration. </span>
+</div>
+<div class="timeline-entry">
   <span class="date">2026-02-27</span>
   <span class="content">Welcome Mohan to join our group as a visiting PhD student! </span>
 </div>
