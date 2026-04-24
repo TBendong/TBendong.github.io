@@ -105,6 +105,18 @@ h4 {
 </div>
 
 <h4>Ph.D. Students</h4>
+<div class="member-container">
+    <img src="{{ '/assets/img/zhiyong.jpg' | relative_url }}" alt="mohan" class="member-photo">
+    <div class="member-info">
+        <p class="name">Zhiyong Liu</p>
+        <p class="title-date">Ph.D. Student, 09/2026-Present</p>
+        <p class="edu">M.S., Electrical Engineering, Shandong University, 2026</p>
+        <div class="interests">
+            <span class="interests-label">Research Interests:</span> 
+            Situational awareness and control for inverter-dominant power system.
+        </div>
+    </div>
+</div>
 
 <h4>Visting Scholars</h4>
 <div class="member-container">
