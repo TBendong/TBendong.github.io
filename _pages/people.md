@@ -121,6 +121,21 @@ h4 {
 </div>
 
 
+<div class="member-container">
+    <img src="{{ '/assets/img/jiawei.jpg' | relative_url }}" alt="jiawei" class="member-photo">
+    <div class="member-info">
+        <p class="name">Jiawei Zhou</p>
+        <p class="title-date">Visiting Ph.D. Student, 04/2026-Present</p>
+        <p class="edu">M.S. in Control Science and Engineering, North China Electric Power University, 2024
+</p>
+        <div class="interests">
+            <span class="interests-label">Research Interests:</span> 
+            Uncertainty modeling and optimal control for renewable energy power plants.
+        </div>
+    </div>
+</div>
+
+
 
 
    
