@@ -147,7 +147,19 @@ h4 {
     </div>
 </div>
 
-
+<h4>Undergraduate Students</h4>
+<div class="member-container">
+    <img src="{{ '/assets/img/mohan.jpg' | relative_url }}" alt="mohan" class="member-photo">
+    <div class="member-info">
+        <p class="name">Yanyang Lin</p>
+        <p class="title-date">02/2026-Present</p>
+        <p class="edu">B.S., Electrical Engineering, South China University of Technology, 2026</p>
+        <div class="interests">
+            <span class="interests-label">Research Interests:</span> 
+            Dynamic modeling for renewable energies.
+        </div>
+    </div>
+</div>
 
 
    
