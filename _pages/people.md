@@ -149,7 +149,6 @@ h4 {
 
 <h4>Undergraduate Students</h4>
 <div class="member-container">
-    <img src="{{ '/assets/img/mohan.jpg' | relative_url }}" alt="mohan" class="member-photo">
     <div class="member-info">
         <p class="name">Yanyang Lin</p>
         <p class="title-date">South China University of Technology, 12/2025-Present</p>
@@ -161,7 +160,6 @@ h4 {
 </div>
 
 <div class="member-container">
-    <img src="{{ '/assets/img/mohan.jpg' | relative_url }}" alt="mohan" class="member-photo">
     <div class="member-info">
         <p class="name">Ruijie Liu</p>
         <p class="title-date">Harbin Institute of Technology, Shenzhen, 04/2026-Present</p>
