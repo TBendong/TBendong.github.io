@@ -117,6 +117,18 @@ h4 {
         </div>
     </div>
 </div>
+<div class="member-container">
+    <img src="{{ '/assets/img/bohui.jpg' | relative_url }}" alt="mohan" class="member-photo">
+    <div class="member-info">
+        <p class="name">Bohui Jia</p>
+        <p class="title-date">Ph.D. Student, 09/2026-Present</p>
+        <p class="edu">M.S., Electrical Engineering, Shandong University, 2026</p>
+        <div class="interests">
+            <span class="interests-label">Research Interests:</span> 
+            Dynamic modeling for inverter-dominant power system.
+        </div>
+    </div>
+</div>
 
 <h4>Visting Scholars</h4>
 <div class="member-container">
