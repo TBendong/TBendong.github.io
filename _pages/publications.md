@@ -121,7 +121,7 @@ For a complete list of publications, please refer to
     </li>
     <li>
         <span class="author-highlight">Bendong Tan</span>, Junbo Zhao, 
-        "<a href="https://www.sciencedirect.com/science/article/pii/S3050744825000258"> Stochastic dynamic stability assessment with high penetration of uncertain sources: Uncertainty modeling, solutions and applications", 
+        "<a href="https://www.sciencedirect.com/science/article/pii/S3050744825000258"> Stochastic dynamic stability assessment with high penetration of uncertain sources: Uncertainty modeling, solutions and applications</a>", 
         <span class="journal-name">Cyber-Physical Energy Systems</span>, vol. 2, no. 1, pp. 13-24, 2026.
     </li>
     <li>
