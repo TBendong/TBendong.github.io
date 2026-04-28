@@ -122,7 +122,7 @@ h4 {
     <div class="member-info">
         <p class="name">Bohui Jia</p>
         <p class="title-date">Ph.D. Student, 09/2026-Present</p>
-        <p class="edu">M.S., Electrical Engineering, Shandong University, 2026</p>
+        <p class="edu">M.S., Electrical Electronic Engineering, The University of Hong Kong, 2026</p>
         <div class="interests">
             <span class="interests-label">Research Interests:</span> 
             Dynamic modeling for inverter-dominant power system.
