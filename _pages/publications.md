@@ -117,12 +117,12 @@ For a complete list of publications, please refer to
     <li>
         <span class="author-highlight">Bendong Tan</span>, Deepjyoti Deka, and Junbo Zhao,
         "<a href="https://ieeexplore.ieee.org/document/11303596">Spatial-temporal global sensitivity analysis for probabilistic transient stability assessment</a>",
-        <span class="journal-name">IEEE Transactions on Power Systems</span>, 2025.
+        <span class="journal-name">IEEE Transactions on Power Systems</span>, vol. 41, no. 3, pp. 2333-2346, 2026.
     </li>
     <li>
         <span class="author-highlight">Bendong Tan</span>, Junbo Zhao, 
-        "Stochastic dynamic stability assessment with high penetration of uncertain sources: Uncertainty modeling, solutions and applications", 
-        <span class="journal-name">Cyber-Physical Energy Systems</span>, 2025.
+        "<a href="https://www.sciencedirect.com/science/article/pii/S3050744825000258"> Stochastic dynamic stability assessment with high penetration of uncertain sources: Uncertainty modeling, solutions and applications", 
+        <span class="journal-name">Cyber-Physical Energy Systems</span>, vol. 2, no. 1, pp. 13-24, 2026.
     </li>
     <li>
         <span class="author-highlight">Bendong Tan</span>, Tong Su, Yu Weng, Ketian Ye, Parikshit Pareek, 
