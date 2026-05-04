@@ -96,6 +96,10 @@ My long-term vision is to advance power system resilience against uncertainties.
 <h4>2026</h4>
 <div class="timeline-entry">
   <span class="date">2026-04-03</span>
+  <span class="content">Our paper "Bayesian Probabilistic Transient Stability Assessment for Power System with Stochastic Renewable Generations and Loads" has received Best Poster Presentation Award in 2026 IEEE 2nd International Conference on Power and Integrated Energy Systems! Credit to Mohan! </span>
+</div>
+<div class="timeline-entry">
+  <span class="date">2026-04-03</span>
   <span class="content">Welcome Jiawei to join our group as a visiting PhD student! </span>
 </div>
 <div class="timeline-entry">
