@@ -19,6 +19,7 @@ profile:
       <p> Email: bendong.tan@polyu.edu.hk</p>
       <div style="margin-top:10px;">
       <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=erqVDkrOS1imD1t9uueJnnhGfh6VqiBV_gVt0UpR-GU'></script>
+      <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=HdwnMP-giUxhsrRR3k4VLaqPoUL-lNAIOCzbwxDcgiw"></script>
       </div>
       
 news: true # includes a list of news items
