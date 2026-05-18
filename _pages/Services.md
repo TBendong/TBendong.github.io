@@ -12,7 +12,8 @@ horizontal: false
 <div class="service-category">
   <h3>Editorial Services</h3>
   <ul>
-    <li>Associate Editor, International Journal of Electrical Power & Energy Systems (2025 - Present)</li>
+    <li>Associate Editor & Managing Editor, International Journal of Electrical Power & Energy Systems (2025 - Present)</li>
+    <li>Early-career Associate Editor, IET Energy System Integration (2026 - Present)</li>
     <li>Early-career Associate Editor, IET Smart Grid (2025 - Present)</li>
     <li>Early-career Associate Editor, Energy Conversion and Economics (2025 - Present)</li>
   </ul>
