@@ -199,7 +199,7 @@ h4 {
         <p class="title-date">The Hong Kong Polytechnic University, 05/2026-Present</p>
         <div class="interests">
             <span class="interests-label">Research Interests:</span> 
-            Uncertainty quantification and its applications in power systems.
+            Artificial intelligence and its applications in power systems.
         </div>
     </div>
 </div>
