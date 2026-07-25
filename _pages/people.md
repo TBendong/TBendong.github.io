@@ -207,7 +207,7 @@ h4 {
         </div>
     </div>
 
-
+<div class="member-container">
     <div class="member-info">
         <p class="name">Yanyang Lin</p>
         <p class="title-date">South China University of Technology, 12/2025-Present</p>
