@@ -94,7 +94,7 @@ h4 {
 <div class="member-container">
     <img src="{{ '/assets/img/xinghao.jpg' | relative_url }}" alt="Xinghao" class="member-photo">
     <div class="member-info">
-        <p class="name">Tao Xue</p>
+        <p class="name">Xinghao Wang</p>
         <p class="title-date">Postdoc, 07/2026–Present</p>
         <p class="edu">Ph.D.,  Sustainable Energy and Environment, The Hong Kong University of Science and Technology (Guangzhou), 2026</p>
         <div class="interests">
