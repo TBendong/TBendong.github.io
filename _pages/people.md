@@ -92,11 +92,11 @@ h4 {
 <h4>Postdoctoral Fellows</h4>
 
 <div class="member-container">
-    <img src="{{ '/assets/img/tao_xue.jpg' | relative_url }}" alt="Tao Xue" class="member-photo">
+    <img src="{{ '/assets/img/xinghao.jpg' | relative_url }}" alt="Xinghao" class="member-photo">
     <div class="member-info">
         <p class="name">Tao Xue</p>
-        <p class="title-date">Postdoc, 12/2025–Present</p>
-        <p class="edu">Ph.D., Electrical Engineering, The Hong Kong Polytechnic University, 2024</p>
+        <p class="title-date">Postdoc, 07/2026–Present</p>
+        <p class="edu">Ph.D.,  Sustainable Energy and Environment, The Hong Kong University of Science and Technology (Guangzhou), 2026</p>
         <div class="interests">
             <span class="interests-label">Research Interests:</span> 
             Inverter-penetrated power system stability analysis and control.
@@ -145,28 +145,16 @@ h4 {
 </div>
 
 
-<div class="member-container">
-    <img src="{{ '/assets/img/jiawei.jpg' | relative_url }}" alt="jiawei" class="member-photo">
-    <div class="member-info">
-        <p class="name">Jiawei Zhou</p>
-        <p class="title-date">Visiting Ph.D. Student, 04/2026-Present</p>
-        <p class="edu">M.S. in Control Science and Engineering, North China Electric Power University, 2024
-</p>
-        <div class="interests">
-            <span class="interests-label">Research Interests:</span> 
-            Uncertainty modeling and optimal control for renewable energy power plants.
-        </div>
-    </div>
-</div>
+
 
 <h4>Undergraduate Students</h4>
 <div class="member-container">
     <div class="member-info">
-        <p class="name">Yanyang Lin</p>
-        <p class="title-date">South China University of Technology, 12/2025-Present</p>
+        <p class="name">Yuyuan Dong</p>
+        <p class="title-date">The Hong Kong Polytechnic University, 06/2026-Present</p>
         <div class="interests">
             <span class="interests-label">Research Interests:</span> 
-            Dynamic modeling for renewable energies.
+            Dynamic modeling for inverter-penetrated power systems. (<span style="color:red;">STEM Internship Scheme Summer 2026 of PolyU</span>)
         </div>
     </div>
 </div>
@@ -200,6 +188,44 @@ h4 {
         <div class="interests">
             <span class="interests-label">Research Interests:</span> 
             Artificial intelligence and its applications in power systems.
+        </div>
+    </div>
+</div>
+
+<h4>Alumni</h4>
+
+<div class="member-container">
+
+    <div class="member-info">
+        <p class="name">Jiawei Zhou</p>
+        <p class="title-date">Visiting Ph.D. Student, 04/2026-07/2026</p>
+        <p class="edu">M.S. in Control Science and Engineering, North China Electric Power University, 2024
+</p>
+        <div class="interests">
+            <span class="interests-label">Research Interests:</span> 
+            Uncertainty modeling and optimal control for renewable energy power plants. (<span style="color:red;">One transaction paper is submitted during visiting</span>)
+        </div>
+    </div>
+
+
+    <div class="member-info">
+        <p class="name">Yanyang Lin</p>
+        <p class="title-date">South China University of Technology, 12/2025-Present</p>
+        <div class="interests">
+            <span class="interests-label">Undergraduate Theses:</span> 
+            Dynamic Modeling Framework for Heterogeneous Virtual Power Plants Toward Power System Stability Analysis ((<span style="color:red;">Best Undergraduate Theses, Supervised by Dr. Tan</span>))
+        </div>
+    </div>
+</div>
+
+<div class="member-container">
+    <div class="member-info">
+        <p class="name">Tao Xue</p>
+        <p class="title-date">Postdoc, 12/2025–06/2026</p>
+        <p class="edu">Ph.D., Electrical Engineering, The Hong Kong Polytechnic University, 2024</p>
+        <div class="interests">
+            <span class="interests-label">Research Interests:</span> 
+            Inverter-penetrated power system stability analysis and control.
         </div>
     </div>
 </div>
