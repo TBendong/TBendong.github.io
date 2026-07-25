@@ -212,7 +212,7 @@ h4 {
         <p class="title-date">South China University of Technology, 12/2025-Present</p>
         <div class="interests">
             <span class="interests-label">Undergraduate Theses:</span> 
-            Dynamic Modeling Framework for Heterogeneous Virtual Power Plants Toward Power System Stability Analysis ((<span style="color:red;">Best Undergraduate Theses, Supervised by Dr. Tan</span>))
+            Dynamic Modeling Framework for Heterogeneous Virtual Power Plants Toward Power System Stability Analysis (<span style="color:red;">Best Undergraduate Theses, Supervised by Dr. Tan</span>)
         </div>
     </div>
 </div>
