@@ -201,7 +201,7 @@ h4 {
         <p class="edu">M.S. in Control Science and Engineering, North China Electric Power University, 2024</p>
         <div class="interests">
             <span class="interests-label">Research Interests:</span> 
-            Uncertainty modeling and optimal control for renewable energy power plants. (<span style="color:red;">One transaction paper is submitted during visiting</span>)
+            Uncertainty modeling and optimal control for renewable energy power plants. (<span style="color:red;">One transaction paper is prepared during visiting</span>)
         </div>
     </div>
 </div>
@@ -209,7 +209,7 @@ h4 {
 <div class="member-container">
     <div class="member-info">
         <p class="name">Yanyang Lin</p>
-        <p class="title-date">South China University of Technology, 12/2025-Present</p>
+        <p class="title-date">South China University of Technology, 12/2025-06/2026</p>
         <div class="interests">
             <span class="interests-label">Undergraduate Theses:</span> 
             Dynamic Modeling Framework for Heterogeneous Virtual Power Plants Toward Power System Stability Analysis (<span style="color:red;">Best Undergraduate Theses, Supervised by Dr. Tan</span>)
