@@ -81,11 +81,12 @@ For a complete list of publications, please refer to
 <!-- -------------------- In-Progress Papers -------------------- -->
 
 <div class="journal-publications publications">
+    <p style="color: red;"><sup>*</sup> Corresponding author</p>
     <h4>In-Progress Papers</h4>
     <li>
-        Mohan Lin, <span class="author-highlight">Bendong Tan</span>, Pingliang Zeng, Yingqi Liang, Jiyu Huang, Jian Xu, and Chi-Yung Chung, 
-        "Probabilistic transient stability assessment for renewable-integrated power system with correlated parametric P-Box uncertainties", 
-        <span class="journal-name">IEEE Transactions on Power Systems</span>, 2026. (Under review)
+        Mohan Lin, <span class="author-highlight">Bendong Tan<sup>*</sup></span>, Pingliang Zeng, Yingqi Liang, Jiyu Huang, Jian Xu, and Chi-Yung Chung, 
+"Probabilistic transient stability assessment for renewable-integrated power system with correlated parametric P-Box uncertainties", 
+<span class="journal-name">IEEE Transactions on Smart Grid</span>, 2026. (Under review)
     </li>
     <li>
         Xue Hu, Qin Wang, <span class="author-highlight">Bendong Tan</span>, and Ziqing Zhu, 
