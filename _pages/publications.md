@@ -83,6 +83,11 @@ For a complete list of publications, please refer to
 <div class="journal-publications publications">
     <h4>In-Progress Papers</h4>
     <li>
+        Mohan Lin, <span class="author-highlight">Bendong Tan</span>, Pingliang Zeng, Yingqi Liang, Jiyu Huang, Jian Xu, and Chi-Yung Chung, 
+        "Probabilistic Transient Stability Assessment for Renewable-Integrated Power System with Correlated Parametric P-Box Uncertainties", 
+        <span class="journal-name">IEEE Transactions on Power Systems</span>, 2026. (Under review)
+    </li>
+    <li>
         Xue Hu, Qin Wang, <span class="author-highlight">Bendong Tan</span>, and Ziqing Zhu, 
         "A sensitivity-driven forgetting recursive least squares method for adaptive inertia and damping estimation of inverter-based resources", 
         <span class="journal-name">IEEE Transactions on Power Systems</span>, 2026. (Under review)
