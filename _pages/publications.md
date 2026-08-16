@@ -86,7 +86,7 @@ For a complete list of publications, please refer to
     <li>
         Mohan Lin, <span class="author-highlight">Bendong Tan<sup>*</sup></span>, Pingliang Zeng, Yingqi Liang, Jiyu Huang, Jian Xu, and Chi-Yung Chung, 
 "Probabilistic transient stability assessment for renewable-integrated power system with correlated parametric P-Box uncertainties", 
-<span class="journal-name">IEEE Transactions on Smart Grid</span>, 2026. (Under review)
+<span class="journal-name">IEEE Transactions on Sustainable Energy</span>, 2026. (Under review)
     </li>
     <li>
         Xue Hu, Qin Wang, <span class="author-highlight">Bendong Tan</span>, and Ziqing Zhu, 
