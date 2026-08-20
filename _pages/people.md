@@ -139,7 +139,7 @@ h4 {
         <p class="edu">B.S., Electrical Engineering and Automation, Hangzhou Dianzi University, 2022</p>
         <div class="interests">
             <span class="interests-label">Research Interests:</span> 
-            Uncertainty quantification and optimal operation in power system.
+            Uncertainty quantification and optimal operation in power system. (<span style="color:red;">One transaction paper is submitted during visiting</span>)
         </div>
     </div>
 </div>
@@ -201,7 +201,7 @@ h4 {
         <p class="edu">M.S. in Control Science and Engineering, North China Electric Power University, 2024</p>
         <div class="interests">
             <span class="interests-label">Research Interests:</span> 
-            Uncertainty modeling and optimal control for renewable energy power plants. (<span style="color:red;">One transaction paper is prepared during visiting</span>)
+            Uncertainty modeling and optimal control for renewable energy power plants. (<span style="color:red;">One transaction paper is finished during visiting</span>)
         </div>
     </div>
 </div>
