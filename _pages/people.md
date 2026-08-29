@@ -201,7 +201,7 @@ h4 {
         <p class="edu">M.S. in Control Science and Engineering, North China Electric Power University, 2024</p>
         <div class="interests">
             <span class="interests-label">Research Interests:</span> 
-            Uncertainty modeling and optimal control for renewable energy power plants. (<span style="color:red;">One transaction paper is finished during visiting</span>)
+            Uncertainty modeling and optimal control for renewable energy power plants. (<span style="color:red;">One transaction paper is completed during visiting</span>)
         </div>
     </div>
 </div>
