@@ -84,6 +84,11 @@ For a complete list of publications, please refer to
     <p style="color: red;"><sup>*</sup> Corresponding author</p>
     <h4>In-Progress Papers</h4>
     <li>
+        Jiawei Zhou, <span class="author-highlight">Bendong Tan<sup>*</sup></span>, Zhongwei Lin<sup>*, and Chi-Yung Chung, 
+"Online ensemble Gaussian process-based stochastic MPC for power system frequency regulation with thermal–PV hybrid plants", 
+<span class="journal-name">IEEE Transactions on Sustainable Energy</span>, 2026. (Under review)
+    </li>
+    <li>
         Mohan Lin, <span class="author-highlight">Bendong Tan<sup>*</sup></span>, Pingliang Zeng, Yingqi Liang, Jiyu Huang, Jian Xu, and Chi-Yung Chung, 
 "Probabilistic transient stability assessment for renewable-integrated power system with correlated parametric P-Box uncertainties", 
 <span class="journal-name">IEEE Transactions on Sustainable Energy</span>, 2026. (Under review)
