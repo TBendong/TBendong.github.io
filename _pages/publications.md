@@ -95,6 +95,11 @@ For a complete list of publications, please refer to
     </li>
     <li>
         Xue Hu, Qin Wang, <span class="author-highlight">Bendong Tan</span>, and Ziqing Zhu, 
+        "A novel dual-path Fourier neural operator-based method for dynamic modeling of inverter-based resources", 
+        <span class="journal-name">IEEE Transactions on Smart Grid</span>, 2026. (Under review)
+    </li>
+    <li>
+        Xue Hu, Qin Wang, <span class="author-highlight">Bendong Tan</span>, and Ziqing Zhu, 
         "A sensitivity-driven forgetting recursive least squares method for adaptive inertia and damping estimation of inverter-based resources", 
         <span class="journal-name">IEEE Transactions on Power Systems</span>, 2026. (Under review)
     </li>
