@@ -99,6 +99,10 @@ My long-term vision is to advance power system resilience against uncertainties.
   <span class="content">Our paper "Nodal frequency constrained virtual inertia and damping dispatch of IBR-penetrated power systems" has been accepted to IEEE Transactions on Power Systems.</span>
 </div>
 <div class="timeline-entry">
+  <span class="date">2026-08-25</span>
+  <span class="content">Welcome Xinghao, Zhiyong and Bohui to join our group! </span>
+</div>
+<div class="timeline-entry">
   <span class="date">2026-05-18</span>
   <span class="content">Appointed as the managing editor for International Journal of Electrical Power & Energy Systems.</span>
 </div>
