@@ -109,11 +109,6 @@ For a complete list of publications, please refer to
         <span class="journal-name">IEEE Transactions on Power Systems</span>, 2026. (Under review)
     </li>
     <li>
-        Caoyang Cheng, <span class="author-highlight">Bendong Tan</span>, and Junbo Zhao, 
-        "Nodal frequency security-constrained optimal power system virtual inertia and damping dispatch", 
-        <span class="journal-name">IEEE Transactions on Power Systems</span>, 2026. (Under review)
-    </li>
-    <li>
         Tong Su, Junbo Zhao, <span class="author-highlight">Bendong Tan</span>, Daniel Adrian Maldonado, Xiaodong Liu, and Xiaochuan Luo, 
         "Analytic input convex neural networks enabled transient stability predictive control with wind generators", 
         <span class="journal-name">Applied Energy</span>, 2026. (Under review)
@@ -125,6 +120,11 @@ For a complete list of publications, please refer to
 <div class="journal-publications publications">
     
     <h4>Journal Papers</h4>
+    <li>
+        Caoyang Cheng, <span class="author-highlight">Bendong Tan</span>, and Junbo Zhao, 
+        "Nodal frequency security-constrained optimal power system virtual inertia and damping dispatch", 
+        <span class="journal-name">IEEE Transactions on Power Systems</span>, 2026. 
+    </li>
     <li>
         <span class="author-highlight">Bendong Tan</span>, Ketian Ye, Junbo Zhao, Mingguo Hong, Slava Maslennikov, and Xiaochuan Luo, 
         "<a href="https://doi.org/10.1038/s41467-025-68241-y">Computationally efficient tail distribution-aware large-scale power system overloading risk assessment</a>",
