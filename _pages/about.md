@@ -96,7 +96,7 @@ My long-term vision is to advance power system resilience against uncertainties.
 <h4>2026</h4>
 <div class="timeline-entry">
   <span class="date">2026-10-04</span>
-  <span class="content">Our paper "Nodal frequency constrained virtual inertia and damping dispatch of IBR-penetrated power systems" has been accepted to IEEE Transactions on Power Systems.</span>
+  <span class="content">Our paper "Nodal frequency security-constrained optimal power system virtual inertia and damping dispatch" has been accepted to IEEE Transactions on Power Systems.</span>
 </div>
 <div class="timeline-entry">
   <span class="date">2026-08-25</span>
